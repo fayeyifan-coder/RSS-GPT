@@ -102,3 +102,14 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 0
 Finish: 2026-09-09 12:14:05.392461
+------------------------------------------------------
+Started: 2026-09-09 14:12:32.216632
+Existing_entries: 41
+Fetching from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Append: [On the strange, literary video games of Inpatient Press.](https://lithub.com/on-the-strange-literary-video-games-of-inpatient-press/)
+Fetching from https://www.wordswithoutborders.org/rss/
+Append: [The Creole Continuum of the Greater Caribbean](https://wordswithoutborders.org/read/article/2026-09/the-creole-continuum-of-the-greater-caribbean-maglia-perrotta/)
+Fetching from https://www.nybooks.com/feed/
+append_entries: 2
+Finish: 2026-09-09 14:12:35.161981

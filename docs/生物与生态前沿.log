@@ -184,3 +184,13 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 0
 Finish: 2026-09-09 12:13:59.445786
+------------------------------------------------------
+Started: 2026-09-09 14:12:29.609691
+Existing_entries: 121
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Append: [Predicting taxon-specific benthic cyanobacterial mat cover and anatoxin concentrations in northern California rivers](https://www.biorxiv.org/content/10.64898/2026.09.04.748937v1?rss=1)
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 1
+Finish: 2026-09-09 14:12:30.223715
