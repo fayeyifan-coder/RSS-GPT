@@ -147,3 +147,12 @@ Append: [Bumble bees balance their diets with surprising precision](https://www.
 Append: [Most of Earth’s species came from explosive bursts of evolution](https://www.sciencedaily.com/releases/2025/08/250822073805.htm)
 append_entries: 120
 Finish: 2026-09-09 10:06:47.846607
+------------------------------------------------------
+Started: 2026-09-09 10:19:55.023130
+Existing_entries: 120
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 0
+Finish: 2026-09-09 10:19:57.036060

@@ -63,3 +63,12 @@ Append: [Women in Translation Month 2026: WWB Staff Picks](https://wordswithoutb
 Fetching from https://www.nybooks.com/feed/
 append_entries: 40
 Finish: 2026-09-09 10:07:59.657570
+------------------------------------------------------
+Started: 2026-09-09 10:20:10.953487
+Existing_entries: 40
+Fetching from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 0
+Finish: 2026-09-09 10:20:14.700132

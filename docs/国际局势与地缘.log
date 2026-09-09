@@ -64,3 +64,13 @@ Append: [Whipsaw Trade Policy Is Depressing Foreign Direct Investment](https://w
 Append: [Why the Far Right’s War on Modern Architecture Matters](https://www.project-syndicate.org/commentary/understanding-the-far-right-afd-war-on-bauhaus-architecture-by-jan-werner-mueller-2026-09)
 append_entries: 40
 Finish: 2026-09-09 10:07:34.264468
+------------------------------------------------------
+Started: 2026-09-09 10:20:09.496649
+Existing_entries: 40
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 0
+Finish: 2026-09-09 10:20:10.892726
