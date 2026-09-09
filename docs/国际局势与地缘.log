@@ -161,3 +161,13 @@ Append: [How 9/11 Fractured the Global Order](https://www.project-syndicate.org/
 Append: [China’s Permanent Manufacturing Revolution](https://www.project-syndicate.org/commentary/china-manufacturing-prowess-will-drive-down-industrial-employment-everywhere-by-adair-turner-2026-09)
 append_entries: 2
 Finish: 2026-09-09 18:14:49.140024
+------------------------------------------------------
+Started: 2026-09-09 20:12:11.504174
+Existing_entries: 59
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 0
+Finish: 2026-09-09 20:12:12.473594

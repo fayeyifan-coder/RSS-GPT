@@ -133,3 +133,14 @@ Fetch error: 403
 Fetch failed from https://www.nybooks.com/feed/
 append_entries: 0
 error when rendering xml, skip docs/文学创作与全球新书
+------------------------------------------------------
+Started: 2026-09-09 20:12:12.547575
+Existing_entries: 43
+Fetching from https://www.douban.com/feed/review/book
+Append: [后劲太大?读完《我的北大荒》，读懂所有回不去的青春 (评论: 我的北大荒)](https://book.douban.com/review/17809589/)
+Append: [这本奥斯曼帝国兴衰史，出版40年依旧是经典 (评论: 奥斯曼帝国六百年)](https://book.douban.com/review/17807438/)
+Fetching from https://lithub.com/feed/
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 2
+Finish: 2026-09-09 20:12:15.082455
