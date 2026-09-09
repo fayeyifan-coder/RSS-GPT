@@ -30,10 +30,13 @@ jobs:
           python main.py
           ls -al docs/
         env:
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
           U_NAME: ${{ secrets.U_NAME }}
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_SERVER: ${{ secrets.MAIL_SERVER }}
 
       - name: Commit and push
         run: |
