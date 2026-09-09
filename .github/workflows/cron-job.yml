@@ -1,65 +1,141 @@
-name: cron_job
+name: RSS GPT Auto Build
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    # 每2小时运行一次
+    - cron: "0 */2 * * *"
+
+  # 手动运行按钮
   workflow_dispatch:
+
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+
+      # 拉取代码
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+
+      # Python环境
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
+
+      # 安装依赖
       - name: Install dependencies
-        run: |
+        run:
+
           python -m pip install --upgrade pip
+
           pip install -r requirements.txt
 
-      # 临时检查配置是否正确
-      - name: Check DeepSeek config
+
+
+      # 测试 DeepSeek API
+      - name: Test DeepSeek API
         run: |
-          echo "BASE_URL=$OPENAI_BASE_URL"
-          echo "MODEL=$CUSTOM_MODEL"
-          echo "KEY_LENGTH=${#OPENAI_API_KEY}"
+
+          python - <<EOF
+
+          from openai import OpenAI
+          import os
+
+
+          client = OpenAI(
+              api_key=os.environ["OPENAI_API_KEY"],
+              base_url=os.environ["OPENAI_BASE_URL"]
+          )
+
+
+          response = client.chat.completions.create(
+              model=os.environ["CUSTOM_MODEL"],
+              messages=[
+                  {
+                      "role":"user",
+                      "content":"回复：DeepSeek连接成功"
+                  }
+              ]
+          )
+
+
+          print(response.choices[0].message.content)
+
+          EOF
+
         env:
+
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
-          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
+
+
+      # 生成RSS
       - name: Run RSS generation
         run: |
+
           python main.py
+
+          echo "==== docs directory ===="
+
           ls -al docs/
+
+
         env:
+
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
           CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
           U_NAME: ${{ secrets.U_NAME }}
+
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+
           MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+
           MAIL_SERVER: ${{ secrets.MAIL_SERVER }}
 
+
+
+      # 保存生成结果
       - name: Commit and push
+
         run: |
+
           git config --local user.name "github-actions[bot]"
+
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+
+          git pull --rebase
+
 
           git add docs/ README*
 
+
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
+
+              echo "No changes."
+
+              exit 0
+
           fi
 
-          git commit -m "Auto Build at $(date '+%Y-%m-%d %H:%M')"
+
+          git commit -m "RSS Update $(date '+%Y-%m-%d %H:%M')"
+
+
           git push
