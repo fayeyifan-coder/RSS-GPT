@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Birds News -- ScienceDaily</title>
+<link>https://www.sciencedaily.com/news/plants_animals/birds/</link>
+
+<item>
+<title>Dissociable control of persistence and adaptive updating in reward-guided behavior</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.04.749383v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.04.749383v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Adaptive behavior requires a balance between persistence and flexibility, whereas excessive persistence and impaired updating characterize several neuropsychiatric disorders. Touchscreen-based cognitive tasks provide a reverse-translational framework because closely related visual-discrimination and reversal paradigms are used to phenotype cognitive flexibility in rodents and humans. Here, we examined the role of the melanin-concentrating hormone (MCH) system using appetitive touchscreen extinction and reversal tasks. Blocking MCHR1 had little effect while an established reward contingency remained valid, but facilitated behavioral adaptation when reinforcement was withdrawn or reversed. These findings suggest that MCHR1 signaling promotes persistence of previously reinforced behavior. We then chemogenetically activated lateral hypothalamic MCH neurons. Activation produced no detectable change in extinction, but altered learning during reversal. Notably, behavioral differences were also evident during a subsequent reversal performed without chemogenetic activation: mice previously exposed to MCH-neuron activation learned the new contingency more rapidly, yet showed greater persistence after individual errors. Thus, MCHR1 blockade and MCH-neuron activation affect distinct components of behavioral updating rather than producing simple opposite effects. Together, these findings identify dissociable MCH-system contributions to reward-contingency updating in a behavioral framework directly relevant to cross-species neuropsychiatric research.
+]]></content:encoded>
+
+<pubDate>2026-09-08</pubDate>
+</item>
+<item>
+<title>Mice use predictive environmental cues to adapt predatory behavior in hunting tasks of variable difficulty</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749200v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749200v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Prey capture has long served as a model of complex, multimodal behavior with ethological relevance. In this context, the ability of laboratory animals to capture fleeing prey has been investigated in terms of the sensory systems and neuroanatomical regions required for successful capture. While the ability to hunt is experience-dependent, prey capture is often assumed to be a reflexive behavior, governed by innate neural circuits and a basic drive to obtain food. Whether hunting performance depends on complex learning and cognitive strategy remains largely untested, in part because it is difficult to systematically manipulate the difficulty of predator-prey interactions. To address this, we varied ambient temperature across thousands of trials in which laboratory mice pursued cold-blooded cockroaches, whose movement speed was directly determined by body temperature. As expected, capture difficulty increased as a function of temperature. To test whether mice rely on external cues to adjust their predatory behavior, we then mismatched the ambient temperature and that of the prey, finding that mice learn to use relevant environmental information to inform their hunting strategy. Our results suggest that animals can extract and apply meaningful information from predictive environmental cues to adapt their learned behavior.
+]]></content:encoded>
+
+<pubDate>2026-09-08</pubDate>
+</item>
+<item>
+<title>EXECUTIVE DYSFUNCTIONS IN THE EAAT3 OVEREXPRESSING MOUSE MODEL OF COMPULSIVE BEHAVIOR</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749220v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749220v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Executive functions are a set of cognitive processes that regulate behavior and adapt responses to changing demands. Impairments in these processes are common in various neuropsychiatric conditions, including obsessive-compulsive disorder. Mice overexpressing the neuronal glutamate transporter EAAT3 in the forebrain (EAAT3glo/CaMKII) exhibit increased compulsive behaviors and synaptic alterations relevant to OCD. However, whether EAAT3 overexpression affects executive functioning across multiple cognitive domains has not been studied. Using operant conditioning and visuospatial learning tasks, we evaluated the performance of EAAT3glo/CaMKII mice across three behavioral domains commonly associated with executive function: cognitive flexibility, working memory, and inhibitory control. EAAT3glo/CaMKII mice showed impaired cognitive flexibility in both operant extinction and reversal learning. EAAT3glo/CaMKII mice also failed to acquire the Trial-unique, delayed nonmatching-to-location task, suggesting impaired working memory, and showed increased impulsivity in the five-choice serial reaction time task, as evidenced by elevated premature responses. Perseverative responses, response accuracy, and attentional performance were unaffected in EAAT3glo/CaMKII mice. Collectively, these findings suggest that EAAT3 overexpression in forebrain neurons is associated with a cognitive profile characterized by difficulties in flexibility and task acquisition, alongside increased impulsivity, while attentional performance and motivational measures remain intact in a model of compulsive behavior.
+]]></content:encoded>
+
+<pubDate>2026-09-08</pubDate>
+</item>
+<item>
+<title>Cheetahs Combine Head Pitch Stabilisation with Predictive Yaw Tracking during High-speed Pursuit</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.748592v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.748592v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Predators pursuing agile prey must coordinate locomotion with rapidly changing visual information, yet how they control head orientation during high-speed terrestrial pursuit remains poorly understood. We reconstructed three-dimensional head, torso, and lure target trajectories from synchronised multi-camera recordings of freely running cheetahs (Acinonyx jubatus) using model-based markerless reconstruction, and propagated reconstruction uncertainty through Monte Carlo analysis. Across 1,373 valid reconstructed pursuit frames, head pitch was more closely aligned with the target than torso pitch, and is tightly stabilised relative to target elevation. Head-on-torso counter-rotation nearly cancelled concurrent torso-pitch rotations, preserving target-relative head pitch despite locomotor oscillations. In yaw, cheetahs predominantly oriented their heads ahead of the target's instantaneous position while maintaining a distinct locomotor heading and continuing to close range. During steady-lateral pursuit, head yaw was best described by a short horizon constant-velocity extrapolation model with a cross-validated median prediction horizon of 45 ms. Together, these findings reveal complementary head orientation strategies during pursuit: robust sagittal stabilisation and predictive lateral tracking keep the head target-referenced while the torso generates a closing trajectory towards intersection.
+]]></content:encoded>
+
+<pubDate>2026-09-08</pubDate>
+</item>
+<item>
+<title>From pose to behavior: SABER integrates identity-resolved multi-animal pose tracking with language-model-based behavioral factor discovery</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.749007v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.749007v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Quantifying social behavior requires accurate assignment of posture and actions to individual animals, which is often hindered by close contact, occlusion, and identity switches. Meanwhile, current behavioral recognition pipelines still lack stable predictive accuracy. Here we developed SABER, a locally deployable framework that couples multianimal pose estimation with identity preserving tracking, interpretable behavioral factor mining, and multiscale temporal behavior prediction from a single overhead video stream. Across spontaneous two mice social interaction, mating, aggression, and four mice recordings, SABER improved pose estimation accuracy and tracking continuity relative to comparator pipelines. Its behavioral factor-mining procedure identified interpretable kinematic, postural, and social descriptors, and temporal integration improved classification of behavioral categories. SABER offers an intuitive, open-source interface to facilitate use. Applied to social defeat stress mice, SABER detected reduced approach behavior and a multivariate behavioral profile that distinguished depression susceptible from control animals. SABER outputs could also be synchronized with miniscope calcium recordings, enabling joint analysis of behavioral states and neuronal population activity. SABER therefore provides an accessible, identity resolved route from single view social interaction video to behavioral phenotyping and brain behavior analysis.
+]]></content:encoded>
+
+<pubDate>2026-09-08</pubDate>
+</item>
+<item>
+<title>Mus musculus mice self-organize existing behaviors into structured bouts as they become expert hunters.</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748903v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748903v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+In the wild, a mouse must flexibly perform multiple computations at once, rapidly navigating, sampling its environment, forming and using memories, and balancing internal needs. Capturing the self-paced, low-repetition, complex nature of decision making in the wild while preserving the experimental control needed to interpret its process remains a challenge. Here we show that lab mice, without food restriction, learn to forage for hidden resources cued by ambiguous sounds in a dynamic environment by spatiotemporally reorganizing their existing behavioral repertoire. Using a novel closed-loop assay, we required mice to sit still to receive informative but hard-to-localize sound cues emanating from one correct location they must find, out of 157 possible locations in a large arena. With experience, mice become efficient hunters. Efficient hunting cannot be explained by an increase in a particular behavioral module, but instead, mice reorganize existing behaviors into clustered bouts of high-quality sampling and site-checking. Looking forward, this work establishes an approach for studying the neural, molecular, and evolutionary basis of naturalistic decision-making in mice.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>How variable and stress-sensitive is sleep expression in lizards?</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.748758v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.748758v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Sleep expression in wild animals is regulated by their ecological context. Yet, how populations of a species differ in their sleep in response to environmental challenges such as urbanization, remains to be fully understood. Robust quantification of sleep in small animals, such as lizards, has so far been methodologically difficult, limiting population-level assessments. Using recently developed miniature loggers, we recorded sleep in 19 wild-caught individuals of the Peninsular rock agama lizard (Psammophilus dorsalis). We compared individuals from urban and rural environments and measured electro-oculogram (EOG)-derived sleep parameters: sleep duration, bout frequency, bout duration, and interval between bouts. We then subjected all individuals to an acute stressor (handling-restraint) and examined changes in sleep expression. We found that this species slept mostly at night, with an average total sleep time of 11h 10min. EOG-derived sleep characteristics did not differ substantially between populations, although daytime sleep bouts were more consolidated (shorter interval between bouts) in urban lizards. Contrary to evidence from mammals, acute restraint stress did not impact sleep, overall or for either population. To complement these measures, we also measured the latency to arousal after exposure to vibration stimuli in a separate set of urban and rural lizards (n = 12 each), and found that urban individuals responded marginally quicker at night compared rural individuals, demonstrating greater vigilance and/or more fragmented sleep. Overall, we show that sleep characteristics of wild animals in a common garden condition can be conserved within a species, with limited context-dependent variation between populations.
+]]></content:encoded>
+
+<pubDate>2026-09-05</pubDate>
+</item>
+<item>
+<title>Consistency and individual variation in common song types of an urban bird: a multi-population comparison over a decade</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.748382v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.748382v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Individual variation in singing behavior is influenced by cultural evolution, environmental constraints, and population dynamics. In closed-ended songbird species, aging may be associated to temporal song variations in individual birds due to vocal apparatus deterioration. However, song variations may also arise as a result of extrinsic factors that induce behavioral changes. In this study, we aimed to examine song-type consistency over 13 years in four populations of the White-eared Ground-sparrow (Melozone leucotis, Aves: Passerellidae) along an urban-rural gradient. We also compared within and between-individual variation to determine potential population-level responses. We used long-term data from singing males to quantify five fine structural characteristics (minimum frequency and maximum frequencies, bandwidth, peak frequency, and song duration) for two most common song types from each population. Song consistency differed between fine-structure characteristics, song types, and populations. Contrary to our expectations, we found that the Highly urbanized population had greater between-individual variance, associated with anthropogenic disturbances such as habitat structure and noise pollution, suggesting non-uniform individual responses. The Medium, Low urbanized, and Rural populations, on the other hand, had higher levels of within-individual variance, associated to individuals' age. Our study brings insight into how both intrinsic and extrinsic factors can influence song consistency and highlights how cultural evolution within a species can diverge across populations experiencing distinct environmental contexts.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Low-frequency sounds elicit escape climb in free-flying Aedes aegypti mosquitos</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.748447v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.748447v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Mosquitoes use their sensitive hearing in a well-described courtship and mating behavior, but their ability to discriminate other stimuli relevant to their survival and reproduction via this sensory channel remains underexplored. Here, we characterize a rapid climb response in free-flying mosquitoes elicited by loud low-frequency sounds (tested at 180Hz and 300Hz) but not by tones of equivalent acoustic loudness reflecting conspecific female (450Hz) and male (700Hz) wingbeat frequencies. Presentation of the same sounds in tethered flight elicited modulation of both wingstroke amplitude and frequency components similar in magnitude to those observed in response to a looming visual stimulus. These tones are spectrally consistent with recorded audio of a dragonfly takeoff, playback of which is sufficient to release the behavior. Taken together, these data are consistent with the hypothesis that mosquitoes use their hearing to detect the acoustic signature of aerial predators such as dragonflies.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Beyond the harem: vocal complexity in a captive gelada (Theropithecus gelada) bachelor group</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.748493v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.748493v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The social complexity hypothesis for communication posits that species with elaborate social systems require more sophisticated vocal communication to navigate social life. Geladas (Theropithecus gelada), who live in complex multilevel societies and form diverse social bonds, are ideal for testing this hypothesis. Males produce species-specific, or derived, calls that reflect social status and function in facilitating male-female bonding. However, although derived call use also occurs in male-male social interactions, their function in male-male communication remains unexamined. In this pilot study we investigate the use of derived calls within a captive all-male bachelor group and test two hypotheses: (1) derived calls signal bachelor dominance status, and (2) derived calls function to maintain male-male social bonds. Despite a limited sample size, our results show that bachelor leaders produce higher proportions of derived calls than bachelor followers, mirroring patterns found in harem groups. Furthermore, bachelor followers were most likely to use derived calls in affiliative and resting contexts, suggesting a role in social bonding. In contrast, bachelor leaders used them more broadly. They additionally produced derived calls during agonism and travel, thereby possibly reflecting their more elaborate leadership duties. These findings provide the first preliminary evidence that derived calls serve functions beyond male-female communication and may be integral to both status signalling and affiliative interactions among bachelor males. Our results on the vocal dynamics in male geladas shed further light on the co-evolution of social and vocal complexity and offer broader implications for the origins of human language.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Integrating learning in movement using step-selection analyses</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.747820v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.747820v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+1. Understanding how animals acquire and use information from the environment is critical for linking movement to population dynamics, species distributions and conservation. Advances in tracking technologies and growing interest in learning processes have opened opportunities to study behaviours such as habitat exploration in translocated animals or ontogeny of migration and dispersal movements. However, accessible statistical methods for studying these behavioural processes are lacking. 2. We present a learning-explicit step-selection analysis (SSA) that integrates movement, habitat selection, and learning into a single evolving process. At the start of the movement trajectory, the animal is assumed to have no knowledge of the landscape, i.e. its internal habitat quality map is initialized to a constant. As the animal moves, this map is updated dynamically: with each step, only the habitat within its perceptual range becomes known and contributes to future decisions. 3. Through simulations, we show that this method separates true habitat preferences from learning effects and reveals when large-scale behaviours, such as attraction to resources or avoidance of risks, emerge as knowledge accumulates. Critically, we demonstrate that ignoring learning, as in traditional SSA, can lead to biased estimators of habitat selection. 4. Finally, we apply our approach to a real-world GPS dataset of naive individuals, consisting of 10 juvenile red kites dispersing in Switzerland. Using leave-one-individual-out cross-validation, we show that learner SSFs consistently outperform traditional SSFs in predicting movement decisions. 5. We conclude by discussing methodological considerations and future directions for integrating learning into movement ecology. By explicitly modelling the formation of memory that integrates both spatial information and habitat quality, our approach advances process-based movement ecology while remaining compatible with standard SSA workflows, offering practical tools for both theoretical research and applied wildlife management.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Male RORγt-transgenic mice exhibit lower body weight and an altered locomotor response to a novel environment</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.31.748441v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.31.748441v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+ROR{gamma}t, encoded by Rorc, is a key transcriptional regulator of T helper 17 (Th17) cell differentiation, and IL-17A signaling has been implicated in neural development and behavior. We examined behavioral phenotypes in male ROR{gamma}t-transgenic mice with T-cell-biased ROR{gamma}t overexpression and their wild-type littermates. Mice were assessed using the resident-intruder paradigm and the light-dark box test, followed by body-weight measurement. ROR{gamma}t-transgenic mice had significantly lower body weight than wild-type mice. No genotype differences were detected in attack latency, attack frequency, light-compartment occupancy, light-dark transitions, or transition latency. In contrast, analysis of locomotor activity in 1-min bins revealed a significant genotype x time interaction. Transgenic mice showed nominally reduced locomotor activity during the first minute of the light-dark box test, although this single-bin comparison did not remain significant after correction for multiple comparisons. These findings indicate that T-cell-biased ROR{gamma}t overexpression is associated with altered temporal dynamics of locomotor activity in a novel environment rather than a generalized anxiety-like or aggression-related phenotype.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Neural correlates of place learning in the cane toad, Rhinella marina</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.31.748259v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.31.748259v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Learning locations by integrating external reference points, or place learning, is a form of navigation strongly associated with the mammalian hippocampus and its homologs in other vertebrates. In contrast, cue learning relies on individual environmental features and can occur independently of the hippocampus. Despite growing interest in amphibian spatial cognition and association of spatial functions with the medial pallium brain region, how amphibian brains support different spatial learning strategies remains unknown. We designed a four-arm maze to test place, cue, and turn-direction learning in the cane toad (Rhinella marina), and paired maze trials with visualization of brain activity through pS6 immunohistochemistry. Toads improved performance over time only in the place task but exhibited consistently faster exit times in the cue task. Place task toads displayed elevated brain activity only in the dorsal and lateral palliums. These observations demonstrate that amphibians can acquire spatial navigation strategies through distinct behavioral paradigms and reveal the diverse pallial contributions underlying vertebrate spatial cognition.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Who rests with whom? Sex composition and group demography shape resting associations in free-ranging dogs</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.28.745223v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.28.745223v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Free-ranging dogs frequently rest near conspecifics, but the demographic factors structuring their resting associations remain poorly understood. We quantified dyadic resting associations in 26 free-ranging dog groups in West Bengal, India, observed between 2019 and 2023. Association strength was estimated from scan based resting co-occurrences using the Half-Weight Index. We tested whether dyadic association strength varied with dyad sex composition, dyad life stage composition, group size, and group sex ratio using a generalised additive model for location, scale and shape that accounted for group identity and repeated occurrence of individuals across dyads. Male-male dyads had lower association strengths than female-female dyads, whereas mixed-sex dyads did not differ from female-female dyads. Association strength decreased with increasing group size but increased as the male-to-female ratio within the group increased, while life-stage composition had no detectable effect. Individual level network metrics, including strength, reach, clustering coefficient, affinity, and eigenvector centrality, did not vary with sex or season. Mixed-sex pairs were also frequently represented among the strongest dyadic associations within groups. These findings indicate that resting associations in free-ranging dogs vary with dyad sex composition and group demography. Further opportunity-controlled analyses are required to determine whether the prominence of mixed-sex dyads reflects preferential association rather than group composition alone.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Exploring rhythmic and melodic preferences in budgerigars: Individual and possible sex-related variation</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.30.748169v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.30.748169v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Budgerigars (Melopsittacus undulatus) are vocal-learning birds with well-developed auditory abilities, but how they behaviorally evaluate melodic and rhythmic structure in sound sequences remains unclear. We examined whether budgerigars show preferences for these acoustic features and whether such preferences differ between the sexes. Three male and three female budgerigars were presented with four 8-s sound sequences in a preference apparatus: Simple (no pitch or temporal variation), Melody (pitch variation only), Rhythm (temporal variation only), and Complex (both pitch and temporal variation). Preference was quantified as the time spent in the area associated with each stimulus. No statistically significant differences among the four stimuli were detected within individuals. However, effect-size estimates indicated that two females spent more time with sequences containing rhythmic structure, whereas males showed no consistent preference related to either melodic or rhythmic components. Multidimensional scaling further suggested greater separation among stimulus conditions in females than in males. Consistent with this pattern, condition differentiation indices were higher in all three females than in all three males, although the sex difference was not statistically significant. These results suggest a possible sex-related difference in how budgerigars behaviorally weight temporal structure, with females showing greater differentiation among auditory sequence types under the present testing conditions.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Autism-risk gene mutations convergently disrupt sexually dimorphic oxytocin circuits to lower social engagement</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.27.747579v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.27.747579v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Autism arises from diverse genetic risk factors, yet how they converge to produce core symptoms and contribute to its sex bias remains unestablished. Oxytocin increases sociability in multiple murine autism models, presenting an opportunity to identify a potentially shared mechanistic basis across etiologies. Here we show that spontaneous social investigation triggers overlapping patterns of aberrant functional connectivity across social and sensory brain regions in two knockout (KO) mouse models, which are rescued by oxytocin. We also report that, during social investigation, wildtype mice exhibit sexually dimorphic oxytocin release and neuronal activity dynamics in the nucleus accumbens and the amygdala. These patterns are disrupted in both KO models, but can be restored by sex- and circuit-specific stimulation of endogenous oxytocin release, accompanied by enhanced social engagement. These findings identify impaired oxytocin recruitment of sexually dimorphic social circuits as a convergent consequence of autism-risk gene mutations that may underlie low sociability.
+]]></content:encoded>
+
+<pubDate>2026-09-01</pubDate>
+</item>
+<item>
+<title>Rapid phase resetting of Aedes aegypti circadian rhythms by transient alterations in light exposure</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.27.747523v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.27.747523v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Circadian clocks enable mosquitoes to anticipate recurring environmental variations and coordinate behaviors critical for survival and disease transmission, such as locomotion, reproduction, host-seeking, and blood-feeding, with times of day when performance is maximal. In Aedes aegypti, locomotor activity follows a robust diurnal rhythm shaped by endogenous circadian clocks and environmental cues, among which light has been shown to be the primary source of temporal information. While early studies established the role of light in regulating locomotor activity, behavior, oviposition and pupation, it remains unclear which features of a light cycle drive changes in circadian rhythms. This question is increasingly relevant as Ae. aegypti is frequently exposed to artificial and dynamic lighting conditions in urban environments. Here, we investigated how transient changes in light schedules influence circadian rhythms in locomotor activity by systematically manipulating the timing, duration, and direction of light exposure. Using a high-throughput assay, we tested over 1900 individuals, including wild-type and timeless knockout mutants, and showed that a single day of al tered lighting is sufficient to induce robust phase shifts, with no evidence of masking effects. A 6-hour light pulse was sufficient to re-entrain mosquitoes regardless of the timing of the pulse, and phase shifts were primarily driven by the offset time of the light pulse, indicating that light-offset acts as a major zeitgeber. Together, these findings challenge conventional assumptions about the timescale of circadian synchronization and highlight the remarkable plasticity of mosquito behavior in response to anthropogenic light. Eventually, these effects could explain the rapid adaptation of the species to urban environments and have potential consequences for disease transmission dynamics.
+]]></content:encoded>
+
+<pubDate>2026-09-01</pubDate>
+</item>
+<item>
+<title>Detection of Frustration-related Operant Behavior in Rats via Machine Learning Methods</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.26.747319v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.26.747319v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Despite its strong link to neuropsychiatric conditions, frustration remains critically understudied in humans and animals alike. Therefore, there is an urgent need to develop tools to understand and therapeutically target frustration-related functions. Interestingly, humans and rats respond similarly during frustrative nonreward by increasing barpress durations. We previously validated barpress duration in rat operant tasks as a reliable measure of frustration-related behavior; however, it is wellknown that in addition to duration of responding, emotional states such as frustration alter other aspects of responding such as force of pressing. One-dimensional, static measures such as maximum force could miss rich information contained within operant data. Thus, the objective of this study is to apply machine learning (ML) to force/time profiles to discriminate frustration-related barpresses from non-frustration-related barpresses. Results showed an AUROC for FR1 (i.e., non-frustrated) vs. extinction (frustrated condition) for individual barpresses of 0.65 that improved to 0.84 with a chunk size of 10. The model generalized well to progressive ratio responding, a different kind of frustration procedure. We conclude that force/time profiling does provide utility beyond one dimensional measures of duration or force separately, meaning that we can indeed infer the internal state of frustration from behavior using ML techniques. Importantly, this project will also serve as proof-of-concept for applying ML to predict other internal states from barpress data.
+]]></content:encoded>
+
+<pubDate>2026-09-01</pubDate>
+</item>
+<item>
+<title>Copulation calls indicate fertility but do not reflect female mate competition in wild Guinea baboons</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.26.747217v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.26.747217v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Across different modalities, signals play a core role in attracting mates and influencing mating success. In several non-human primate species, females produce calls during mating that are thought to promote male competition over receptive females. The extent to which social system characteristics modulate the function of copulation calls remains less clear. We studied copulation calls in wild Guinea baboons (Papio papio), who live in a multilevel society structured around units in which females associate and mate almost exclusively with a single male. We hypothesised that females use copulation calls as an indirect form of mate competition, with competition increasing in larger units. In addition, we hypothesised that females are more likely to mate again after calling. We analysed 6116 copulations between 2014 and 2025, involving 99 reproductively active females and 78 subadult and adult males. Females produced copulation calls in 72.7% of copulations, with large inter-individual variation. Neither unit size nor its interaction with the female's swelling size or the presence of simultaneously receptive females affected the probability of calling. A survival analysis with a subset of the data (2353 copulations) revealed no effect of calling on the latency to the next mating. Our results render the hypothesis that female Guinea baboons use calls in indirect mate competition unlikely. Yet, the probability of calling varied with sexual swelling size, suggesting that calls signal female fertility. Possibly, Guinea baboon copulation calls represent an evolutionary remnant, no longer under selective pressure, and can be considered index signals of female fertility.
+]]></content:encoded>
+
+<pubDate>2026-09-01</pubDate>
+</item>
+<item>
+<title>Higher rewards lead to more accurate flower detection and increased contrast sensitivity in the bumblebee Bombus terrestris</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.26.747241v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.26.747241v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+In vertebrates, top-down visual attention is a cognitive process where internal goals modulate the tuning of peripheral sensory systems. This leads to increased perceived contrast to both goal-relevant objects and areas of the visual field that are attended. Such a system would also be beneficial to bees, enabling them to detect and recognise the most profitable flowers in their environment. We tested whether bumblebees possess a top-down attentional system resembling that seen in vertebrates. We trained two groups of bees to collect rewards under high contrast targets. To potentially induce a difference in attention while searching for the targets, one group received a higher concentration of sucrose rewards compared to the other. During tests, the targets were presented with a series of lower contrasts to measure the contrast sensitivity curves of the bees induced by the different learnt reward levels. We predicted a stronger effect of any attention-like process on contrast sensitivity in the high reward group. We also repeated this experiment with the neonicotinoid pesticide imidacloprid dissolved in the sucrose rewards to test whether this affects bee attention. Across all test contrasts, higher rewards significantly increased bee accuracy when locating targets, lowered contrast thresholds and reduced the latency to make first choices. Imidacloprid reduced bee accuracy but did not influence first choice latency. These results suggest that learnt floral rewards can influence bee behavioural contrast sensitivity in a manner resembling vertebrate top-down attention and that imidacloprid may modulate this through effects on their nervous system.
+]]></content:encoded>
+
+<pubDate>2026-08-31</pubDate>
+</item>
+<item>
+<title>Melodic Modulation of Pain and Cognition: Neurobehavioral Effects of Indian Instrumental Music in Mice</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.27.742492v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.27.742492v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Abstract Introduction: Despite advances in pain management, effective analgesics in pain situations remain elusive. Opioids and non-opioids carry risks of neurotoxic and psychedelic effects with adverse physiological outcomes. Indian instrumental music (IIM) mitigates subacute pain by rewiring neurochemical synergy as an evidence-based, non-invasive, non-pharmacological system to mitigate pain. Objective: Investigating therapeutic efficacy of IIM in mitigating subacute pain by analyzing behavioral, peripheral, and central neurochemical re-tuning. Methods: Mice were divided into Control, Pain, Pain+Music, and Music groups. Pre-treatment behavioral parameters were compared with those observed after 14 days IIM exposure. Evaluations included nociceptive latencies (hot-plate/tail-flick), locomotion (Open Field Test), and anxiety (Elevated Plus Maze). Molecular analyses quantified peripheral neuropeptides (SP, NK-1R, CGRP), serum cortisol, spinal neurotrophic factor, neurotransmitters (glutamate, GABA, dopamine (DA), 5-HT), BDNF, and mRNA expression of BDNF, Ntrk1R/2R, and D1R in cortex, thalamus, hippocampus and hypothalamus. All procedures adhered to IAEC guidelines. Results: IIM yielded 3.9-4.4-fold antinociceptive improvements, 3.3-fold locomotor restoration, and 3.6-4.9-fold anxiolysis. 14 days IIM exposure reduced peripheral nociceptive-neuropeptides 1.3-2.0-fold (SP, NK-1R, CGRP), serum cortisol 1.3-fold, and spinal glutamate, serotonin levels 1.5- and 1.3-fold. An enhanced expression of spinal GABA, DA about 1.5-fold, and BDNF by 1.3-fold was observed after music listening. Brain-region-specific differential mRNA-expression at cortex, thalamus, hypothalamus and hippocampus revealed the neuromodulatory impact of rhythmic music in a formalin-induced murine pain-model. Conclusion: Gross reduction of pain parameters demonstrates therapeutic potential of IIM as multilevel neuromodulator to suppress the multidimensional stressor, pain, via peripheral desensitization, spinal E-I balance, and differential calibration of BDNF/Trk/D1R plasticity at specific brain-regions. Keywords: Pain, Non-Pharmacological Method, Indian Instrumental Music (IIM), Behavior, Neurotransmitters, Neuroplasticity, mRNA Expression.
+]]></content:encoded>
+
+<pubDate>2026-08-31</pubDate>
+</item>
+<item>
+<title>A two-signal, two-receiver signalling system: Snake mobbing in the Arabian babbler</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.25.747098v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.25.747098v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Mobbing is a collective antipredator behaviour in which animals approach and harass a threat while coordinating signals to alert conspecifics, recruit allies, or deter predators. In group-living Arabian babblers (Argya squamiceps), snake mobbing relies on two signals that differ in receivers: acoustic "zwick" calls inaudible to the snake and visual wing-lift displays perceived by both conspecifics and the snake, raising the question of whether each signal has one receiver or involves a more complex structure. We elicited snake-mobbing events with dummy vipers and recorded babbler groups using a synchronized acoustic camera enabling individual caller identification and postural analysis. We examined mob formation, the effect of group size on signalling, and the interplay between the two signal types. First signalling (recruitment) order was independent of sex, age and rank. Individual call rate decreased as group size increased, supporting the hypotheses of social buffering and predation risk dilution. Mobbing individuals responded faster (with signalling) to a joint visual-acoustic conspecific display and the onset of a visual display than to an acoustic-only signal. When coupled, wing-lifts significantly altered vocal characteristics, decreasing peak frequency and increasing call rate, thus strengthening the acoustic signal. Moreover, calls emitted toward the end of the wing-lift display exhibited a stronger drop in peak frequency. Together, these findings demonstrate the multi-functional role of multimodal mobbing signals during a risky cooperative task balancing social communication and predator deterrence.
+]]></content:encoded>
+
+<pubDate>2026-08-28</pubDate>
+</item>
+<item>
+<title>The role of animal personality in behavioural welfare diagnostics: a case study in Arctic charr (Salvelinus alpinus)</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.25.747029v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.25.747029v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Animal personality is the expression of consistent among-individual variation in a behavioural trait across time and context. The application of this theory to behavioural research provides a valuable framework to investigate the among- and within-individual variation in behaviour. The animal personality theory is particularly relevant to understand and diagnostic fish welfare. It can be integrated within the nature-based welfare framework, which emphasizes the expression of species-specific behaviours and the maintenance of consistent behavioural patterns over time. Because behavioural trait such as boldness may be closely linked to other functional phenotypes, such associations reflect the broader concept of animal personality, whereby a behavioural trait can covary with another phenotypic trait to support an adaptive responses to environmental conditions. Although these relationships are both species and context dependent, they are consistently shaped by environmental conditions and environmental complexity tend to promote species specific behaviours and reduce maladaptive traits. Here we examined how structural environmental complexity shapes personality in Arctic charr and their covarying functional phenotypes, specifically growth rate and brain size. We propose that environmental complexity promotes alternative behavioural and functional phenotypes through multivariate phenotypic plasticity. We found that environmental complexity did not influence mean boldness between both treatments, but repeatability of boldness in the complex environment was remarkably consistent over a longer-term period, while estimates collapse after seven days in the plain treatment. Our findings are a clear evidence that environmental complexity foster stable behavioural trait expression and that a plain environment may suppress personality. Our results provide compelling evidence that behavioural structure and dynamics are embedded within patterns of behavioural variance. Although we found no support for behavioural covariation or associations with growth rate and brain size, we suggest that the animal personality framework may offer a valuable approach for diagnosing fish welfare issues through the partitioning of behavioural variance.
+]]></content:encoded>
+
+<pubDate>2026-08-28</pubDate>
+</item>
+<item>
+<title>Self-organized Regulation of Group Size and Number in Natural and Artificial Collectives</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.25.746978v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.25.746978v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+From animal societies to self-organizing multi-agent systems, collectives adapt their group structure to tasks and environments. However, how they determine appropriate group sizes and the number of subgroups to form remains unclear. We formulate the Group Size and Number Regulation Problem (GSNRP), which asks how individuals regulate group sizes and numbers using only local information. In a first step, we establish a graph-theoretic model demonstrating that simple following behavior suffices to form group structures that match theoretical expectations, but is insufficient for active regulation of group size and number. In a second step, we operationalize individual group-size preferences in a decentralized fission-fusion mechanism based on perceived group size. Through multi-agent simulations, we validate that this mechanism achieves stable convergence across three signaling regimes, from position-only sensing to continuous group-size communication. Using tracking data from wild white-nosed coatis (mammals in the raccoon family), we calibrate individual group-size preferences and show that the controller recovers selected group-size, subgroup-count, and transition statistics. This in-sample case study demonstrates descriptive consistency with natural fission-fusion dynamics without establishing the underlying behavioral mechanism. These results suggest that natural and engineered collectives may share local principles of perception, preference, and response for regulating group structure.
+]]></content:encoded>
+
+<pubDate>2026-08-28</pubDate>
+</item>
+<item>
+<title>Evaluation of Locomotor Activity in Group-Housed Hamsters: Effects of Cage Size and Running Wheel Availability</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.24.746863v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.24.746863v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+While hamsters are commonly housed in groups within pet shops in Japan, small cages are often thought to restrict their physical activity, leading to arguments that larger cages should be provided. Although previous research has investigated how cage size and running wheel availability influence activity levels in individually housed hamsters, no studies to date have examined these specific effects in a social housing context. Therefore, this study investigated how cage size and the presence of a running wheel affect the activity levels of individual hamsters using the group-housing conditions with five hamsters. Video recordings were captured for 24 hours across four distinct cage environments using a camera installed directly above each cage. From these recordings, the distances traveled on both the cage floor and the running wheel were calculated for each hamster and statistically analyzed. The results revealed that overall activity levels were significantly higher in cages equipped with a running wheel than in those without. Although cage size did not yield a statistically significant difference, a marginal trend toward higher activity in larger cages was observed.
+]]></content:encoded>
+
+<pubDate>2026-08-27</pubDate>
+</item>
+<item>
+<title>Fruit abundance and moonlight shape sex-specific nocturnal activity and movement in kinkajous (Potos flavus)</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.23.746512v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.23.746512v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Animals face a fundamental trade-off between food-related competition and predation risk in how they allocate time and behavior. Nocturnal mammals offer a particularly tractable system for testing this trade-off because moonlight creates a natural, quantifiable gradient in both predation risk and the visibility needed for safe movement. We used minute-by-minute focal observations of nine kinkajous (Potos flavus; 4 female, 5 male) in Panama to test how fruit abundance and moonlight predicted nocturnal activity budgets (percent time traveling, feeding, resting) and nightly travel distance. Beta-family generalized linear mixed models and a linear mixed model of log travel distance showed that fruit abundance was positively associated with percent time traveling and with nightly travel distance, and negatively associated with percent time feeding: kinkajous traveled more and fed less per hour when fruit was abundant, consistent with movement between many nearby productive trees rather than prolonged feeding at a few. Males traveled less as moonlight increased, while females traveled more. Rainfall had no independent effect. We interpret the sex-reversed moonlight response as evidence that moonlight elevates predation risk for males while facilitating movement for the more food-limited females of this frugivorous carnivore.
+]]></content:encoded>
+
+<pubDate>2026-08-27</pubDate>
+</item>
+<item>
+<title>Species-specific responses of diurnal birds to nocturnal conspecific song playback</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.27.747485v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.27.747485v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The vast majority of birds are diurnal and concentrate their vocal activity during daylight hours. However, some diurnal birds can also be vocally active at night, although the functions of this phenomenon remain poorly understood. We conducted playback experiments in the Warta Landscape Park (central Poland) to determine whether nocturnal singing by diurnal birds serves breeding-related functions by analysing responses to playback of songs from unfamiliar conspecific males. The sedge warbler (Acrocephalus schoenobaenus) was selected as the focal species because it exhibits relatively high levels of nocturnal song activity, while nine additional diurnal species detected near focal sedge warbler territories were included to explore whether responsiveness to nocturnal conspecific song extended across a broader taxonomic range. Playback experiments were conducted during the early and late stages of the breeding season and during the early and late parts of the nautical night. Out of 10 species tested, three responded vocally: sedge warbler, Savi s warbler (Locustella luscinioides), and common snipe (Gallinago gallinago). Sedge warblers did not modify song rate and song duration but increased flight activity after nocturnal playback. Savi s warblers and common snipes produced more vocalisations after playback than before in May, a pattern consistent with territorial defence function. General nocturnal vocal activity was higher at the beginning of the season, suggesting that birds motivation to establish territories and form pairs can extend into the night, providing additional benefits. Moreover, the probability of singing by the sedge warbler was higher in the latter part of the night. Our study demonstrates that nocturnal stimulation of foreign male playback of diurnal birds can elicit vocal responses from conspecifics, suggesting that nocturnal singing can occur in the absence of obvious artificial light pollution, but in the case of some species and environmental conditions, it may contribute to nocturnal social communication, especially in the early breeding season.
+]]></content:encoded>
+
+<pubDate>2026-08-27</pubDate>
+</item>
+<item>
+<title>Socially dominant male mice in social hierarchies identified via automated RFID tracking exhibit elevated activity levels and circulating markers of higher metabolic demand</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.26.747333v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.26.747333v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Dominance hierarchies are a fundamental aspect of social organization, enabling animals to minimize aggression and optimize access to resources. Previous studies have highlighted the energetic and physiological demands of dominant status, as well as the behavioral flexibility required of subordinates to navigate these hierarchies. Despite advancements in automated behavior tracking, limitations persist in tracking fine-scale, real-time interactions within complex social environments. Here, we developed and validated a novel RFID-based system to continuously monitor dominance hierarchies in group-housed male mice over 10 days. This system enabled unbiased behavioral inference across light phases and revealed spatial and temporal patterns of dominance behavior undetectable through traditional live-scored methods. Automated tracking accurately identified alpha individuals and consistently inferred linear hierarchies across cohorts, with greater precision for higher-ranked individuals. Behavioral metrics, such as transition frequencies and proximity to food zones, were consistent with dominance driven activity. Hormonal analyses revealed that higher-ranked mice exhibited increased leptin and peptide YY, consistent with heightened activity and satiety signaling, while lower C-peptide levels reflected greater metabolic demands of dominance. Furthermore, dominance rank was associated with differences in light-dark activity, which were in turn related to circulating hormone profiles. This study demonstrates the utility of automated RFID tracking in capturing dominance hierarchies with temporal and spatial granularity, while revealing links between social rank, metabolic regulation, and activity patterns advancing our understanding of social behavior dynamics.
+]]></content:encoded>
+
+<pubDate>2026-08-27</pubDate>
+</item>
+<item>
+<title>Low-latency multicamera 3D tracking of insects with Braid</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.21.745392v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.21.745392v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Advances in camera technology and computer vision techniques have allowed researchers to track animals in 3D in ways which previously were difficult or impossible. Many such 3D tracking tools make use of multiple cameras, but unfamiliarity with the principles and technology involved can make it difficult to employ such techniques. In this protocol, we describe Braid, open-source software for live, multi-camera 3D tracking of insects. Using background-subtraction, Braid performs detection of objects without requiring the use of physical markers affixed to the insect. Braid constructs low-latency 3D position estimates using Kalman filtering and nearest neighbor data association. We document in detail the process of tracking freely flying bees within a flight arena using Braid. This protocol includes instructions on installation, configuration of cameras, setup, calibration, and operation. Within the system described here, we demonstrate that Braid can achieve position estimates accurate to <1 millimeter (within a 0.3 cubic meter volume). These factors make Braid suitable for tracking small, fast-flying animals like insects. Braid's low latency allows live tracking, removing the necessity to collect large video files and making it suitable for integration in closed loop systems such as virtual reality. Code is available at https://github.com/strawlab/strand-braid
+]]></content:encoded>
+
+<pubDate>2026-08-26</pubDate>
+</item>
+<item>
+<title>Voluntary oxycodone self-administration produces analgesic tolerance and sex-dependent hyperalgesia across genetically diverse rats</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.20.745912v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.20.745912v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Long-term opioid therapy is limited by analgesic tolerance and opioid-induced hyperalgesia, but the roles of genetic background, sex, and drug exposure remain unclear. We used 20 inbred strains from the Hybrid Rat Diversity Panel to examine thermal sensitivity, oxycodone analgesia, tolerance, and hyperalgesia-like changes following voluntary intravenous oxycodone or saline self-administration. Rats underwent tail-immersion testing before self-administration (Pre-SA) and after self-administration (Post-SA). Oxycodone analgesia was assessed using the percent maximum possible effect time course and the corresponding area under the curve. Pre-SA thermal sensitivity differed across strains and between sexes, and Pre-SA oxycodone analgesia also differed across strains. Oxycodone self-administration produced a sex-dependent increase in thermal sensitivity that was most evident in males. During Post-SA testing, oxycodone self-administering rats showed reduced analgesic responsiveness compared with saline controls, and the magnitude of this difference varied across strains. Within-strain Pre-SA-to-Post-SA comparisons identified tolerance-like reductions in several strains. Across strains and sexes, oxycodone self-administering rats showed a greater Pre-SA-to-Post-SA reduction in analgesic responsiveness than saline controls, consistent with analgesic tolerance. Total oxycodone intake was not associated with tolerance at either the strain-mean or individual-animal level. Heritability estimates were higher for thermal sensitivity and analgesia (H2 {approx} 0.28-0.40) than for changes in thermal sensitivity and tolerance (H2 {approx} 0.18-0.27). These findings demonstrate strain variation in thermal sensitivity and oxycodone analgesia, sex-dependent hyperalgesia-like effects, and reduced analgesic responsiveness following voluntary oxycodone intake.
+]]></content:encoded>
+
+<pubDate>2026-08-25</pubDate>
+</item>
+<item>
+<title>Ecological and evolutionary drivers of thermal performance curves across the tree of life</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.04.749418v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.04.749418v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Biological rates typically follow a unimodal thermal performance curve (TPC), yet the ecological and evolutionary drivers shaping TPC variation remain poorly understood. We compiled an extensive thermal response database covering 896 TPCs for 416 species and 60 traits, spanning microbes to multicellular organisms. Our analyses reveal three key insights. First, environmental seasonality strongly structures TPCs: species in stable environments exhibit narrower thermal ranges and greater asymmetry, with environmental temperature outperforming latitude as a predictor. Second, trait type and organismal complexity modulate thermal sensitivity: emergent traits have narrower ranges than physiological traits, and complex organisms display reduced heat tolerance. Third, prokaryotes and eukaryotes differ fundamentally: while prokaryotes shift thermal limits symmetrically, eukaryotes show constrained upper limits relative to cold tolerance. These findings highlight how environmental stability, trait organization, and evolutionary history shape species thermal niches, providing crucial insights into vulnerability and adaptation under climate change.
+]]></content:encoded>
+
+<pubDate>2026-09-08</pubDate>
+</item>
+<item>
+<title>Development and parameterisation of a size-structured multispecies bioeconomic model integrating consumer demand</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.04.749338v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.04.749338v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+A high proportion of the world's population relies on marine fisheries as a source of food and employment, highlighting the need for sustainable exploitation strategies. However, fisheries management commonly relies on single-species models that overlook ecological interactions and economic trade-offs, which may lead to stocks being exploited above sustainable levels. To address this gap, we developed a novel size-structured, multispecies bioeconomic module integrated within the spatially explicit, individual-based OSMOSE ecosystem model. OSMOSE represents exploited fish communities in which individuals interact through opportunistic, size-dependent predator-prey interactions which are explicitly incorporated into the bioeconomic framework. The bioeconomic model accounts for multiple species and size classes, allowing for size-dependent market prices. Fishing costs and profits are represented using an extension of the Gordon-Schaefer model to multiple interacting species, while consumer demand is modelled using a nested Dixit-Stiglitz utility function with three levels of constant elasticity of substitution for fish commodity, species and size classes. We present a method for estimating parameters for the bioeconomic module when empirical estimates are unavailable, using the North Sea OSMOSE configuration, which comprises 15 species. Our method successfully estimated the six bioeconomic parameters required to operationalise the model. Results indicate that differences in cost parameters were primarily associated with variability in species biomass rather than fishing gear, while fish prices were more strongly influenced by consumer's demand than by availability. This framework provides a basis for assessing the economic consequences of alternative climate change scenarios and supporting sustainable fisheries management.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>GLACIAL SPECIALIST SPECIES ARE MORE VULNERABLE TO CLIMATE CHANGE THAN GENERALIST SPECIES (DRAWING PARELLELS BETWEEN EMPIRICAL AND ECOLOGICAL DISTINCTIONS)</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.04.749327v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.04.749327v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+In Switzerland, glaciers are projected to shrink to minimal size by the end of the century. Thus, climate change puts pressure on glacial specialist plant species, as generalist plant species colonise their habitat. As bare areas are revealed by glacier retreat, glacial specialists can likewise shift their distributions to higher altitude, however, there will be no habitat for them to colonise. Thus, Swiss mountain floral biodiversity and ecosystem services will likely be locally extirpated. In this article, we use Species Distribution Models of 369 plants occurring in Swiss proglacial areas fitted using bioclimatic, lithological and topographic variables and compare the covariates that most strongly predict the distributions of glacial specialist and generalist species. In addition, we use two methods of defining glacial specialist species and separating them from specialists: empirical (degree of prevalence of species in proglacial areas) and ecological (using Landolt values). We find that both approaches yield similar results: the distributions of both generalist and glacial specialist species are most strongly predicted by bioclimatic variables, however, they are significantly stronger for glacial specialists. On the other hand, distributions of generalist species are more strongly predicted by topographical and lithological variables.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Multi-omic Environmental Monitoring Reveals When Molecular Signals Reflect Living Biology</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.04.749360v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.04.749360v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Environmental molecular monitoring has transformed biodiversity detection, yet most methods capture only species presence through amplified DNA fragments, missing the biological information encoded in native nucleic acids. Here we show that a single shotgun Oxford Nanopore sequencing library from water can be read through several independent biological lenses, and that each class of molecule (environmental RNA, CpG methylation, and bulk DNA) differs in its environmental persistence, which sets the window over which signal can be trusted. Sampling Pacific salmon spawning runs, we simultaneously recovered environmental RNA indicating fresh biological input, CpG methylation profiles reflecting age demographics, and pathogen signatures reflecting health. Environmental RNA tracked spawning phenology, qPCR corroborated the timing of fresh biological input over the weeks sampled, and methylation-based age inference held only while fresh DNA dominated, a condition we term the 'Freshness Gate.' Because environmental water is not a tissue sample, we detect functional transcripts as evidence of biological input but do not infer differential gene expression, and we read methylation state but do not infer biological age outside the Freshness Gate. Variance partitioning is consistent with biological freshness, rather than technical factors such as fragment length or sequencing depth, structuring environmental methylation, though these comparisons did not reach significance at nine time points. Comparable dynamics were observed in Chinook salmon, with timing offsets following their distinct spawning season. By defining when environmental molecules faithfully encode living biology and when degradation decouples signal from current state, our framework sets practical and theoretical boundaries for multi-omic environmental monitoring.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Chronic warming, not heatwaves, predicts tropical fish colonization in the Mediterranean</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749106v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749106v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The opening of the Suez Canal abruptly reconnected the Red Sea and the Mediterranean Sea, collapsing a geological barrier that had separated their biotas for millions of years. This exchange offers a natural experiment to determine whether tropical species' spread at their cold-edge range is driven by acute thermal shocks (marine heatwaves) or by progressive easing of physiological constraints under sustained warming. We analyzed 1,059 first-arrival time series for 75 non-indigenous fish species across the Mediterranean, explicitly accounting for progressive salinification, oceanographic connectivity, and historical canal enlargement. Our models demonstrate that colonization dynamics are overwhelmingly dominated by ecological momentum-the time-dependent geographic spread of populations-and facilitated by chronic background warming. Marine heatwaves explain negligible variance and show no detectable effect on colonization success. Instead, warming operates as a stage-dependent continuous climatic facilitator, accelerating post-establishment expansion, rather than triggering introductions. Thus, this shift toward warm-adapted communities is governed by chronic warming, with the Suez Canal triggering the reorganization of Mediterranean biogeography.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Abundance and distribution of ice-associated seals in the western Bering Sea and Sea of Okhotsk, 2012-2013</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749204v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749204v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+In the springs of 2012-2013, Russian Federation scientists conducted aerial surveys of ice-associated seals (including bearded, ribbon, ringed, and spotted seals) in the Sea of Okhotsk and in Russian waters of the western Bering Sea. These instrument-based surveys used a combination of thermal imaging and digital photography to detect and photograph seals basking on sea ice. Initial estimates of seal distribution and abundance from these surveys have been published in Russian journals, but did not make adjustments for observation error. In this paper, we reanalyze these data with the goal of producing spatially explicit estimates of seal abundance that properly account for incomplete detection and species classification errors. Our analysis used estimated relationships between seal abundance and habitat variables to predict abundance in unsurveyed locations, and auxiliary data on detectability to model the observation process. Under this framework, we estimated that in 2012 there were approximately 185,330 bearded seals, 68,564 ribbon seals, 272,609 ringed seals, and 226,003 spotted seals in the western Bering Sea; in 2013, these numbers were 144,105, 39,435, 203,130, and 90,501, respectively. In the Sea of Okhotsk, estimated abundance was 218,740 bearded seals, 221,228 ribbon seals, 179,893 ringed seals, and 169,870 spotted seals (2013 only). These are the first credible estimates of ice-associated seals in the Okhotsk and western Bering Seas, and should be useful for population management and for measuring how density and distribution change as a function of decreasing Arctic sea ice. Declines in seal estimates in the western Bering Sea from 2012 to 2013 mirror patterns observed in the eastern Bering Sea during concurrent U.S. surveys and could represent a decrease in abundance or a substantial decrease in pupping and molting activity.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>A single attractor governs the population dynamics of marine fishes worldwide</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749174v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749174v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Population fluctuations are now empirically recognized to be nonlinear, but the governing attractors are poorly understood. Here we show that population dynamics of 457 marine fish stocks from 121 species worldwide are governed by a single attractor that partitions into three archetypes reflecting top predators, mesopredators and forage fish, with stock-specific ecological and evolutionary variation. Correlation between attractors was high across all stocks (mean 0.53 to 0.63), greater within archetypes (0.57 to 0.77), and increased with geographic, phylogenetic and life history similarity. Leveraging shared attractors increased prediction skill in ~90% of cases, raising mean recruitment skill from 0.38 to 0.75 and even enabling moderate prediction for otherwise poorly predictable stocks. These results reveal that marine fish population dynamics are not heterogeneous but are realizations of a single attractor structured by trophic level, with immediate predictive benefits for global fisheries.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Advancement of spring arrival and delayed autumn departure in Ruby-throated Hummingbird (Archilochus colubris) migration phenology over more than a century</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749133v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749133v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Climate change is thought to have altered the timing of avian migration, with species-specific responses varying across spatial and temporal scales. This is notable as ecological mismatches may occur when birds arrive or depart out of sync with the peak flowering period of their associated food plant resources. This study compares first arrival and last departure dates of Archilochus colubris (Ruby-throated Hummingbird) using citizen science data from the North American Bird Phenology Program for historical records (1880-1969) and recent records from eBird (2006-2024) and Journey North (2001-2024). Results show significantly earlier spring arrivals (14.2-27.9 days) and later fall departures (17.3-33.7 days) in the recent period compared to historical periods, while migration pace remained relatively consistent across datasets. Although temperatures are increasing in both the nonbreeding and breeding ranges of A. colubris, winter and fall temperatures were not strong independent predictors of migration timing. This study is the first to document shifts in fall departure dates for the species and highlights the need for continued research to uncover the mechanisms driving these phenological changes and assess their broader ecological implications.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Feral Pig Invasion Dynamics in Central Brazil: Human-Driven Introduction, Landscape Drivers, and Ecological Consequences</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749266v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749266v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Biological invasions by feral swine are among the most important drivers of ecological change worldwide, yet invasion dynamics remain poorly documented in tropical South America. In Brazil, the recent spread of wild boar and wild boar-domestic pig hybrids (javaporcos) overlaps with long-established populations of free-ranging feral pigs (porco-monteiro) in the Pantanal, creating a unique scenario of dual invasive lineages of Sus scrofa. We reconstructed the spatiotemporal invasion process of feral swine (S. scrofa) across the state of Mato Grosso do Sul (MS), Brazil, using historical occurrence records, captive-breeding data, landscape variables, detection frequencies, and occupancy estimates from 2007 to 2017. The invasion expanded from 29 municipalities (36.7% of the state) in 2007 to all 79 municipalities by 2017. During this period, at least 247 breeding facilities were identified across 59 municipalities, including numerous informal and clandestine operations involving wild boar and hybrids (javaporcos). Municipalities with the largest numbers of breeding facilities and reproductive stocks consistently coincided with areas of highest invasion intensity, indicating that propagule pressure from captive populations strongly influenced feral swine expansion. By 2017, invasive populations occupied approximately 3.2 million hectares (8.85% of the state territory), with the greatest occupancy concentrated in agricultural landscapes dominated by soybean, maize, sorghum, and sugarcane production. Detection frequency and occupied area were positively associated with croplands, exposed soil fields, and water-associated habitats, suggesting that agricultural mosaics linked by riparian corridors facilitate invasion and persistence. Conservative population estimates ranged from 11,850 to 47,400 individuals statewide, although carrying-capacity scenarios suggested populations could exceed 500,000 animals under favorable conditions. Detection patterns involving native peccaries (Tayassu pecari and Pecari tajacu) indicated differential coexistence responses to invasive swine, with collared peccaries apparently more sensitive to heavily invaded landscapes. Our findings demonstrate that feral swine expansion in central South America was driven by the interaction of anthropogenic propagule pressure, permissive governance, and highly suitable agricultural environments, highlighting the urgent need for coordinated monitoring, regulation of captive breeding, and large-scale adaptive control programs.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Revisiting the evolution of population stability due to selection for rapid development and early reproduction in Drosophila: the role of generation length</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.04.749329v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.04.749329v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The ubiquity of stable populations in nature generated considerable interest in how population stability might evolve, especially after the realization that higher per capita population growth rates typically yield unstable dynamics. Yet, most empirical and theoretical treatments implicitly assume that population dynamics and stability are invariant to generation length, an assumption that remains largely untested. Theory suggested that population stability could evolve as a correlated response to life-history evolution, which was first experimentally demonstrated using D. melanogaster populations selected for rapid development and early reproduction (FEJs). Constancy stability of FEJs evolved to be higher than their ancestral controls (JBs), likely due to correlated reductions in fecundity and pre-adult survivorship. However, that study assessed stability on a 21-day generation length (matching the JBs), resulting in a considerable mismatch with the generation length of FEJs (10 days). This raises a broader question of whether the observed differences in stability reflect evolved life-history changes or are an artifact of the generation length at which the populations were assayed. To address this, we assessed the stability of FEJs, JBs, and relaxed-selection populations derived from the FEJs (CRFs and FRFs) across two generation lengths (12 and 18 days), tracking 320 small populations for 27 generations. Contrary to the earlier findings based on a 21-day generation length study, FEJs did not differ in constancy from JBs when assayed at a shorter generation length. Thus, even a modest difference in life-cycle length can significantly influence population stability, thereby underscoring the need to account for generation length when comparing stability across populations. Interestingly, constancy and persistence stability of selection regimes evolved in opposite directions, highlighting the need to assess stability along multiple axes. We discuss these results using an empirical framework, emphasizing its utility over simple population growth models for a richer understanding of population dynamics and stability.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>Toxicokinetics of a Pesticide Mixture in Earthworms Reveal Concentration-Dependent Bioaccumulation and Limited Interactions</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749139v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749139v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Despite their fundamental role in sustaining terrestrial biodiversity and ecosystem functioning, soils are increasingly contaminated by pesticides, often occurring as complex mixtures. Understanding chemical uptake, distribution, and elimination in soil organisms is essential for reliable risk assessment. We investigated the toxicokinetics of a binary mixture of imidacloprid and epoxiconazole in the earthworm Aporrectodea caliginosa. Single-substance experiments were conducted to estimate uptake and elimination rates, and allowed the implementation of single substance toxicokinetic models. A mixture experiment tested five concentration ratios to assess potential interactions. Epoxiconazole, an azole fungicide, exhibited rapid uptake and elimination (k_u = 1.9 gsoil*gworm-1*d-1; k_e = 1.7 d-1), resulting in low bioaccumulation (BAF = 0.9), whereas imidacloprid, a neonicotinoid insecticide, accumulated slowly with low elimination (k_u = 1.6 gsoil*gworm-1* d-1; k_e = 0.12 d-1), producing high bioaccumulation (BAF = 20). The explicit inclusion of the 24-hour Petri dish depuration phase proved to be critical, especially for epoxiconazole, highlighting the influence of gut-clearance procedures on apparent kinetics. In accordance with only a small synergistic effect in the mixture, no toxicokinetic interactions were detected in the mixture; internal concentrations of each compound were consistent across ratios. Concentration-dependent patterns were observed, with indications of a saturation process at high exposure levels for imidacloprid, and an increased BAF at high concentrations for epoxiconazole. This finding questions the use of single, concentration-independent bioaccumulation factors for hazard assessment and highlights the value of integrated TKTD approaches.
+]]></content:encoded>
+
+<pubDate>2026-09-07</pubDate>
+</item>
+<item>
+<title>From video to encounter histories: individual identification and machine vision for salmonid capture-recapture monitoring</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749040v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749040v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Individual encounter histories are central to capture-recapture models, but fisheries monitoring is often reduced to counts that do not account for variation in detection probability. This study presents a machine-vision workflow for converting long-term video surveillance of Atlantic salmon (Salmo salar) and sea trout (Salmo trutta) spawning runs into individual-level data for capture-recapture analysis. The workflow detects fish-positive frames, saves video clips, extracts fish-head regions of interest, and organizes cropped images for re-identification. A binary EfficientNetB0 fish detector achieved validation accuracy of 0.9918 and PR AUC of 0.9992; at a conservative threshold of 0.98, validation false positives were eliminated while retaining 94.3% recall. A YOLOv8n model localized fish-head regions, and an EfficientNetB0 ArcFace model trained on head images from 700 identities achieved 99.80% accuracy among accepted known matches and an image-weighted false-accept rate of 0.81% when non-training identities were treated as unknown. Zero-shot closed-set retrieval achieved 99.17% top-1 accuracy across 1,416 identities excluded from model training, demonstrating strong generalization to previously unseen identities.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>DEADMON: A protocol for long-term monitoring of deadwood-associated species</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.31.747472v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.31.747472v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Dead wood has a vital role in maintaining biodiversity and ecosystem processes in boreal forests. A large proportion of deadwood-dependent species are threatened by habitat loss and degradation resulting from intensive forest management practices. In Finland, approximately 25% of all forest-dwelling species, around 5,000 species, are dependent on deadwood, of which 596 are red-listed. Currently, there is no large-scale, long-term monitoring programme for saproxylic species in Finland, and the tools required to implement such monitoring remain underdeveloped. Here, we develop, test and report a DNA-based monitoring method for dead wood associated organisms including fungi, lichens, bryophytes, and insects. Three study sites were selected for the research, one from each boreal vegetation zone. From each study site, 16 study logs were selected and permanently marked for long-term monitoring. Our results show that the method is applicable to all studied species groups. However, especially fungi and lichens show considerable difference between species detected morphologically and those detected using DNA-based methods. We conclude that two partly contrasting strategies emerge for implementing long-term monitoring of deadwood -associated boreal species. The first strategy emphasizes as comprehensive geographical sampling of habitat types and tree species as possible. The second approach focuses on long-term monitoring of individual deadwood units across their full decomposition trajectory. We recommend that solutions for unifying the currently fragmented monitoring research on deadwood-associated organisms would be sought together with potential coordinating institutions.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Overlapping flower and pollen production in two imperiled pitcher plants raises conservation challenges</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748929v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748929v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Balancing sexual reproduction with vegetative growth poses challenges for many plants. Additionally, reproductive effort, such as production of pollen or flowers, is not always correlated with numbers of viable and germinable seeds. Energetic tradeoffs like these can be particularly fraught for imperiled species and might be especially complicated in landscapes with a possibility of interspecific hybridization. In this multi-year study, we track the reproductive effort, flowering phenology, and reproductive output of two interfertile Sarracenia (pitcher plants). We show that reproductive effort varies among years and sites, and that production of pollen and flowers does not always result in higher seed output. We demonstrate that phenological overlap in the timing of flower production and pollen viability could enable hybridization, and that the more imperiled taxon produces fewer seeds per flower. Results have implications for conservation of these pitcher plants, management of hybridization in these and other systems, and general principles of reproductive allocation.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>A Multiscale Translation of Tilman R and Its Empirical Application in the Cerrado</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748945v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748945v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Translating Tilman resource-ratio model (R) to the metacommunity scale bridges local plant competition and landscape dynamics, moving ecological niche theory beyond controlled experiments. By incorporating scale dependence, stochasticity, dispersal limitation, and the stress-disturbance dichotomy, this framework also accounts for the drivers of both alpha and beta diversity. To achieve this integration, this work presents the Metacommunity Resource-Ratio Model (MetcommR) and its graphical tool, the Patchwork Biplot. This approach adapts the traditional continuous plane with a granular patch space, where each patch represents a discrete community with its area and internal variability, tracking net vectors of resource consumption and release relative to species-limiting isoclines. MetcommR articulates two fundamental regimes. In disturbance-governed metacommunities, biomass loss releases resources, interrupting depletion and preventing competitive exclusion, which promotes coexistence via the competition-colonization trade-off and maintains alpha and beta diversity. Conversely, in stress-governed systems, biomass accumulation and severe resource scarcity push communities toward isoclines, favoring the monodominance of tolerant species through competitive exclusion under the tolerance-fecundity trade-off. We demonstrate the model's empirical utility through a Cerrado case study in the Paraopeba Reserve. Analyzing canopy openness (light) and soil nitrogen reveals that long-term fire suppression induces light stress, elevating competitive exclusion risks for shade-intolerant species. Consequently, the Patchwork Biplot serves as a tool for evaluating ecological dynamics and vulnerabilities to guide management and conservation strategies.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Uncharted Waters: Projecting the European Emergence of Naegleria fowleri, Colloquially Known as the 'Brain-Eating Amoeba', Under Climate Warming</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748909v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748909v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Background. Naegleria fowleri, the causative agent of primary amoebic meningoencephalitis (PAM), is a thermophilic free-living amoeba historically endemic to warm freshwater environments, particularly in the southern United States. While human infections remain exceedingly rare, they are almost uniformly fatal. Global climate change is hypothesized to expand the geographic range of thermotolerant pathogens, potentially introducing them into previously unaffected regions. Objective. This study aims to quantify the current and future habitat suitability for N. fowleri within the contiguous United States (US) and, critically, to project these models onto Europe, a continent traditionally considered low-risk, to identify regions of potential emergence under climate change scenarios. Methods. We employed a modeling approach using the machine learning algorithm Maxent, implemented via the `flexsdm` R package. We utilized 204 occurrence records from the contiguous US. We evaluated three environmental datasets (ENVIREM, Global Cloud Dynamics, Worldclim v.2), selecting Worldclim v.2 for its superior predictive performance. Future projections were generated for the 2041-2060 period under the Shared Socioeconomic Pathway (SSP) 2-4.5 (intermediate scenario). Variable importance was assessed using Shapley additive explanations (SHAP) to decouple the contribution of each Bioclimatic predictor and identify the key drivers of range expansion. Results. The Worldclim v.2 dataset provided the most robust model. The model accurately identified the southeastern US as the core current habitat, consistent with historical PAM case distribution. Crucially, when projected onto Europe, the model reveals extensive regions of currently low suitability that transition to moderate or high suitability by 2050, particularly across the Mediterranean basin, parts of Central Europe, and the Atlantic coastal fringes. SHAP analysis identified temperature-related variables, specifically Annual Mean Temperature, Mean Temperature of the Coldest Quarter, and Mean Diurnal Range, as the most influential predictors, followed closely by precipitation variables (Precipitation of Driest Quarter/Month and Precipitation Seasonality). Under the SSP2-4.5 scenario, the model projects a distinct northward and eastward expansion of suitable habitat, with Ukraine emerging as a region of particular concern, especially in light of recent anthropogenic hydrological changes to the Dnipro River basin. Conclusion. Our findings support the hypothesis that global warming will facilitate the geographic spread of N. fowleri, carrying this pathogen into uncharted European waters. The projections for Europe, and for Ukraine, in particular, suggest a non-negligible risk of future autochthonous PAM cases. These results warrant the proactive inclusion of this pathogen in public health surveillance programs and climate change adaptation strategies across the continent.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>How far can microbial monocultures predict growth in multi-strain communities?</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748814v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748814v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Previous research in microbes successfully predicted biculture growth based on monoculture growth curves. Still, the usual model-based approach does not seem to extend to communities involving more than two bacterial strains. Here, we use a model-blind machine-learning approach to predict community-wide yield, area under the growth curve, maximum relative growth rate and its timing in communities involving up to five strains of Escherichia coli. First, we identify the highest per-capita growth rate and its timing in monocultures as major predictors of multi-strain community growth. Next, we show that a random forest trained on communities involving a low number of strains is able to predict the outcomes of communities involving a higher number of strains. Finally, we reveal diminishing returns in using more and more complex communities in order to predict the behaviour of a higher-level community, because monoculture- and biculture-based growth predictions are often already accurate. This finding relativises the need for experiments involving high numbers of strains when studying the growth dynamics of multi-strain communities.
+]]></content:encoded>
+
+<pubDate>2026-09-04</pubDate>
+</item>
+<item>
+<title>Revision of the Community Conservation Index</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.30.748128v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.30.748128v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The Community Conservation Index (CCI) developed by Chadd and Extence (2004) has been widely used to assess the conservation value of freshwater macroinvertebrate assemblages by integrating species rarity and community richness into a single metric. However, the original conservation scoring system was based largely on historical rarity designations and regional distribution data that no longer reflect current conservation assessments or recording coverage. This paper presents a comprehensive revision of the Conservation Scores underpinning the CCI. Species scores were updated using the latest IUCN-compliant Red List assessments for British freshwater invertebrates. For taxa classified as Least Concern, Data Deficient, or lacking a recent conservation assessment, scores were derived from national occurrence data across Great Britain for the period 1995-2024 using hectad occupancy. In addition, all non-native species were assigned a conservation score of zero to ensure they do not contribute positively to site conservation value. The revised dataset includes 1,680 taxa, compared with 1,117 in the original index, with 755 taxa receiving Conservation Scores for the first time. Thirty non-native taxa were assigned a score of zero. Among previously scored taxa, 165 received higher scores, 576 received lower scores, and 184 remained unchanged. The predominance of score reductions reflects improved knowledge of species distributions and the replacement of historical rarity classifications with contemporary assessments based on conservation status and national frequency of taxon occupancy. The revised CCI maintains the original strengths of combining rarity and richness while improving transparency, consistency and ecological relevance. By incorporating current Red List assessments, Great Britain-wide distribution data and revised treatment of non-native species, the updated index provides a more robust and nationally representative measure of freshwater macroinvertebrate conservation value. It offers an enhanced tool for biodiversity assessment, conservation prioritisation, site designation and environmental decision-making across freshwater ecosystems in Great Britain.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Monitoring seagrass meadow health using coastal bird fecal fatty acid biomarkers</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.748668v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.748668v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Lipids have the potential to trace trophic interactions through an ecosystem, but their use has been largely limited to predator/prey-scale studies. Carnivore fecal lipids offer an unexplored way to strategically monitor the health and spatial distribution of ecosystems that are difficult to access. This hypothesis is explored here in seagrass meadows, which are a globally significant long-term carbon storage reservoir. This study tested the hypothesis that lipids can be used to passively monitor seagrass meadow health by tracing fatty acids transferred up the food chain and onto nearby beaches via coastal bird stool. By comparing the lipids produced by seagrasses and those made by diverse microbial eukaryotes, such as diatoms and dinoflagellates, our analysis could distinguish between healthy and collapsed meadows in a pilot dataset. A metabolite that is produced by the seagrass wasting disease pathogen was also recovered in our data, providing a potential diagnostic for seagrass health. The advantages to this non-invasive monitoring approach using lipids are that beaches are far more accessible than seagrass meadows, and birds spatially  sample a larger area than researchers could do efficiently. Although this pilot study was limited in samples and field sites, our results provide compelling reasons to pursue carnivorous fecal dietary lipids as a source of ecosystem data.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Spatial heterogeneity shapes microbial eco-evolutionary dynamics of soil carbon</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749071v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749071v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The study of reciprocal influences between ecological and evolutionary processes has advanced considerably, yet integration between evolutionary biology and ecosystem-level ecology remains limited. Here we contribute to this integration by advancing the theory of eco-evolutionary feedbacks between soil microbial adaptation and soil-atmosphere carbon fluxes in a warming climate. We develop a spatially structured model of soil organic matter decomposition that represents microbial populations in microsites embedded in a bulk-soil matrix and focuses on exoenzyme production as a key resource-acquisition trait. The evolutionarily adapted investment in exoenzyme production is shaped by opposing selective forces: negative selection within microsites, where lower-investing mutants exploit exoenzymes as public goods, and positive selection in the soil matrix, where exoenzyme production directly benefits individual cells. Microsite density emerges as a critical determinant of microbial adaptation to warming and its consequences for soil carbon loss. Even small changes in microsite density across a threshold can reverse the ecosystem-level effect of adaptation, from buffering to amplifying carbon loss. High microsite density generally promotes buffering, whereas low microsite density has little effect in cool ecosystems but can strongly amplify carbon loss in warm ecosystems, especially when microbial mobility is low. These results identify soil spatial structure at microsite scale as a key mediator of microbial evolutionary adaptation and soil carbon-climate feedback under global environmental change, with implications for quantitatively improving Earth system models.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Area use and residency behaviour at reproductive and foraging areas of green turtles from the largest rookery in the Atlantic</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.749028v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.749028v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The conservation of migratory marine megavertebrates depends on the protection of different areas during their life cycles. Many populations have recovered following exploitation-driven declines. Green turtles exemplify successful efforts protecting reproductive populations, reducing harvesting, promoting population recoveries globally. Tortuguero, Costa Rica, the second largest rookeries for green turtles worldwide, implemented long-term conservation efforts leading to a population recovery, which is now in decline. This study investigates migratory connectivity of green turtles from Tortuguero across the Caribbean, and the role marine protected areas (MPAs) play in protecting key habitats supporting this population. Over 25 years, we satellite tagged 63 female green turtles to study their internesting and post-nesting foraging movements. Applying a state-space model, we calculated a movement-persistence index, to separate internesting and foraging periods. We calculated turtles' utilization distribution areas for both periods. To assess the protection coverage at each end of the migration, we calculated time spent within and outside MPAs. Tracked turtles spent a median of 42.3 days (SD=18.8, range=12-80) within 30 km offshore before departing the internesting area, spending just 23.0% of time within nearby MPAs. After nesting, turtles migrated to 14 different foraging areas, Miskitos Cays, Nicaragua hosted the most turtles (n=23). Mean transmission time in foraging areas was 175.6 days (SD=126.0; range=13-544). Generally, turtles foraged 58.0% of the time within MPAs boundaries; however, ~32% of tracked turtles foraged outside MPAs. Considering all known stressors, we found this population to be insufficiently protected at either end of their migratory cycle, remaining vulnerable to regional threats.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>AberTrap: an open-source, lightweight, programmable sampler of airborne biological particles</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.746715v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.746715v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+1. Context. Capturing and identifying airborne biological matter (bioaerosols) enables detailed characterisation of ecological communities, but the cost and weight of existing commercially available active air samplers limits the deployment of multiple devices needed to realise this potential. 2. Method. We present the AberTrap, a lightweight (~50g), open-source (CC-BY-SA), programmable rotating-arm bioaerosol sampler that can be self-built from common laboratory components and makerspace equipment at low cost (ca {pound}20 per unit, exc. power supply). To characterise the device's performance, we first explored the influence of rotational speed and paddle design on aerosol capture under controlled conditions, using fluorescein and a range of biological aerosols (4.5-33 m). To demonstrate its utility for ecological applications, we then validated field performance in a species-rich broadleaf woodland (England, UK), deploying eight samplers over five days and identifying captured fungal aerosols by ITS2 metabarcoding. 3. Key results. Modifying paddle design allowed us to influence particle selection and capture efficiency. Slotted paddles captured significantly more aerosols than plain paddles despite sampling less air, which we traced to the concentration of aerosols at the paddle leading edges. This effect was most pronounced for the smallest particles and outweighs the influence of rotational speed. In the field, 20 daily samples (four samplers over five days) detected 2,431 fungal taxa, 78.9% of the Chao2-estimated total fungal richness. A single sampler captured only 59% of this richness. Continuous 5-day sampling recovered 78% of the taxa detected by daily sampling, indicating only modest paddle saturation over this period. Our time segregated design allowed us to infer dispersal dynamics; 35% of taxa were recorded only on one day, and 19% recorded across all five days. Overall, replicate AberTraps provided high sampling completeness. 4. Implications. The AberTrap provides a low-cost, lightweight and programmable alternative to commercial rotating-arm samplers, enabling levels of spatial and temporal replication impractical with existing devices. Low cost and portability facilitate deployment in remote or resource-limited contexts. Its open-source, adaptable design allows the device to be tailored for applications in biodiversity assessment, pathogen surveillance and ecological monitoring.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>The emerging medium-scale: Prioritising fisheries management for elasmobranch conservation.</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748653v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748653v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Fishing pressure has substantially increased over time and elasmobranchs are among the most vulnerable marine taxa impacted. 'Small-scale' and 'large-scale' are terms frequently used to describe fisheries, yet definitions used across the globe are inconsistent. The global impact of small-scale fisheries on elasmobranch decline is increasingly evident. However, ambiguous vessel-capacity classifications undermine effective conservation management. Technological advancements have led to the emergence of medium-capacity vessels that sit between small and large-scale classifications, creating regulatory gaps that increase bycatch impacts on vulnerable elasmobranchs. Beyond vessel size, the gear specificities and practices also affect interaction with species caught incidentally, and can alter bycatch risk for vulnerable elasmobranchs. Manta and devil rays (collectively, mobulids) represent a pelagic ray group that includes species listed as Critically Endangered with high risk of extinction, largely due to bycatch threats. To prioritise fisheries management for conservation, we assess the contribution of fishing gear specifications and practices to mobulid bycatch as a case study in their largest fishery globally. We use a Huber-robust extension to a Hurdle negative binomial model to assess the impact of fishery characteristics and operational specificities on mobulid bycatch risk. We find that within the Food and Agriculture Organization (FAO) of the United Nations' broad international fleet classification of small-scale vessels based on overall length ([&le;]24 m), the 'medium-capacity vessels' in India are twice as likely to catch mobulids than small-scale vessels. Further, increased fishing intensity, measured in five-day increments, doubles mobulid bycatch risk. Our results indicate the emergence of a distinct medium-capacity fishery class in rapidly developing blue-economy nations, shaped by rising technological capacity and exemptions from large-scale management measures. We propose a comprehensive re-conceptualisation of small-scale fisheries to ensure that advanced medium-capacity vessels are subject to management measures commensurate with their bycatch impact. Our recommended re-conceptualisation is complementary to FAO's SSF characterisation matrix and would promote fishery-level sustainability and enable bycatch risk mitigation for elasmobranchs, including manta and devil rays. Further, for congruence between elasmobranch demography and regulations, we recommend that fisheries management measures distinguish vessel capacities for elasmobranch bycatch risk and apply biologically relevant regulations to the associated fisheries scale.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>AWET -- Arthropod Weight Estimation Tool</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.03.749054v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.03.749054v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Arthropods drive essential ecosystem processes such as pollination, decomposition, and nutrient cycling and are widely used as indicators of ecosystem condition and function. Among various arthropod-derived metrics, body weight is a key variable in functional ecology and frequently assessed as dry body weight. However, drying arthropod specimens limits the samples future potential for research, as it prevents further processing such as trait measurements or species identification. Here, we present AWET (Arthropod Weight Estimation Tool), an open-source application for automated estimation of individual fresh body weight and extraction of morphometric measurements from standardized images of pre-sorted arthropod samples. AWET combines automated image analysis with taxon-specific allometric regression models to estimate fresh body weight while simultaneously quantifying body length, width, area, and specimen abundance. The software operates with standard imaging equipment, requires no machine-learning-based classification or segmentation, and allows users to define taxonomic groupings according to their objectives. By preserving specimens for downstream analyses while processing large numbers of individuals within milliseconds, AWET provides an efficient, non-destructive, and cost-effective workflow for high-throughput arthropod phenotyping. The software is a practical and expandable tool for biodiversity monitoring projects investigating changes in arthropod biomass, abundance and individual morphometric measures.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>An ecological model of masting reproduction matches empirical dynamics</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748907v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748907v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Masting, characterized by highly variable, synchronized, and intermittent seed or fruit production, represents a common reproductive strategy among perennial plants and has profound ecological consequences. Resource provisioning and pollen limitation have long been viewed as central physiological mechanisms underlying this strategy, recent empirical evidence also highlights the role of weather cues in initiating and synchronizing reproductive effort. Drawing on mechanisms that drive periodicity in disease dynamics, this study proposes an alternative proximate mechanism for masting. We develop and analyze a stage-structured population growth model in which developmental delays create population-level cycles, and demographic stochasticity adds individual-level variation; together, yielding masting-like patterns. We compare the behaviour of this novel model with that of the widely used resource budget model and empirically observed patterns of masting in perennial plants. To quantify and compare model outputs and empirical observations, we employ three continuous metrics of masting that capture volatility, synchrony, and periodicity. Our study provides an alternative proximate mechanism for masting. Comparison of this novel mechanism and the established resource-budget model to empirical time-series reveals that both represent realistic yet distinct forms of masting reproduction. Together, these models provide a foundation for further exploration of the conditions under which this reproductive strategy can evolve. Beyond masting, our results highlight the general importance of life-history timing and demographic stochasticity in shaping population ecology.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>From concentration to export: resource contrasts and bee traits shape pollinator spillover to crops</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.08.29.747339v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.08.29.747339v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Floral plantings can either concentrate bees or export them to adjacent crops, yet the ecological conditions influencing these outcomes remain unclear. Here, we develop a mathematical model as proof of concept for our previous integrative hypothesis: concentrator and exporter outcomes can arise as alternative, context-dependent outcomes of the same underlying resource-selection process. Using bees as a model and focusing specifically on spillover from floral plantings to crops, we identified resource-specific thresholds separating concentration- and export-favoring conditions. Our model translates differences in relative patch attractiveness into context-dependent concentration and export outcomes and generates resource-specific, testable predictions about the conditions favoring pollinator movement into crops. In our simulations, the concentrator-exporter transition occurred at a lower flowering-intensity contrast than at pollen or nectar contrasts, which suggests that flowering intensity may provide an initial cue for bee movement, whereas nectar and pollen rewards refine or sustain bee responses once crops are perceived as attractive. Spillover thresholds differed among resource contrasts, whereas response steepness varied across bee-trait and community scenarios. Under the model's trait-sensitivity formulation, predicted spillover probability responded more strongly to flowering contrast for specialists than for generalists; colony size amplified this response, whereas bee richness dampened it. Together, these patterns show how flowering and resource contrasts interact with bee traits and community context to shape predicted spillover. Our results confirm that the concentrator and exporter hypotheses can be understood as context-dependent outcomes of the same ecological process rather than as mutually exclusive alternatives. Experimental tests of the predicted thresholds conducted in the field could reveal when and where floral plantings are most likely to promote bee spillover to crops, potentially supporting crop pollination.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Burning down the mouse: Effects of wildfire and post-fire reseeding on Sin Nombre virus prevalence in its reservoir host</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748549v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748549v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Worldwide, physical habitats and biological communities are being reshaped by wildfire. Such changes have obvious potential to alter pathogen ecology, yet few studies, outside of those focused on ectoparasites, have tested the effects of wildfire on pathogen prevalence in wildlife. Even fewer have focused on the impacts of strategies for post-fire remediation on pathogen circulation. Here, we investigated the effect of wildfire and wildfire mitigation on the prevalence and viral load of Sin Nombre virus (SNV) infection in its reservoir host, the western deer mouse, using a study design of matched burned, unburned, and post-burn reseeded sites in northern New Mexico. In total, we screened 411 individual deer mice for SNV via RT-qPCR and analyzed the effect of wildfire and wildfire mitigation on relative mouse abundance, individual infection probability, site-level prevalence and viral load. Relative abundance was highest at reseeded sites, and model selection indicated that habitat structure, particularly the gradient from closed canopy to open-herbaceous habitat, was consistently associated with increased relative abundance. Similarly, SNV prevalence was significantly higher in reseeded sites than either burned or unburned sites but did not differ in burned versus unburned sites. Viral load did not differ between burn history types, and zero-inflated gamma hurdle models did not identify any strong predictors of viral load. Serendipitously, we were also able to investigate the impacts of an El Nino Southern Oscillation (ENSO) cycle on patterns of infection in a subsample of sites that were studied during and one year after an ENSO year and found that SNV prevalence increased significantly post-ENSO. Both reseeding and ENSO deliver resource pulses that can support increases in mouse density and thereby enhance SNV transmission. The impacts of post-fire management practices on SNV prevalence in its reservoir host that were revealed in this study should be considered when implementing such strategies and when utilizing treated areas.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Geometric causes of species rarity</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748835v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748835v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Understanding the limits of species distributions is a central objective of biogeography and macroecology and has become increasingly important as climate change drives rapid shifts in geographic ranges. Species range sizes follow a highly skewed frequency distribution, with most species occupying ranges orders of magnitude smaller than those of the most widespread species. Range sizes also exhibit pronounced geographic patterns, with small-ranged species concentrated near continental margins and other geographic boundaries. No universally accepted explanation has been proposed for these patterns. Here we present a simple geometric model showing that species range size patterns emerge from the random placement of dispersal barriers within continental domains. The model predicts both the observed frequency distribution and the spatial distribution of range sizes across amphibians, birds, and mammals. It therefore provides a first-order explanation for global patterns of species rarity and can be refined by incorporating elevational barriers and spatial variation in species richness. Our findings suggest that species range size is constrained by the geometry of dispersal barriers and the geographic domain, with proximity to domain boundaries acting as a primary determinant of species rarity. These results have important implications for understanding species' evolutionary potential and vulnerability to extinction.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Abundance and trends of harbor seals (Phoca vitulina richardii) in Alaska, 1996-2023</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.02.748977v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.02.748977v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+Pacific harbor seals (Phoca vitulina richardii) were surveyed throughout their range along Alaska coasts over a 28-year period. Twelve management stocks, delineated on the basis of evidence for demographic independence, were monitored for abundance and trends. We employed a two-stage Bayesian hierarchical analysis that integrated aerial survey counts with satellite-linked bio-logger haul-out timelines to account for the proportion of seals in the water and not visible to survey observers and cameras. Overall, harbor seals were abundant (201,122 seals in 2023) but, during the span of our study the population (stock) trends varied. The first half of our study was characterised primarily by growth, with a peak abundance of approximately 225,000 seals in 2015. Since then trends have been variable, with some stocks (e.g., Bristol Bay) showing continued growth while others (e.g. Prince William Sound, South Kodiak) declined. The recent regional declines coincided with observed climate anomalies (e.g., marine heatwaves) and the rapid retreat of tidewater glaciers. Our results provide a basis for managing this species in Alaska, which is protected under the Marine Mammal Protection Act; a vital nutritional and cultural resource for Alaska Native communities; and an important sentinel of change in the Northeast Pacific marine ecosystem.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>Environmental sensing capacity predicts bacterial ecological strategies and environmental preferences</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.01.748587v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.01.748587v1?rss=1</guid>
+<content:encoded><![CDATA[
+
+The ability to sense environmental variation is a prerequisite for ecological success. Sensor domains enable bacteria to detect nutrients, neighboring organisms, and physicochemical conditions, but whether variation in these sensing systems reflects ecological specialization remains unresolved. Here, we analyzed sensor domains across 51,343 bacterial genomes and 255 soil metagenomes spanning a climatic gradient to determine whether sensory repertoires encode bacterial ecological strategies and environmental preferences. Sensory repertoires exhibited strong phylogenetic conservatism and revealed signatures of genome streamlining, indicating that environmental sensing reflects trade-offs associated with maintaining sensory complexity. Taxa occupying environmentally heterogeneous habitats, particularly free-living aerobic generalists, encoded the largest sensory repertoires, consistent with selection for expanded environmental information processing. To link sensory function with ecological adaptation, we mapped experimentally-characterized ligand-binding motifs (LBMs) across genomes and metagenomes. Distinct LBM profiles discriminated host-associated and free-living taxa, aerobic and anaerobic lineages, and generalists and non-generalists, revealing a tight coupling between sensory capacity and ecological strategy. Across soil communities, motifs associated with osmoprotection and oxygen sensing were consistently enriched under increasing aridity, linking sensory function to environmental filtering in natural ecosystems. These findings identify environmental sensing as an important organizational axis of bacterial trait-based ecology that integrates evolutionary history, ecological lifestyle, and adaptation to local conditions. Environmental sensing should be considered for predicting microbial niches and responses to environmental change.
+]]></content:encoded>
+
+<pubDate>2026-09-03</pubDate>
+</item>
+<item>
+<title>190-year-old DNA reveals a hidden pangolin species</title>
+<link>https://www.sciencedaily.com/releases/2026/08/260826055500.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/08/260826055500.htm</guid>
+<content:encoded><![CDATA[
+
+DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.
+]]></content:encoded>
+<pubDate>Wed, 26 Aug 2026 08:46:59 EDT</pubDate>
+<pubDate>Wed, 26 Aug 2026 08:46:59 EDT</pubDate>
+</item>
+<item>
+<title>Bird flu is spreading. Your backyard feeder could make it worse</title>
+<link>https://www.sciencedaily.com/releases/2026/08/260824065519.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/08/260824065519.htm</guid>
+<content:encoded><![CDATA[
+
+Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.
+]]></content:encoded>
+<pubDate>Mon, 24 Aug 2026 08:49:08 EDT</pubDate>
+<pubDate>Mon, 24 Aug 2026 08:49:08 EDT</pubDate>
+</item>
+<item>
+<title>Queen bees have a disturbing way to survive pesticides</title>
+<link>https://www.sciencedaily.com/releases/2026/08/260821012224.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/08/260821012224.htm</guid>
+<content:encoded><![CDATA[
+
+Honeybee queens exposed to pesticides can shift some of the contamination into their eggs, revealing a previously unknown survival strategy. The process may protect the queen while putting developing offspring, and potentially the entire colony, at risk.
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2026 23:53:17 EDT</pubDate>
+<pubDate>Fri, 21 Aug 2026 23:53:17 EDT</pubDate>
+</item>
+<item>
+<title>A 236-million-year-old fossil could rewrite the story of mammalian birth</title>
+<link>https://www.sciencedaily.com/releases/2026/08/260813045534.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/08/260813045534.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists may have uncovered evidence that a mammal ancestor was giving birth to live young 236 million years ago. A fossilized cynodont showed a neonatal growth line and an unusually large birth size that closely match patterns seen in modern mammals. The discovery could push the evolution of live birth back by up to 95 million years. It also raises the possibility that many supposedly “modern” mammalian traits evolved surprisingly early.
+]]></content:encoded>
+<pubDate>Thu, 13 Aug 2026 05:53:05 EDT</pubDate>
+<pubDate>Thu, 13 Aug 2026 05:53:05 EDT</pubDate>
+</item>
+<item>
+<title>Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones</title>
+<link>https://www.sciencedaily.com/releases/2026/08/260811053042.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/08/260811053042.htm</guid>
+<content:encoded><![CDATA[
+
+Researchers have found strong evidence that original collagen can survive inside dinosaur fossils for tens of millions of years, overturning a long-standing assumption about fossilization. The discovery could unlock hidden molecular clues about dinosaur biology, evolution, and how ancient proteins managed to survive for so long.
+]]></content:encoded>
+<pubDate>Fri, 14 Aug 2026 05:51:50 EDT</pubDate>
+<pubDate>Fri, 14 Aug 2026 05:51:50 EDT</pubDate>
+</item>
+<item>
+<title>Scientists found evolution repeating itself in the Galápagos Islands</title>
+<link>https://www.sciencedaily.com/releases/2026/07/260729051537.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/07/260729051537.htm</guid>
+<content:encoded><![CDATA[
+
+More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.
+]]></content:encoded>
+<pubDate>Thu, 30 Jul 2026 08:13:37 EDT</pubDate>
+<pubDate>Thu, 30 Jul 2026 08:13:37 EDT</pubDate>
+</item>
+<item>
+<title>Ant brains reveal how evolution turned hunger into parenting</title>
+<link>https://www.sciencedaily.com/releases/2026/07/260729051519.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/07/260729051519.htm</guid>
+<content:encoded><![CDATA[
+
+Ant parenting may have evolved from the same brain systems that once controlled hunger. Researchers found that two chemical signals push clonal raider ants toward either caring for larvae or leaving to forage, with the balance changing as the ants grow older. Similar signals are involved in mammalian caregiving, suggesting that evolution may have followed the same basic blueprint across very different animals.
+]]></content:encoded>
+<pubDate>Sat, 01 Aug 2026 09:01:54 EDT</pubDate>
+<pubDate>Sat, 01 Aug 2026 09:01:54 EDT</pubDate>
+</item>
+<item>
+<title>Why are so many dead bumblebees appearing on sidewalks?</title>
+<link>https://www.sciencedaily.com/releases/2026/07/260727012134.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/07/260727012134.htm</guid>
+<content:encoded><![CDATA[
+
+Bumblebees naturally have short lives, but extreme heat and human activity are making survival harder. Pesticides can poison bees or destroy the flowers they depend on, while habitat loss leaves them with fewer safe places to live and feed. Protecting native plants and using fewer chemicals could help these vital pollinators recover.
+]]></content:encoded>
+<pubDate>Wed, 29 Jul 2026 08:05:56 EDT</pubDate>
+<pubDate>Wed, 29 Jul 2026 08:05:56 EDT</pubDate>
+</item>
+<item>
+<title>This dinosaur fossil captures the final moments of a T. rex attack</title>
+<link>https://www.sciencedaily.com/releases/2026/07/260713000811.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/07/260713000811.htm</guid>
+<content:encoded><![CDATA[
+
+A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an incredibly powerful face-to-face bite, offering new clues about how Tyrannosaurus hunted.
+]]></content:encoded>
+<pubDate>Tue, 14 Jul 2026 02:48:52 EDT</pubDate>
+<pubDate>Tue, 14 Jul 2026 02:48:52 EDT</pubDate>
+</item>
+<item>
+<title>Rare fossil goose rewrites the story of New Zealand's giant birds</title>
+<link>https://www.sciencedaily.com/releases/2026/07/260709160637.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/07/260709160637.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary history than once believed.
+]]></content:encoded>
+<pubDate>Fri, 10 Jul 2026 21:57:14 EDT</pubDate>
+<pubDate>Fri, 10 Jul 2026 21:57:14 EDT</pubDate>
+</item>
+<item>
+<title>Bumblebees collect up to 7 times more toxic metals than honeybees</title>
+<link>https://www.sciencedaily.com/releases/2026/07/260707025044.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/07/260707025044.htm</guid>
+<content:encoded><![CDATA[
+
+Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their ability to find food, reproduce, and keep colonies healthy.
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 18:11:22 EDT</pubDate>
+<pubDate>Tue, 07 Jul 2026 18:11:22 EDT</pubDate>
+</item>
+<item>
+<title>Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260625060216.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260625060216.htm</guid>
+<content:encoded><![CDATA[
+
+A stunning fossil discovery shows that ancient bees used the empty tooth sockets of mammal bones as tiny nests after owls scattered the bones across a cave floor 20,000 years ago. It's the first known evidence of bees nesting inside animal bones, revealing an astonishingly creative survival strategy.
+]]></content:encoded>
+<pubDate>Sun, 05 Jul 2026 15:23:32 EDT</pubDate>
+<pubDate>Sun, 05 Jul 2026 15:23:32 EDT</pubDate>
+</item>
+<item>
+<title>From pet to pest, goldfish can wreck entire ecosystems</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260622091524.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260622091524.htm</guid>
+<content:encoded><![CDATA[
+
+A new study reveals that goldfish can do far more than survive in the wild—they can fundamentally reshape freshwater ecosystems. Researchers found they cloud water, damage food webs, and hurt native fish populations, sometimes triggering major ecological shifts.
+]]></content:encoded>
+<pubDate>Fri, 26 Jun 2026 13:45:17 EDT</pubDate>
+<pubDate>Fri, 26 Jun 2026 13:45:17 EDT</pubDate>
+</item>
+<item>
+<title>This four-winged dinosaur may have terrorized Earth's earliest birds</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260621060311.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260621060311.htm</guid>
+<content:encoded><![CDATA[
+
+A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of Velociraptor, helps reveal how early birds and their dinosaur relatives shared the same ancient landscape.
+]]></content:encoded>
+<pubDate>Tue, 23 Jun 2026 08:58:10 EDT</pubDate>
+<pubDate>Tue, 23 Jun 2026 08:58:10 EDT</pubDate>
+</item>
+<item>
+<title>Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260621031409.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260621031409.htm</guid>
+<content:encoded><![CDATA[
+
+A team of researchers recreated a life-size oviraptor nest to investigate how these bird-like dinosaurs incubated their eggs millions of years ago. By combining physical experiments with heat transfer simulations, they discovered that oviraptors likely relied on both their own body heat and warmth from the sun.
+]]></content:encoded>
+<pubDate>Wed, 01 Jul 2026 16:13:44 EDT</pubDate>
+<pubDate>Wed, 01 Jul 2026 16:13:44 EDT</pubDate>
+</item>
+<item>
+<title>More trees can mean fewer birds, new study reveals</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260620100426.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260620100426.htm</guid>
+<content:encoded><![CDATA[
+
+Trees planted to protect farmland from wind may not be the biodiversity boost many assume. In Japan’s wetland farming landscapes, shelterbelts benefited some birds but sharply reduced grassland and wetland species that need open space. Researchers found grassland bird abundance dropped by more than 70% near shelterbelts.
+]]></content:encoded>
+<pubDate>Mon, 22 Jun 2026 09:14:03 EDT</pubDate>
+<pubDate>Mon, 22 Jun 2026 09:14:03 EDT</pubDate>
+</item>
+<item>
+<title>These bees have nowhere to hide from extreme heat</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260617032157.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260617032157.htm</guid>
+<content:encoded><![CDATA[
+
+A major study of Australian native bees found that stem-nesting species may be the first to feel the impact of climate change. Unlike bees that nest underground, they have few ways to escape dangerous heat. Researchers also discovered that tropical bees are particularly vulnerable, even when they are already adapted to hot environments. The findings suggest bee behavior could be a key factor in determining which species survive a warming world.
+]]></content:encoded>
+<pubDate>Thu, 18 Jun 2026 03:59:03 EDT</pubDate>
+<pubDate>Thu, 18 Jun 2026 03:59:03 EDT</pubDate>
+</item>
+<item>
+<title>Scientists found a way to explain bird flocks that “defy” Newton’s third law</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260615033843.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260615033843.htm</guid>
+<content:encoded><![CDATA[
+
+Physicists have solved a long-standing problem involving systems that appear to violate Newton’s third law, such as bird flocks and bacterial swarms. By adding carefully designed “imaginary partners” to their models, they can now simulate these complex systems with unprecedented accuracy.
+]]></content:encoded>
+<pubDate>Tue, 16 Jun 2026 07:28:42 EDT</pubDate>
+<pubDate>Tue, 16 Jun 2026 07:28:42 EDT</pubDate>
+</item>
+<item>
+<title>The deadly tapeworm spreading across America has reached the Pacific Northwest</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260611024610.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260611024610.htm</guid>
+<content:encoded><![CDATA[
+
+A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers discovered the parasite, Echinococcus multilocularis, in 37% of coyotes tested around Puget Sound—a surprisingly high rate for a region where it had never been reported until recently.
+]]></content:encoded>
+<pubDate>Thu, 11 Jun 2026 09:31:42 EDT</pubDate>
+<pubDate>Thu, 11 Jun 2026 09:31:42 EDT</pubDate>
+</item>
+<item>
+<title>This blood-feeding fly sacrifices its sight after finding a host</title>
+<link>https://www.sciencedaily.com/releases/2026/06/260602021633.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/06/260602021633.htm</guid>
+<content:encoded><![CDATA[
+
+Deer keds rely on flight and vision to find a host, but everything changes once they land. After shedding their wings forever, these parasites reduce the activity of key vision-related genes by about half. Scientists believe they are effectively trading sharp eyesight for extra energy that can be used for feeding and reproduction.
+]]></content:encoded>
+<pubDate>Tue, 02 Jun 2026 08:26:08 EDT</pubDate>
+<pubDate>Tue, 02 Jun 2026 08:26:08 EDT</pubDate>
+</item>
+<item>
+<title>A New York cemetery was hiding 5.5 million bees underground</title>
+<link>https://www.sciencedaily.com/releases/2026/05/260527023218.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/05/260527023218.htm</guid>
+<content:encoded><![CDATA[
+
+A casual walk through an Ithaca cemetery led to the discovery of a gigantic hidden bee population — roughly 5.5 million ground-nesting bees packed beneath the soil. Scientists believe it may be one of the largest bee aggregations ever documented and say the insects are crucial pollinators for apple orchards and other crops. The bees have likely lived there for more than 100 years, thriving in the cemetery’s undisturbed sandy soil.
+]]></content:encoded>
+<pubDate>Thu, 28 May 2026 04:29:31 EDT</pubDate>
+<pubDate>Thu, 28 May 2026 04:29:31 EDT</pubDate>
+</item>
+<item>
+<title>Humpback whale breaks migration record with 15,000 kilometer ocean journey</title>
+<link>https://www.sciencedaily.com/releases/2026/05/260519224303.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/05/260519224303.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by covering at least 15,100 kilometers between sightings, marking the longest confirmed journey ever documented for an individual humpback whale.
+]]></content:encoded>
+<pubDate>Tue, 19 May 2026 23:15:18 EDT</pubDate>
+<pubDate>Tue, 19 May 2026 23:15:18 EDT</pubDate>
+</item>
+<item>
+<title>Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones</title>
+<link>https://www.sciencedaily.com/releases/2026/05/260514084421.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/05/260514084421.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists have uncovered compelling evidence that dinosaur fossils may still contain traces of their original proteins, overturning a long-standing belief that fossilization destroys all organic material. In a remarkably well-preserved Edmontosaurus fossil from South Dakota, researchers detected remnants of collagen — the main protein found in bone — using advanced techniques including mass spectrometry and protein sequencing.
+]]></content:encoded>
+<pubDate>Thu, 14 May 2026 09:02:12 EDT</pubDate>
+<pubDate>Thu, 14 May 2026 09:02:12 EDT</pubDate>
+</item>
+<item>
+<title>Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it</title>
+<link>https://www.sciencedaily.com/releases/2026/04/260414075642.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/04/260414075642.htm</guid>
+<content:encoded><![CDATA[
+
+In the aftermath of Earth’s most catastrophic extinction event, one unlikely survivor rose to dominate a shattered world: Lystrosaurus. Now, a stunning fossil discovery—an ancient egg containing a curled-up embryo—has finally answered a decades-old mystery about whether mammal ancestors laid eggs. Using advanced imaging technology, scientists confirmed that these resilient creatures did reproduce this way, likely producing large, soft-shelled eggs packed with nutrients.
+]]></content:encoded>
+<pubDate>Tue, 14 Apr 2026 10:20:28 EDT</pubDate>
+<pubDate>Tue, 14 Apr 2026 10:20:28 EDT</pubDate>
+</item>
+<item>
+<title>The people you live with could be changing your gut bacteria</title>
+<link>https://www.sciencedaily.com/releases/2026/04/260413043131.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/04/260413043131.htm</guid>
+<content:encoded><![CDATA[
+
+Spending time with close companions might do more than strengthen bonds—it could also reshape your gut bacteria. In a study of island birds, those with stronger social ties shared more gut microbes, especially types that require direct contact to spread. This suggests that social interaction itself—not just shared space—drives microbial exchange. The same process may be happening in human households through everyday closeness.
+]]></content:encoded>
+<pubDate>Mon, 13 Apr 2026 23:40:13 EDT</pubDate>
+<pubDate>Mon, 13 Apr 2026 23:40:13 EDT</pubDate>
+</item>
+<item>
+<title>Gray whales are entering San Francisco Bay and many aren’t surviving</title>
+<link>https://www.sciencedaily.com/releases/2026/04/260413043127.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/04/260413043127.htm</guid>
+<content:encoded><![CDATA[
+
+Gray whales are beginning to break their long-established migration patterns, venturing into risky new territory like San Francisco Bay as climate change disrupts their Arctic food supply. But this unexpected detour is proving deadly: nearly one in five whales that enter the Bay don’t survive, with many struck by ships in the crowded, foggy waters.
+]]></content:encoded>
+<pubDate>Mon, 13 Apr 2026 09:09:27 EDT</pubDate>
+<pubDate>Mon, 13 Apr 2026 09:09:27 EDT</pubDate>
+</item>
+<item>
+<title>Ancient bees found nesting inside fossil bones in rare cave discovery</title>
+<link>https://www.sciencedaily.com/releases/2026/04/260402042748.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/04/260402042748.htm</guid>
+<content:encoded><![CDATA[
+
+Thousands of years ago in a cave on Hispaniola, an unusual chain of events left behind a rare scientific treasure: bees nesting inside fossilized bones. After giant barn owls repeatedly brought prey like hutias into the cave, their remains accumulated in silt-rich chambers—creating a strange underground environment. Later, burrowing bees took advantage of the soft sediment and even reused tiny cavities in fossilized jaws and bones as ready-made nests, coating them with a smooth, waterproof lining.
+]]></content:encoded>
+<pubDate>Fri, 03 Apr 2026 04:17:20 EDT</pubDate>
+<pubDate>Fri, 03 Apr 2026 04:17:20 EDT</pubDate>
+</item>
+<item>
+<title>This cow uses tools like a primate—and scientists are stunned</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260326075611.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260326075611.htm</guid>
+<content:encoded><![CDATA[
+
+A cow named Veronika has stunned scientists by using tools in a flexible and purposeful way. She chooses different ends of a brush depending on the part of her body and adjusts her movements accordingly. This level of tool use is incredibly rare and was previously seen mainly in primates. The finding hints that cows may be much smarter than we assume.
+]]></content:encoded>
+<pubDate>Thu, 26 Mar 2026 08:28:40 EDT</pubDate>
+<pubDate>Thu, 26 Mar 2026 08:28:40 EDT</pubDate>
+</item>
+<item>
+<title>Freshwater fish populations plunge 81% as river migrations collapse</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260326064157.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260326064157.htm</guid>
+<content:encoded><![CDATA[
+
+A sweeping global report finds that migratory freshwater fish are in steep decline, with populations down roughly 81% since 1970. These species depend on long, connected rivers, but dams and human pressures are cutting off their routes. Hundreds of species now need coordinated international protection. Experts say restoring river connectivity is critical to preventing further collapse.
+]]></content:encoded>
+<pubDate>Thu, 26 Mar 2026 21:51:08 EDT</pubDate>
+<pubDate>Thu, 26 Mar 2026 21:51:08 EDT</pubDate>
+</item>
+<item>
+<title>Scientists just discovered bees and hummingbirds are drinking alcohol</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260325005908.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260325005908.htm</guid>
+<content:encoded><![CDATA[
+
+Flower nectar often contains small amounts of alcohol, meaning pollinators like hummingbirds are drinking it all day long. Despite consuming human-equivalent amounts, they show no signs of intoxication—suggesting a surprising evolutionary tolerance.
+]]></content:encoded>
+<pubDate>Wed, 25 Mar 2026 07:05:29 EDT</pubDate>
+<pubDate>Wed, 25 Mar 2026 07:05:29 EDT</pubDate>
+</item>
+<item>
+<title>Scientists recreated a dinosaur nest to solve a 70-million-year-old mystery</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260319005102.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260319005102.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists recreated a life-size oviraptor nest to understand how these dinosaurs hatched their eggs. Their experiments showed the parent likely couldn’t heat all the eggs directly, meaning sunlight played a key role. This uneven heating could cause eggs in the same nest to hatch at different times. The results suggest oviraptors used a hybrid incubation method unlike modern birds.
+]]></content:encoded>
+<pubDate>Thu, 19 Mar 2026 00:58:27 EDT</pubDate>
+<pubDate>Thu, 19 Mar 2026 00:58:27 EDT</pubDate>
+</item>
+<item>
+<title>These dinosaurs had wings but couldn’t fly</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260318033115.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260318033115.htm</guid>
+<content:encoded><![CDATA[
+
+Some feathered dinosaurs may have briefly taken to the skies—only to give it up later. By studying rare fossils with preserved feathers, researchers uncovered a surprising clue hidden in molting patterns, revealing that Anchiornis likely couldn’t fly at all. Instead of the neat, symmetrical feather replacement seen in flying birds, these dinosaurs showed a messy, irregular molt—something only flightless animals exhibit.
+]]></content:encoded>
+<pubDate>Wed, 18 Mar 2026 06:08:57 EDT</pubDate>
+<pubDate>Wed, 18 Mar 2026 06:08:57 EDT</pubDate>
+</item>
+<item>
+<title>Extreme weather is hitting baby birds hard in a 60-year study</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260311213435.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260311213435.htm</guid>
+<content:encoded><![CDATA[
+
+Decades of data from over 80,000 great tits reveal that extreme weather can shape the fate of baby birds. Cold snaps soon after hatching and heavy rain later in development shrink nestling body mass and reduce survival odds. But moderate warm spells can actually help chicks grow by boosting insect activity and feeding opportunities. Birds that breed earlier in the season seem better protected from these weather shocks.
+]]></content:encoded>
+<pubDate>Thu, 12 Mar 2026 19:34:52 EDT</pubDate>
+<pubDate>Thu, 12 Mar 2026 19:34:52 EDT</pubDate>
+</item>
+<item>
+<title>Study finds wild release can be deadly for rescued slow lorises</title>
+<link>https://www.sciencedaily.com/releases/2026/03/260303201801.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/03/260303201801.htm</guid>
+<content:encoded><![CDATA[
+
+Returning rescued slow lorises to the wild may sound like a conservation success, but a new study shows it can turn deadly. Researchers tracked nine released animals and found that only two survived, with most killed in territorial attacks by other lorises. Scientists say better planning is essential to ensure wildlife releases actually help endangered species.
+]]></content:encoded>
+<pubDate>Tue, 03 Mar 2026 23:19:55 EST</pubDate>
+<pubDate>Tue, 03 Mar 2026 23:19:55 EST</pubDate>
+</item>
+<item>
+<title>H5N1 bird flu kills more than 50 skuas in first Antarctica wildlife die off</title>
+<link>https://www.sciencedaily.com/releases/2026/02/260211073029.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/02/260211073029.htm</guid>
+<content:encoded><![CDATA[
+
+For the first time, deadly H5N1 bird flu has been confirmed as the cause of a wildlife die-off in Antarctica, killing more than 50 skuas during the 2023–2024 summers. Researchers on an Antarctic expedition found the virus ravaging these powerful seabirds, with some suffering severe neurological symptoms—twisted necks, circling behavior, and even falling from the sky. While penguins and fur seals were examined, skuas emerged as the primary victims, especially on Beak Island, where a mass die-off occurred.
+]]></content:encoded>
+<pubDate>Thu, 12 Feb 2026 01:31:45 EST</pubDate>
+<pubDate>Thu, 12 Feb 2026 01:31:45 EST</pubDate>
+</item>
+<item>
+<title>Almost every forest bird in Hawaiʻi is spreading avian malaria</title>
+<link>https://www.sciencedaily.com/releases/2026/02/260211073016.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/02/260211073016.htm</guid>
+<content:encoded><![CDATA[
+
+Avian malaria is spreading across Hawaiʻi in a way scientists didn’t fully grasp until now: nearly every forest bird species can help keep the disease alive. Researchers found the parasite at 63 of 64 sites statewide, revealing that both native honeycreepers and introduced birds can quietly pass the infection to mosquitoes—even when carrying only tiny amounts of it. Because infected birds can remain contagious for months or even years, transmission keeps simmering almost everywhere mosquitoes exist.
+]]></content:encoded>
+<pubDate>Wed, 11 Feb 2026 08:04:23 EST</pubDate>
+<pubDate>Wed, 11 Feb 2026 08:04:23 EST</pubDate>
+</item>
+<item>
+<title>Pumas are back in Patagonia and Penguins are paying the price</title>
+<link>https://www.sciencedaily.com/releases/2026/02/260207232246.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/02/260207232246.htm</guid>
+<content:encoded><![CDATA[
+
+Pumas returning to Patagonia have begun hunting mainland penguins that evolved without land predators. Scientists estimate that more than 7,000 adult penguins were killed in just four years, many of them left uneaten. While the losses are dramatic, models show that pumas alone are unlikely to wipe out the colony. Greater dangers come from poor breeding and low survival among young penguins.
+]]></content:encoded>
+<pubDate>Sun, 08 Feb 2026 00:05:44 EST</pubDate>
+<pubDate>Sun, 08 Feb 2026 00:05:44 EST</pubDate>
+</item>
+<item>
+<title>Even remote Pacific fish are full of microplastics</title>
+<link>https://www.sciencedaily.com/releases/2026/02/260203020202.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/02/260203020202.htm</guid>
+<content:encoded><![CDATA[
+
+Even in some of the most isolated corners of the Pacific, plastic pollution has quietly worked its way into the food web. A large analysis of fish caught around Fiji, Tonga, Tuvalu, and Vanuatu found that roughly one in three contained microplastics, with Fiji standing out for especially high contamination. Reef and bottom-dwelling fish were most affected, linking exposure to where fish live and how they feed.
+]]></content:encoded>
+<pubDate>Tue, 03 Feb 2026 02:02:02 EST</pubDate>
+<pubDate>Tue, 03 Feb 2026 02:02:02 EST</pubDate>
+</item>
+<item>
+<title>This AI app can tell which dinosaur made a footprint</title>
+<link>https://www.sciencedaily.com/releases/2026/02/260201062455.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/02/260201062455.htm</guid>
+<content:encoded><![CDATA[
+
+Dinosaur footprints have always been mysterious, but a new AI app is cracking their secrets. DinoTracker analyzes photos of fossil tracks and predicts which dinosaur made them, with accuracy rivaling human experts. Along the way, it uncovered footprints that look strikingly bird-like—dating back more than 200 million years. That discovery could push the origin of birds much deeper into prehistory.
+]]></content:encoded>
+<pubDate>Sun, 01 Feb 2026 08:37:50 EST</pubDate>
+<pubDate>Sun, 01 Feb 2026 08:37:50 EST</pubDate>
+</item>
+<item>
+<title>How the frog meat trade helped spread a deadly fungus worldwide</title>
+<link>https://www.sciencedaily.com/releases/2026/01/260118233555.htm</link>
+<guid>https://www.sciencedaily.com/releases/2026/01/260118233555.htm</guid>
+<content:encoded><![CDATA[
+
+A deadly fungus that has wiped out hundreds of amphibian species worldwide may have started its global journey in Brazil. Genetic evidence and trade data suggest the fungus hitchhiked across the world via international frog meat markets. The findings raise urgent concerns about how wildlife trade can spread hidden biological threats.
+]]></content:encoded>
+<pubDate>Mon, 19 Jan 2026 06:40:08 EST</pubDate>
+<pubDate>Mon, 19 Jan 2026 06:40:08 EST</pubDate>
+</item>
+<item>
+<title>Why evolution rewarded ants that sacrificed protection</title>
+<link>https://www.sciencedaily.com/releases/2025/12/251222080127.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/12/251222080127.htm</guid>
+<content:encoded><![CDATA[
+
+Some ants thrive by choosing numbers over strength. Instead of heavily protecting each worker, they invest fewer resources in individual armor and produce far more ants. Larger colonies then compensate with collective behaviors like group defense and coordinated foraging. The strategy has been linked to evolutionary success and greater species diversity.
+]]></content:encoded>
+<pubDate>Mon, 22 Dec 2025 08:49:12 EST</pubDate>
+<pubDate>Mon, 22 Dec 2025 08:49:12 EST</pubDate>
+</item>
+<item>
+<title>Why consciousness exists at all</title>
+<link>https://www.sciencedaily.com/releases/2025/12/251215084209.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/12/251215084209.htm</guid>
+<content:encoded><![CDATA[
+
+Consciousness evolved in stages, starting with basic survival responses like pain and alarm, then expanding into focused awareness and self-reflection. These layers help organisms avoid danger, learn from the environment, and coordinate socially. Surprisingly, birds show many of these same traits, from subjective perception to basic self-awareness. This suggests consciousness is far older and more widespread than once believed.
+]]></content:encoded>
+<pubDate>Mon, 15 Dec 2025 10:29:52 EST</pubDate>
+<pubDate>Mon, 15 Dec 2025 10:29:52 EST</pubDate>
+</item>
+<item>
+<title>Giant sea monsters lived in rivers at the end of the dinosaur age</title>
+<link>https://www.sciencedaily.com/releases/2025/12/251215084203.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/12/251215084203.htm</guid>
+<content:encoded><![CDATA[
+
+Giant mosasaurs, once thought to be strictly ocean-dwelling predators, may have spent their final chapter prowling freshwater rivers alongside dinosaurs and crocodiles. A massive tooth found in North Dakota, analyzed using chemical isotope techniques, reveals that some mosasaurs adapted to river systems as seas gradually freshened near the end of the age of dinosaurs. These enormous reptiles, possibly as long as a bus, appear to have hunted near the surface, perhaps even feeding on drowned dinosaurs.
+]]></content:encoded>
+<pubDate>Mon, 15 Dec 2025 08:42:03 EST</pubDate>
+<pubDate>Mon, 15 Dec 2025 08:42:03 EST</pubDate>
+</item>
+<item>
+<title>These Bald Eagles fly the wrong way every year and stun scientists</title>
+<link>https://www.sciencedaily.com/releases/2025/12/251210092029.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/12/251210092029.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists tracking young Arizona Bald Eagles found that many migrate north during summer and fall, bucking the traditional southbound pattern of most birds. Their routes rely heavily on historic stopover lakes and rivers, and often extend deep into Canada. As the eagles mature, their flights become more precise, but they also encounter significant dangers like electrocution and poisoning. These discoveries point to the need for targeted conservation of critical travel corridors.
+]]></content:encoded>
+<pubDate>Thu, 11 Dec 2025 09:32:06 EST</pubDate>
+<pubDate>Thu, 11 Dec 2025 09:32:06 EST</pubDate>
+</item>
+<item>
+<title>Fossil brain scans show pterosaurs evolved flight in a flash</title>
+<link>https://www.sciencedaily.com/releases/2025/12/251208052529.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/12/251208052529.htm</guid>
+<content:encoded><![CDATA[
+
+Ancient pterosaurs may have taken to the skies far earlier and more explosively than birds, evolving flight at their very origin despite having relatively small brains. Using advanced CT imaging, scientists reconstructed the brain cavities of pterosaur fossils and their close relatives, uncovering surprising clues—such as enlarged optic lobes—that hint at a rapid leap into powered flight. Their findings contrast sharply with the slow, stepwise evolution seen in birds, whose brains expanded over time to support flying.
+]]></content:encoded>
+<pubDate>Tue, 09 Dec 2025 03:06:41 EST</pubDate>
+<pubDate>Tue, 09 Dec 2025 03:06:41 EST</pubDate>
+</item>
+<item>
+<title>Doomed ants send a final scent to save their colony</title>
+<link>https://www.sciencedaily.com/releases/2025/12/251203010205.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/12/251203010205.htm</guid>
+<content:encoded><![CDATA[
+
+Ant pupae that are fatally sick don’t hide their condition; instead, they release a special scent that warns the rest of the colony. This signal prompts worker ants to open the pupae’s cocoons and disinfect them with formic acid, stopping the infection before it can spread. Although the treatment kills the sick pupa, it protects the colony and helps ensure its long-term survival. Researchers found that only pupae too sick to recover send this scent, showing just how finely tuned the colony’s early-warning system is.
+]]></content:encoded>
+<pubDate>Wed, 03 Dec 2025 01:02:05 EST</pubDate>
+<pubDate>Wed, 03 Dec 2025 01:02:05 EST</pubDate>
+</item>
+<item>
+<title>Wild chimps consume more alcohol than anyone expected</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251130205418.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251130205418.htm</guid>
+<content:encoded><![CDATA[
+
+Chimpanzees naturally ingest surprising amounts of alcohol from ripe, fermenting fruit. Careful measurements show that their typical fruit diet can equal one to two human drinks each day. This supports the idea that alcohol exposure is not a modern human invention but an ancient primate habit. The work strengthens the “drunken monkey” hypothesis and opens new questions about how animals use ethanol cues in their environment.
+]]></content:encoded>
+<pubDate>Mon, 01 Dec 2025 11:40:42 EST</pubDate>
+<pubDate>Mon, 01 Dec 2025 11:40:42 EST</pubDate>
+</item>
+<item>
+<title>Dinosaur mummy found with hooves and a hidden crest</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251129044518.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251129044518.htm</guid>
+<content:encoded><![CDATA[
+
+Scientists have reconstructed the most complete and lifelike profile of Edmontosaurus annectens thanks to an extraordinary preservation process called clay templating, in which a thin clay film captured the dinosaur’s skin, scales, spikes, and even hooves in three dimensions. By combining newly excavated “mummies,” advanced imaging, and artistic reconstruction, researchers revealed a tall crest, a single row of tail spikes, delicate pebble-like scales, and—most remarkably—the earliest known hooves in any land vertebrate.
+]]></content:encoded>
+<pubDate>Sun, 30 Nov 2025 03:47:27 EST</pubDate>
+<pubDate>Sun, 30 Nov 2025 03:47:27 EST</pubDate>
+</item>
+<item>
+<title>Bird flu’s surprising heat tolerance has scientists worried</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251128050503.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251128050503.htm</guid>
+<content:encoded><![CDATA[
+
+Researchers discovered why bird flu can survive temperatures that stop human flu in its tracks. A key gene, PB1, gives avian viruses the ability to replicate even at fever-level heat. Mice experiments confirmed that fever cripples human-origin flu but not avian strains, especially those with avian-like PB1. These findings highlight how gene swapping could fuel future pandemics.
+]]></content:encoded>
+<pubDate>Fri, 28 Nov 2025 07:37:38 EST</pubDate>
+<pubDate>Fri, 28 Nov 2025 07:37:38 EST</pubDate>
+</item>
+<item>
+<title>The five great forests that keep North America’s birds alive</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251121090735.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251121090735.htm</guid>
+<content:encoded><![CDATA[
+
+Migratory birds that fill North American forests with spring songs depend on Central America’s Five Great Forests far more than most people realize. New research shows these tropical strongholds shelter enormous shares of species like Wood Thrushes, Cerulean Warblers, and Golden-winged Warblers—many of which are rapidly declining. Yet these forests are disappearing at an alarming pace due to illegal cattle ranching, placing both birds and local communities at risk.
+]]></content:encoded>
+<pubDate>Sat, 22 Nov 2025 08:35:04 EST</pubDate>
+<pubDate>Sat, 22 Nov 2025 08:35:04 EST</pubDate>
+</item>
+<item>
+<title>A crisis deepens as African penguins compete with fishing fleets for food</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251117095642.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251117095642.htm</guid>
+<content:encoded><![CDATA[
+
+During years of scarce fish, African penguins crowd into the same areas as commercial fishing vessels, heightening competition for dwindling prey. A new metric called “overlap intensity” shows how many penguins are affected and is already shaping improved conservation policies.
+]]></content:encoded>
+<pubDate>Mon, 17 Nov 2025 09:56:42 EST</pubDate>
+<pubDate>Mon, 17 Nov 2025 09:56:42 EST</pubDate>
+</item>
+<item>
+<title>Birds, not wind, brought life to Iceland’s youngest island</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251104094148.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251104094148.htm</guid>
+<content:encoded><![CDATA[
+
+When Surtsey erupted from the sea in 1963, it became a living experiment in how life begins anew. Decades later, scientists discovered that the plants colonizing this young island weren’t carried by the wind or floating on ocean currents, but delivered by birds — gulls, geese, and shorebirds serving as winged gardeners. Their findings overturn long-held beliefs about seed dispersal and reveal how deeply interconnected life truly is.
+]]></content:encoded>
+<pubDate>Tue, 04 Nov 2025 09:41:48 EST</pubDate>
+<pubDate>Tue, 04 Nov 2025 09:41:48 EST</pubDate>
+</item>
+<item>
+<title>After 25 years, scientists solve the bird-eating bat mystery</title>
+<link>https://www.sciencedaily.com/releases/2025/11/251101000404.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/11/251101000404.htm</guid>
+<content:encoded><![CDATA[
+
+After decades of mystery, scientists have finally proven that Europe’s largest bat, the greater noctule, hunts and eats small songbirds mid-air—more than a kilometer above ground. Using tiny biologgers strapped to bats, researchers recorded astonishing dives and mid-flight chewing sounds confirming bird predation long suspected but never observed.
+]]></content:encoded>
+<pubDate>Sun, 02 Nov 2025 01:06:24 EDT</pubDate>
+<pubDate>Sun, 02 Nov 2025 01:06:24 EDT</pubDate>
+</item>
+<item>
+<title>Antarctic robot ‘Lassie’ uncovers thousands of icefish nests beneath Antarctic ice</title>
+<link>https://www.sciencedaily.com/releases/2025/10/251029002847.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/10/251029002847.htm</guid>
+<content:encoded><![CDATA[
+
+Beneath the ice of Antarctica’s Weddell Sea, scientists discovered a vast, organized city of fish nests revealed after the colossal A68 iceberg broke away. Using robotic explorers, they found over a thousand circular nests forming geometric patterns, each guarded by yellowfin noties. The expedition, initially aimed at studying the ice shelf and locating Shackleton’s Endurance, instead unveiled a thriving, structured ecosystem in one of the harshest places on Earth.
+]]></content:encoded>
+<pubDate>Wed, 29 Oct 2025 03:45:40 EDT</pubDate>
+<pubDate>Wed, 29 Oct 2025 03:45:40 EDT</pubDate>
+</item>
+<item>
+<title>This tiny worm uses static electricity to hunt flying insects</title>
+<link>https://www.sciencedaily.com/releases/2025/10/251015032304.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/10/251015032304.htm</guid>
+<content:encoded><![CDATA[
+
+A parasitic worm uses static electricity to launch itself onto flying insects, a mechanism uncovered by physicists and biologists at Emory and Berkeley. By generating opposite charges, the worm and insect attract, allowing the leap to succeed far more often. High-speed cameras and mathematical modeling confirmed this “electrostatic ecology” in action.
+]]></content:encoded>
+<pubDate>Wed, 15 Oct 2025 22:44:17 EDT</pubDate>
+<pubDate>Wed, 15 Oct 2025 22:44:17 EDT</pubDate>
+</item>
+<item>
+<title>Birds around the world share a mysterious warning cry</title>
+<link>https://www.sciencedaily.com/releases/2025/10/251006051113.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/10/251006051113.htm</guid>
+<content:encoded><![CDATA[
+
+Birds across the globe independently evolved a shared warning call against parasites, blending instinct and learning in a remarkable evolutionary pattern. The finding offers a rare glimpse into how cooperation and communication systems evolve across species.
+]]></content:encoded>
+<pubDate>Mon, 06 Oct 2025 05:11:13 EDT</pubDate>
+<pubDate>Mon, 06 Oct 2025 05:11:13 EDT</pubDate>
+</item>
+<item>
+<title>Baby pterosaurs died in ancient storms—and their fossils reveal the truth</title>
+<link>https://www.sciencedaily.com/releases/2025/09/250905180737.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/09/250905180737.htm</guid>
+<content:encoded><![CDATA[
+
+Two tiny pterosaurs, preserved for 150 million years, have revealed a surprising cause of death: violent storms. Researchers at the University of Leicester discovered both hatchlings, nicknamed Lucky and Lucky II, with broken wings—injuries consistent with being tossed through the air by powerful gusts. These storms not only claimed their lives but also created the rare conditions that preserved them so perfectly in the Solnhofen limestones.
+]]></content:encoded>
+<pubDate>Fri, 05 Sep 2025 22:56:23 EDT</pubDate>
+<pubDate>Fri, 05 Sep 2025 22:56:23 EDT</pubDate>
+</item>
+<item>
+<title>Scientists uncover the secret to orangutan survival in the trees</title>
+<link>https://www.sciencedaily.com/releases/2025/08/250830001157.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/08/250830001157.htm</guid>
+<content:encoded><![CDATA[
+
+Young orangutans master the art of building intricate treetop nests not by instinct alone, but by closely watching their mothers and peers. Researchers tracking wild Sumatran orangutans over 17 years discovered that “peering”—the deliberate act of observing nest construction—is the key to learning.
+]]></content:encoded>
+<pubDate>Sat, 30 Aug 2025 00:11:57 EDT</pubDate>
+<pubDate>Sat, 30 Aug 2025 00:11:57 EDT</pubDate>
+</item>
+<item>
+<title>Bumble bees balance their diets with surprising precision</title>
+<link>https://www.sciencedaily.com/releases/2025/08/250827010724.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/08/250827010724.htm</guid>
+<content:encoded><![CDATA[
+
+Bumble bees aren’t random foragers – they’re master nutritionists. Over an eight-year field study in the Colorado Rockies, scientists uncovered that different bee species strategically balance their intake of protein, fats, and carbs by choosing pollen from specific flowers. Larger, long-tongued bees seek protein-rich pollen, while smaller, short-tongued species prefer carb- and fat-heavy sources. These dietary preferences shift with the seasons and colony life cycles, helping bees reduce competition, thrive together, and maintain strong colonies.
+]]></content:encoded>
+<pubDate>Wed, 27 Aug 2025 01:07:24 EDT</pubDate>
+<pubDate>Wed, 27 Aug 2025 01:07:24 EDT</pubDate>
+</item>
+<item>
+<title>Most of Earth’s species came from explosive bursts of evolution</title>
+<link>https://www.sciencedaily.com/releases/2025/08/250822073805.htm</link>
+<guid>https://www.sciencedaily.com/releases/2025/08/250822073805.htm</guid>
+<content:encoded><![CDATA[
+
+A new study reveals that the majority of Earth’s species stem from a few evolutionary explosions, where new traits or habitats sparked rapid diversification. From flowers to birds, these bursts explain most of the planet’s biodiversity.
+]]></content:encoded>
+<pubDate>Sat, 23 Aug 2025 05:33:02 EDT</pubDate>
+<pubDate>Sat, 23 Aug 2025 05:33:02 EDT</pubDate>
+</item>
+
+</channel>
+</rss>
