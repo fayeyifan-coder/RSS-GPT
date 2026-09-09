@@ -175,3 +175,12 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 1
 Finish: 2026-09-09 11:41:19.632180
+------------------------------------------------------
+Started: 2026-09-09 12:13:58.390168
+Existing_entries: 121
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 0
+Finish: 2026-09-09 12:13:59.445786
