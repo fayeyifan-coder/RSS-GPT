@@ -222,3 +222,13 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 0
 Finish: 2026-09-09 20:12:10.076611
+------------------------------------------------------
+Started: 2026-09-09 22:12:07.612247
+Existing_entries: 123
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Append: [Validating the Gap-Startle Paradigm for Tinnitus Detection: A Machine Learning Approach in CBA/CaJ Mice](https://www.biorxiv.org/content/10.64898/2026.09.05.747694v1?rss=1)
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 1
+Finish: 2026-09-09 22:12:09.130653
