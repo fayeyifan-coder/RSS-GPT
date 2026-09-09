@@ -74,3 +74,40 @@ Fetch failed from https://restofworld.org/feed/
 Fetching from https://www.project-syndicate.org/rss
 append_entries: 0
 Finish: 2026-09-09 10:20:10.892726
+------------------------------------------------------
+Started: 2026-09-09 11:15:12.191974
+Existing_entries: 40
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Token length: 212
+Summarized using deepseek-chat
+Append: [Now it’s China’s experts who are gig workers training AI data](https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 168
+Summarized using deepseek-chat
+Append: [Think your EV holds its value? China has some bad news for you](https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 187
+Summarized using deepseek-chat
+Append: [Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings](https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 195
+Summarized using deepseek-chat
+Append: [I refused to train the AI that could replace me](https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 165
+Summarized using deepseek-chat
+Append: [Taiwan’s six-year hunt for China’s undercover chip labs](https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 202
+Summarized using deepseek-chat
+Append: [AI safety is designed in the West, and failing users everywhere](https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 192
+Summarized using deepseek-chat
+Append: [Meta accepts U.S. safety rules while pitching softer tools abroad](https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Token length: 165
+Summarized using deepseek-chat
+Append: [I went to China to see a different AI future. It looked familiar](https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Append: [India’s data center boom is leaving the people it displaces with nothing](https://restofworld.org/2026/india-data-center-boom-local-community-impact-osama-manzar/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Append: [Why the global push to break free from Big Tech keeps falling short](https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Append: [America’s immigration policy is driving away future AI leaders](https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Append: [The UAE is fighting AI hackers with AI of its own](https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Fetching from https://www.project-syndicate.org/rss
+Append: [The BRICS at 20](https://www.project-syndicate.org/commentary/20-years-of-brics-has-reshaped-international-affairs-by-brahma-chellaney-2026-09)
+append_entries: 13
+Finish: 2026-09-09 11:15:38.580726

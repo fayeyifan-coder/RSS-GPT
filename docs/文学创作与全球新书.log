@@ -72,3 +72,15 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 0
 Finish: 2026-09-09 10:20:14.700132
+------------------------------------------------------
+Started: 2026-09-09 11:15:38.635345
+Existing_entries: 40
+Fetching from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Token length: 1590
+Summarized using deepseek-chat
+Append: [Lit Hub Daily: September 9, 2026](https://lithub.com/lit-hub-daily-september-9-2026/)
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 1
+Finish: 2026-09-09 11:15:46.346669
