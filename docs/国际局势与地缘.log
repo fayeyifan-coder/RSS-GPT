@@ -149,3 +149,15 @@ Fetching from https://www.project-syndicate.org/rss
 Append: [Europe Needs Dual-Use Defense Spending](https://www.project-syndicate.org/commentary/how-eu-defense-spending-can-deliver-economic-dynamism-by-krzysztof-krawczyk-2026-09)
 append_entries: 2
 Finish: 2026-09-09 16:13:26.076639
+------------------------------------------------------
+Started: 2026-09-09 18:14:47.554690
+Existing_entries: 57
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+Append: [How 9/11 Fractured the Global Order](https://www.project-syndicate.org/commentary/9-11-us-russia-china-todays-fractured-global-order-by-javier-solana-and-angel-saz-carranza-1-2026-09)
+Append: [China’s Permanent Manufacturing Revolution](https://www.project-syndicate.org/commentary/china-manufacturing-prowess-will-drive-down-industrial-employment-everywhere-by-adair-turner-2026-09)
+append_entries: 2
+Finish: 2026-09-09 18:14:49.140024
