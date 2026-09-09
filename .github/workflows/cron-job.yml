@@ -25,6 +25,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # 临时检查配置是否正确
+      - name: Check DeepSeek config
+        run: |
+          echo "BASE_URL=$OPENAI_BASE_URL"
+          echo "MODEL=$CUSTOM_MODEL"
+          echo "KEY_LENGTH=${#OPENAI_API_KEY}"
+        env:
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
       - name: Run RSS generation
         run: |
           python main.py
