@@ -111,3 +111,11 @@ Fetching from https://www.project-syndicate.org/rss
 Append: [The BRICS at 20](https://www.project-syndicate.org/commentary/20-years-of-brics-has-reshaped-international-affairs-by-brahma-chellaney-2026-09)
 append_entries: 13
 Finish: 2026-09-09 11:15:38.580726
+------------------------------------------------------
+Started: 2026-09-09 11:41:21.279410
+Existing_entries: 53
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 0
+Finish: 2026-09-09 11:41:22.743511

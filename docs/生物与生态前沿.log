@@ -165,3 +165,13 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 0
 Finish: 2026-09-09 11:14:45.088588
+------------------------------------------------------
+Started: 2026-09-09 11:41:18.403971
+Existing_entries: 120
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Append: [Active and total rhizosphere microbiomes of plant mixtures diverge from additive expectations, depending on nitrogen and plant composition](https://www.biorxiv.org/content/10.64898/2026.09.04.749479v1?rss=1)
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 1
+Finish: 2026-09-09 11:41:19.632180

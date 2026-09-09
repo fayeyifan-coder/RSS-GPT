@@ -84,3 +84,12 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 1
 Finish: 2026-09-09 11:15:46.346669
+------------------------------------------------------
+Started: 2026-09-09 11:41:22.817083
+Existing_entries: 41
+Fetching from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 0
+Finish: 2026-09-09 11:41:25.673236
