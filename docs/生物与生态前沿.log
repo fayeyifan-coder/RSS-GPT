@@ -194,3 +194,13 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 1
 Finish: 2026-09-09 14:12:30.223715
+------------------------------------------------------
+Started: 2026-09-09 16:13:22.498254
+Existing_entries: 122
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Append: [Sediment depth-dependent trait expression controls species contributions to nutrient cycling](https://www.biorxiv.org/content/10.64898/2026.09.04.748838v1?rss=1)
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 1
+Finish: 2026-09-09 16:13:23.787673

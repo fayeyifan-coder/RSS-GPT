@@ -137,3 +137,15 @@ Fetching from https://www.project-syndicate.org/rss
 Append: [The World 9/11 Didn’t Make](https://www.project-syndicate.org/commentary/911-terrorist-attack-did-not-change-the-course-of-history-by-richard-haass-2026-09)
 append_entries: 1
 Finish: 2026-09-09 14:12:32.131090
+------------------------------------------------------
+Started: 2026-09-09 16:13:24.895474
+Existing_entries: 55
+Fetching from https://www.foreignaffairs.com/rss.xml
+Append: [How al-Qaeda Ended](https://www.foreignaffairs.com/united-states/sept-11-how-al-qaeda-ended)
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+Append: [Europe Needs Dual-Use Defense Spending](https://www.project-syndicate.org/commentary/how-eu-defense-spending-can-deliver-economic-dynamism-by-krzysztof-krawczyk-2026-09)
+append_entries: 2
+Finish: 2026-09-09 16:13:26.076639
