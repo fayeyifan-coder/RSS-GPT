@@ -274,3 +274,16 @@ Fetching from https://www.project-syndicate.org/rss
 Append: [What 9/11 Did to Us](https://www.project-syndicate.org/commentary/what-9-11-did-us-politics-foreign-policy-25-years-later-by-anne-marie-slaughter-2026-09)
 append_entries: 2
 Finish: 2026-09-10 16:12:04.980282
+------------------------------------------------------
+Started: 2026-09-10 18:14:05.685075
+Existing_entries: 66
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+Append: [9/11’s Long Shadow](https://www.project-syndicate.org/onpoint/9-11-s-long-shadow)
+Append: [The False Politics of Western Declinism](https://www.project-syndicate.org/commentary/western-leaders-obsession-with-declinist-narratives-could-become-self-fulfilling-prophecy-by-carl-johan-dalgaard-and-mark-medish-2026-09)
+Append: [The Big Picture](https://www.project-syndicate.org/commentary/9-11-s-long-shadow-doc-2026-09)
+append_entries: 3
+Finish: 2026-09-10 18:14:06.399330
