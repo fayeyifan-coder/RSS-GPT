@@ -295,3 +295,13 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 0
 Finish: 2026-09-10 12:15:51.886618
+------------------------------------------------------
+Started: 2026-09-10 14:11:55.714643
+Existing_entries: 124
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Append: [Towards Automated Acoustic Monitoring of Threatened Birds in Tropical Forest Ecosystem Restoration](https://www.biorxiv.org/content/10.64898/2026.09.06.749699v1?rss=1)
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 1
+Finish: 2026-09-10 14:11:56.408352

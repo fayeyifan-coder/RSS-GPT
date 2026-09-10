@@ -253,3 +253,14 @@ Append: [Trump Is Stoking Territorial Revisionism](https://www.project-syndicate
 Append: [Have the Terrorists Won?](https://www.project-syndicate.org/commentary/quarter-century-of-aggressive-war-and-official-lying-since-911-attacks-by-timothy-snyder-2026-09)
 append_entries: 2
 Finish: 2026-09-10 12:15:53.643925
+------------------------------------------------------
+Started: 2026-09-10 14:11:57.118431
+Existing_entries: 63
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+Append: [After the AI Bubble Bursts](https://www.project-syndicate.org/commentary/private-debt-markets-opaque-as-ai-investment-soars-by-barry-eichengreen-2026-09)
+append_entries: 1
+Finish: 2026-09-10 14:11:57.679278
