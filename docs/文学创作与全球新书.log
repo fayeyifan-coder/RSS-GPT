@@ -218,3 +218,15 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 8
 Finish: 2026-09-10 10:12:48.766341
+------------------------------------------------------
+Started: 2026-09-10 12:15:53.770538
+Existing_entries: 54
+Fetching from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Append: [Lit Hub Daily: September 10, 2026](https://lithub.com/lit-hub-daily-september-10-2026/)
+Append: [5 Book Reviews You Need to Read This Week](https://lithub.com/5-book-reviews-you-need-to-read-this-week-9-10-2026/)
+Append: [How I Learned to Love My Dog By Observing His Behavior](https://lithub.com/how-i-learned-to-love-my-dog-by-observing-his-behavior/)
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 3
+Finish: 2026-09-10 12:15:57.365187

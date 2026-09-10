@@ -241,3 +241,15 @@ Fetch failed from https://restofworld.org/feed/
 Fetching from https://www.project-syndicate.org/rss
 append_entries: 0
 Finish: 2026-09-10 10:12:45.792741
+------------------------------------------------------
+Started: 2026-09-10 12:15:52.567065
+Existing_entries: 61
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+Append: [Trump Is Stoking Territorial Revisionism](https://www.project-syndicate.org/commentary/trump-embrace-of-territorial-revisionism-is-reshaping-world-affairs-by-shlomo-ben-ami-2026-09)
+Append: [Have the Terrorists Won?](https://www.project-syndicate.org/commentary/quarter-century-of-aggressive-war-and-official-lying-since-911-attacks-by-timothy-snyder-2026-09)
+append_entries: 2
+Finish: 2026-09-10 12:15:53.643925
