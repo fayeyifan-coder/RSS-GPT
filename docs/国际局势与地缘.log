@@ -209,3 +209,15 @@ Fetch failed from https://restofworld.org/feed/
 Fetching from https://www.project-syndicate.org/rss
 append_entries: 0
 Finish: 2026-09-10 04:12:20.127605
+------------------------------------------------------
+Started: 2026-09-10 06:15:15.186694
+Existing_entries: 59
+Fetching from https://www.foreignaffairs.com/rss.xml
+Append: [The Coming Risks to Russian Power](https://www.foreignaffairs.com/russia/coming-risks-russian-power)
+Append: [The Case for Letting China In](https://www.foreignaffairs.com/china/case-letting-china)
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 2
+Finish: 2026-09-10 06:15:16.120820
