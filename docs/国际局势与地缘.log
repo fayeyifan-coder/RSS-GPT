@@ -181,3 +181,11 @@ Fetch failed from https://restofworld.org/feed/
 Fetching from https://www.project-syndicate.org/rss
 append_entries: 0
 Finish: 2026-09-09 22:12:11.146163
+------------------------------------------------------
+Started: 2026-09-10 00:15:00.142570
+Existing_entries: 59
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 0
+Finish: 2026-09-10 00:15:01.097110
