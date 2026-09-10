@@ -264,3 +264,13 @@ Fetching from https://www.project-syndicate.org/rss
 Append: [After the AI Bubble Bursts](https://www.project-syndicate.org/commentary/private-debt-markets-opaque-as-ai-investment-soars-by-barry-eichengreen-2026-09)
 append_entries: 1
 Finish: 2026-09-10 14:11:57.679278
+------------------------------------------------------
+Started: 2026-09-10 16:12:03.577730
+Existing_entries: 64
+Fetching from https://www.foreignaffairs.com/rss.xml
+Append: [The Case for Letting China In](https://www.foreignaffairs.com/china/case-letting-china-american-businesses-brian-deese)
+Fetching from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+Append: [What 9/11 Did to Us](https://www.project-syndicate.org/commentary/what-9-11-did-us-politics-foreign-policy-25-years-later-by-anne-marie-slaughter-2026-09)
+append_entries: 2
+Finish: 2026-09-10 16:12:04.980282
