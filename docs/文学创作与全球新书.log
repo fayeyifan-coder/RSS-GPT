@@ -268,3 +268,13 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 1
 Finish: 2026-09-10 20:11:53.076744
+------------------------------------------------------
+Started: 2026-09-10 22:10:50.791244
+Existing_entries: 59
+Fetching from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Append: [121 years ago, Russian printers went on strike over commas.](https://lithub.com/121-years-ago-russian-printers-went-on-strike-over-commas/)
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 1
+Finish: 2026-09-10 22:10:53.228803

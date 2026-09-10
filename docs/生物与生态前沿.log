@@ -332,3 +332,16 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 0
 Finish: 2026-09-10 20:11:48.884220
+------------------------------------------------------
+Started: 2026-09-10 22:10:48.291247
+Existing_entries: 125
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Append: [Intertwined degradation of plant diversity and permafrost in sub-Arctic palsa mires](https://www.biorxiv.org/content/10.64898/2026.09.07.749784v1?rss=1)
+Append: [Nutritional history affects stress-resistance architecture across ageing and sex](https://www.biorxiv.org/content/10.64898/2026.09.08.750110v1?rss=1)
+Append: [Body condition as an indicator of long-term ecosystem change: evidence from common dolphins](https://www.biorxiv.org/content/10.64898/2026.09.08.750080v1?rss=1)
+Append: [Omitting end preparation reduces index misassignment in Nanopore-based DNA metabarcoding: application to a decadal coastal time series in the Sea of Okhotsk](https://www.biorxiv.org/content/10.64898/2026.09.08.750005v1?rss=1)
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 4
+Finish: 2026-09-10 22:10:49.083773
