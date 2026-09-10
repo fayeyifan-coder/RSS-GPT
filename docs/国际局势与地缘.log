@@ -287,3 +287,13 @@ Append: [The False Politics of Western Declinism](https://www.project-syndicate.
 Append: [The Big Picture](https://www.project-syndicate.org/commentary/9-11-s-long-shadow-doc-2026-09)
 append_entries: 3
 Finish: 2026-09-10 18:14:06.399330
+------------------------------------------------------
+Started: 2026-09-10 20:11:49.752228
+Existing_entries: 69
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Fetch error: 403
+Fetch failed from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 0
+Finish: 2026-09-10 20:11:50.519429

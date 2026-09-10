@@ -258,3 +258,13 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 0
 Finish: 2026-09-10 18:14:09.381493
+------------------------------------------------------
+Started: 2026-09-10 20:11:50.647067
+Existing_entries: 58
+Fetching from https://www.douban.com/feed/review/book
+Append: [1 (评论: L'Apocalypse déçoit)](https://book.douban.com/review/17811017/)
+Fetching from https://lithub.com/feed/
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 1
+Finish: 2026-09-10 20:11:53.076744
