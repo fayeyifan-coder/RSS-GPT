@@ -189,3 +189,15 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 0
 Finish: 2026-09-10 06:15:19.073996
+------------------------------------------------------
+Started: 2026-09-10 08:12:39.607766
+Existing_entries: 45
+Fetching from https://www.douban.com/feed/review/book
+Fetch error: 403
+Fetch failed from https://www.douban.com/feed/review/book
+Fetching from https://lithub.com/feed/
+Append: [Robert Moor on Rethinking Environmentalism, Tree by Tree](https://lithub.com/robert-moor-on-rethinking-environmentalism-tree-by-tree/)
+Fetching from https://www.wordswithoutborders.org/rss/
+Fetching from https://www.nybooks.com/feed/
+append_entries: 1
+Finish: 2026-09-10 08:12:40.936147
