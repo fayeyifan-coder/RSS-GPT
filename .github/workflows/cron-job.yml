@@ -1,12 +1,16 @@
-name: cron_job
+name: RSS-GPT Auto Update
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    # every 2 hours
+    - cron: "0 */2 * * *"
+
   workflow_dispatch:
+
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     permissions:
@@ -15,61 +19,88 @@ jobs:
     steps:
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          clean: true
+
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+
+      - name: Check DeepSeek config
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
+        run: |
+
+          echo "BASE URL:"
+          echo $OPENAI_BASE_URL
+
+          echo "MODEL:"
+          echo $CUSTOM_MODEL
+
+
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "ERROR: API KEY missing"
+            exit 1
+          fi
+
+          echo "API KEY exists"
+
+
       - name: Run RSS generator
         env:
-          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+
           CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
           U_NAME: ${{ secrets.U_NAME }}
 
         run: |
+
           python main.py
+
+          echo "Generated files:"
           ls -al docs/
 
 
-      - name: Commit changes
+      - name: Commit and push
+
         run: |
 
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
 
-          # 强制同步远程
-          git fetch origin main
-
-          git checkout main
-
-          git reset --hard origin/main
+          git add docs README.md README-zh.md
 
 
-          # 重新生成文件
-          python main.py
-
-
-          git add docs README*
-
-
-          if git diff --cached --quiet; then
-            echo "No changes."
+          if git diff --cached --quiet;
+          then
+            echo "No changes"
             exit 0
           fi
 
 
-          git commit -m "Update RSS $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "Auto update RSS"
+
+
+          git pull origin main --no-rebase || true
 
 
           git push origin main
