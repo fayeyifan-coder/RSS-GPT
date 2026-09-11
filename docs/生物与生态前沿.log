@@ -345,3 +345,16 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 4
 Finish: 2026-09-10 22:10:49.083773
+------------------------------------------------------
+Started: 2026-09-11 00:16:25.374116
+Existing_entries: 129
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetch error: 503
+Fetch failed from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Fetch error: HTTPSConnectionPool(host='connect.biorxiv.org', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 0
+Finish: 2026-09-11 00:17:16.017493

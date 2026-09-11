@@ -992,3 +992,46 @@ Fetch error: 404
 Fetch failed from https://theconversation.com/global/society/articles.atom
 append_entries: 30
 error when rendering xml, skip docs/人文与社会深度
+------------------------------------------------------
+Started: 2026-09-11 00:17:16.017742
+Existing_entries: 0
+Fetching from https://daily.jstor.org/feed/
+Append: [What’s Queer About The Legend of Zelda?](https://daily.jstor.org/whats-queer-about-the-legend-of-zelda/)
+Append: [What Came Before the American Suburb?](https://daily.jstor.org/what-came-before-the-american-suburb/)
+Append: [How the Elite Learned to Seem Less Elite](https://daily.jstor.org/how-the-elite-learned-to-seem-less-elite/)
+Append: [The Nazi Car That Conquered the World](https://daily.jstor.org/the-nazi-car-that-conquered-the-world/)
+Append: [The Chinese-Only Schools of the Jim Crow South](https://daily.jstor.org/the-chinese-only-schools-of-the-jim-crow-south/)
+Append: [Why Is Raja Ravi Varma’s Art So Valuable Today?](https://daily.jstor.org/why-is-raja-ravi-varmas-art-so-valuable-today/)
+Append: [A Brief History of Women’s Underwear](https://daily.jstor.org/a-brief-history-of-womens-underwear/)
+Append: [What Civics Class Is For](https://daily.jstor.org/what-civics-class-is-for/)
+Append: [The Jewish Labor Bund’s Anti-Zionist Legacy](https://daily.jstor.org/the-jewish-labor-bunds-anti-zionist-legacy/)
+Append: [Why Is Leadership Riskier for Women?](https://daily.jstor.org/why-is-leadership-riskier-for-women/)
+Fetching from https://aeon.co/feed.rss
+Append: [The Chinese room](https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness)
+Append: [Medieval mental health](https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health)
+Append: [Making revisions](https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past)
+Append: [Our eloquent hands](https://aeon.co/essays/what-palmistry-and-medicine-have-always-had-in-common)
+Append: [The planet is… up to something](https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times)
+Append: [Continental divide](https://aeon.co/essays/why-the-pan-american-highway-only-half-exists)
+Append: [Upend the trickle-down](https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it)
+Append: [Neuroqueering on the lawn](https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance)
+Append: [More nothing now](https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score)
+Append: [The Singapore strategies](https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security)
+Append: [The fog of hunger](https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman)
+Append: [A vocabulary for the future: touch](https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch)
+Append: [Dolphins and other lovers](https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin)
+Append: [The conscience files](https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park)
+Append: [In praise of zealotry](https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry)
+Append: [The World Famous Gopher Hole Museum](https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction)
+Append: [Worm munch matters](https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil)
+Append: [The neverending house](https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes)
+Append: [Where the earth meets the sky](https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space)
+Append: [Mecca and the mall](https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall)
+Fetching from https://theconversation.com/global/arts-culture/articles.atom
+Fetch error: 404
+Fetch failed from https://theconversation.com/global/arts-culture/articles.atom
+Fetching from https://theconversation.com/global/society/articles.atom
+Fetch error: 404
+Fetch failed from https://theconversation.com/global/society/articles.atom
+append_entries: 30
+error when rendering xml, skip docs/人文与社会深度
