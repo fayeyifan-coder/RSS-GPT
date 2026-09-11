@@ -55,7 +55,7 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition, https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology, https://www.mongabay.com/feed/, https://www.sciencedaily.com/rss/plants_animals/birds.xml -> https://None.github.io/RSS-GPT/生物与生态前沿.xml
-- https://daily.jstor.org/feed/, https://aeon.co/feed.rss, https://theconversation.com/global/arts-culture/articles.atom, https://theconversation.com/global/society/articles.atom -> https://None.github.io/RSS-GPT/人文与社会深度.xml
-- https://www.foreignaffairs.com/rss.xml, https://restofworld.org/feed/, https://www.project-syndicate.org/rss -> https://None.github.io/RSS-GPT/国际局势与地缘.xml
-- https://www.douban.com/feed/review/book, https://lithub.com/feed/, https://www.wordswithoutborders.org/rss/, https://www.nybooks.com/feed/ -> https://None.github.io/RSS-GPT/文学创作与全球新书.xml
+- https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition, https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology, https://www.mongabay.com/feed/, https://www.sciencedaily.com/rss/plants_animals/birds.xml -> https://rrz20020108@163.com.github.io/RSS-GPT/生物与生态前沿.xml
+- https://daily.jstor.org/feed/, https://aeon.co/feed.rss, https://theconversation.com/global/arts-culture/articles.atom, https://theconversation.com/global/society/articles.atom -> https://rrz20020108@163.com.github.io/RSS-GPT/人文与社会深度.xml
+- https://www.foreignaffairs.com/rss.xml, https://restofworld.org/feed/, https://www.project-syndicate.org/rss -> https://rrz20020108@163.com.github.io/RSS-GPT/国际局势与地缘.xml
+- https://www.douban.com/feed/review/book, https://lithub.com/feed/, https://www.wordswithoutborders.org/rss/, https://www.nybooks.com/feed/ -> https://rrz20020108@163.com.github.io/RSS-GPT/文学创作与全球新书.xml

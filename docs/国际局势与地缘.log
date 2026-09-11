@@ -344,3 +344,14 @@ Fetching from https://restofworld.org/feed/
 Fetching from https://www.project-syndicate.org/rss
 append_entries: 1
 Finish: 2026-09-11 06:13:42.746774
+------------------------------------------------------
+Started: 2026-09-11 07:53:03.899489
+Existing_entries: 70
+Fetching from https://www.foreignaffairs.com/rss.xml
+Fetching from https://restofworld.org/feed/
+Token length: 189
+Summarized using deepseek-chat
+Append: [Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger](https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 1
+Finish: 2026-09-11 07:53:06.771053

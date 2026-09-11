@@ -4,6 +4,39 @@
 <title>Birds News -- ScienceDaily</title>
 <link>https://www.sciencedaily.com/news/plants_animals/birds/</link>
 
+<item>
+<title>Seasonality of protists in the oligotrophic Gulf of Aqaba revealed by imaging flow cytometry</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.09.749164v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.09.749164v1?rss=1</guid>
+<content:encoded><![CDATA[
+<div> 贫营养亚热带水域 原生生物多样性 群落演替 成像流式细胞仪 季节变化<br><br>总结:<br>1. 贫营养亚热带水域是海洋最大的连续生态系统之一，但其原生生物多样性和群落演替仍知之甚少。<br>2. 研究于2024年3月至2025年7月，利用成像流式细胞仪对亚喀巴湾表层水体的原生生物群落进行了近每日分辨率观测。<br>3. 记录显示出明显的季节演替：冬季混合期总细胞密度增加近三倍，主要由小于5微米的细胞增加驱动。<br>4. 夏季细胞通常更大，使夏季和冬季总生物体积相似；生物体积在春季水华期间达到最高持续值。<br>5. 尽管夏季细胞密度低，但群落动态活跃，裸藻、鞭毛虫和甲藻会突然高密度出现。<br>6. 颗石藻和隐藻在冬季增加，随后春季硅藻和纤毛虫增加。<br>7. 研究还提供了包含31,700张注释IFCB图像的数据集。 <div>
+Oligotrophic subtropical waters are some of the ocean's largest continuous ecosystems, yet their protist diversity and community succession remain poorly understood. We examined the protist community in the surface waters of the Gulf of Aqaba at near-daily resolution from March 2024 to July 2025 using an Imaging FlowCytobot. The record revealed a clear seasonal succession. Total cell density increased nearly threefold during winter mixing, driven mainly by an increase in cells smaller than 5 microns. Cells were generally larger during summer, making total biovolume similar in summer and winter. Biovolume reached its highest sustained values during the spring bloom. Despite its low cell density, the summer community was dynamic, with sudden appearances of euglenophytes, flagellates and dinoflagellates at high densities. Coccolithophores and cryptophytes increased during winter, followed by diatoms and ciliates in spring. We also provide a dataset of 31,700 annotated IFCB images.
+]]></content:encoded>
+
+<pubDate>2026-09-11</pubDate>
+</item>
+<item>
+<title>From chambers to communities: gall architecture shapes parasitoid network stability in Diplolepis (Cynipidae, Diplolepididae) rose galls</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.09.750361v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.09.750361v1?rss=1</guid>
+<content:encoded><![CDATA[
+<div> 瘿蜂；寄生蜂网络；虫瘿结构；稳定性；分类分辨率<br><br>总结:<br>1. 研究背景：致瘿昆虫形成结构独特的微栖息地，虫瘿结构影响寄生蜂群落组成，但其对生态网络拓扑与稳定性的影响尚不清楚。<br>2. 研究对象：聚焦Diplolepis属瘿蜂，比较单室与多室虫瘿相关的17个寄生蜂互作网络，涵盖7个寄主类群。<br>3. 方法：采用动态稳定性（非归一化返回时间）和结构稳定性（鲁棒性）指标，结合网络拓扑与多样性指标进行分析。<br>4. 主要结果：多室虫瘿网络物种级鲁棒性更高，在中弱自我调节下返回时间更短，连接度和聚类系数更高；但香农多样性降低，基尼指数无显著影响；聚合到属水平后多数效应减弱。<br>5. 结论：虫瘿结构对寄生蜂网络的组织与稳定性留下可检测的信号，超越了群落组成的简单差异，为虫瘿形态作为天敌群落生态过滤器提供了网络层面新视角。 <div>
+1. Gall-inducing insects create structurally distinct microhabitats that mediate their interactions with associated parasitoid communities, and variation in gall architecture is recognized as an important driver of the composition and organization of these communities. 2. In cynipid gall wasps of the genus Diplolepis, galls range from single-chambered to multichambered structures, and this variation has previously been linked to differences in parasitoid attack rates and community composition, yet its consequences for the topology and stability of the resulting ecological networks remain unexplored. 3. We compiled 17 empirical Diplolepis-parasitoid interaction networks spanning seven host taxa and used dynamical (non-normalized return time) and structural (robustness) measures of stability, together with network topology and diversity metrics, to test whether gall architecture shapes the organization of the resulting parasitoid networks. We hypothesized that networks associated with multichambered galls would be more stable, more connected and more unevenly structured than those associated with single-chambered galls. 4. Multichambered-gall networks showed significantly higher robustness at the species level and lower species-level non-normalized return times under intermediate and weak self-regulation, together with higher species-level connectance and clustering coefficients. In contrast, gall architecture reduced rather than increased Shannon diversity after accounting for network size, and had no detectable effect on the Gini index. Most effects weakened after aggregation to the genus level, highlighting the sensitivity of gall-associated network descriptors to taxonomic resolution. 5. These results indicate that gall architecture leaves a measurable signature on the organization and stability of associated parasitoid networks that extends beyond simple differences in community composition, adding a network-level perspective to the study of gall morphology as an ecological filter of natural-enemy communities.
+]]></content:encoded>
+
+<pubDate>2026-09-11</pubDate>
+</item>
+<item>
+<title>Contemporary environmental conditions decouple ecological similarity from evolutionary relatedness in vector mosquito communities</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.09.750309v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.09.750309v1?rss=1</guid>
+<content:encoded><![CDATA[
+<div> 关键词：群落构建、系统发育保守性、生态位趋同、环境过滤、蚊媒疾病<br><br>总结:<br>1. 研究背景：群落构建机制是生态学核心问题，系统发育生态位保守性预测近缘种占据相似生态位，但当代环境条件可能通过促进远缘种生态趋同而削弱这一关系，蚊虫群落中是否存在这种解耦尚不清楚。<br>2. 方法：整合物种分布模型、生态位比较检验和系统发育广义线性混合模型，分析日本媒介蚊虫群落构建中环境过滤、物种特异性环境响应和系统发育相关性的相对贡献。<br>3. 主要发现：物种分布主要由气候和土地覆盖变量决定；部分蚊种生态位高度相似，但系统发育相关性仅解释物种出现变异的很小部分。<br>4. 核心结论：环境过滤与物种特异性环境响应在不同空间尺度上始终主导群落构建，表明当代环境条件下生态相似性可与进化亲缘关系解耦。<br>5. 意义：该群落层面框架关联物种分布、生态位关系和进化历史，有助于改进媒介监测、预测环境变化下的群落重组，并为蚊媒疾病防控提供循证策略。 <div>
+Understanding the processes governing community assembly remains a central challenge in ecology. Although phylogenetic niche conservatism predicts that closely related species should occupy similar ecological niches, contemporary environmental conditions may weaken this relationship by promoting ecological convergence among distantly related species. Whether such decoupling occurs in vector mosquito communities remains largely unknown despite its importance for predicting disease transmission under global environmental change. Here, we integrated species distribution models, niche comparison tests, and phylogenetic generalized linear mixed models as a unified analytical framework to investigate the relative contributions of environmental filtering, species-specific environmental responses, and phylogenetic relatedness to the assembly of Japanese vector mosquito communities. Species distributions were primarily determined by climatic and land-cover variables. Although several mosquito species exhibited highly similar ecological niches, phylogenetic relatedness explained only a small proportion of variation in species occurrence. Instead, environmental filtering together with species-specific environmental responses consistently dominated community assembly across spatial scales. Our findings demonstrate that ecological similarity can become decoupled from evolutionary relatedness under contemporary environmental conditions. This study provides a community-level framework that links species distributions, niche relationships, and evolutionary history to improve vector surveillance, anticipate community reorganization under environmental change, and support evidence-based strategies for preventing mosquito-borne disease.
+]]></content:encoded>
+
+<pubDate>2026-09-11</pubDate>
+</item>
 
 <item>
 <title>Microbial eco-evolutionary dynamics of decomposition and dormancy</title>
