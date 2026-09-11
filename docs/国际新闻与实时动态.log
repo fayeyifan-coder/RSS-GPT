@@ -97,3 +97,11 @@ Append: [Leave Europe to the Europeans](https://www.foreignaffairs.com/europe/le
 Append: [A Great Rebalancing Is Coming](https://www.foreignaffairs.com/united-states/great-rebalancing-coming)
 append_entries: 81
 Finish: 2026-09-11 09:40:19.952623
+------------------------------------------------------
+Started: 2026-09-11 10:59:24.867609
+Existing_entries: 81
+Fetching from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+Fetching from https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
+Fetching from https://www.foreignaffairs.com/rss.xml
+append_entries: 0
+Finish: 2026-09-11 10:59:25.166034

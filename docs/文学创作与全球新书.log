@@ -376,3 +376,13 @@ Append: [“Late Summer in the Anthropocene,” a Poem by Marcus Wicker](https:/
 Fetching from https://www.wordswithoutborders.org/rss/
 append_entries: 8
 Finish: 2026-09-11 09:40:36.458446
+------------------------------------------------------
+Started: 2026-09-11 10:59:29.233171
+Existing_entries: 69
+Fetching from https://lithub.com/feed/
+Token length: 1334
+Summarized using deepseek-chat
+Append: [Lit Hub Daily: September 11, 2026](https://lithub.com/lit-hub-daily-september-11-2026/)
+Fetching from https://www.wordswithoutborders.org/rss/
+append_entries: 1
+Finish: 2026-09-11 10:59:33.060134

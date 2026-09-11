@@ -1407,3 +1407,13 @@ Fetching from https://daily.jstor.org/feed/
 Fetching from https://aeon.co/feed.rss
 append_entries: 0
 Finish: 2026-09-11 09:40:27.741418
+------------------------------------------------------
+Started: 2026-09-11 10:59:26.344890
+Existing_entries: 30
+Fetching from https://daily.jstor.org/feed/
+Fetching from https://aeon.co/feed.rss
+Token length: 144
+Summarized using deepseek-chat
+Append: [Penchants of the polymaths](https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation)
+append_entries: 1
+Finish: 2026-09-11 10:59:29.053741
