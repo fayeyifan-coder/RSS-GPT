@@ -1400,3 +1400,10 @@ Fetch error: 404
 Fetch failed from https://theconversation.com/global/society/articles.atom
 append_entries: 30
 Finish: 2026-09-11 08:33:44.670849
+------------------------------------------------------
+Started: 2026-09-11 09:40:27.503600
+Existing_entries: 30
+Fetching from https://daily.jstor.org/feed/
+Fetching from https://aeon.co/feed.rss
+append_entries: 0
+Finish: 2026-09-11 09:40:27.741418

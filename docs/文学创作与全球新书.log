@@ -355,3 +355,24 @@ Fetching from https://www.wordswithoutborders.org/rss/
 Fetching from https://www.nybooks.com/feed/
 append_entries: 0
 Finish: 2026-09-11 08:33:50.096408
+------------------------------------------------------
+Started: 2026-09-11 09:40:27.852578
+Existing_entries: 61
+Fetching from https://lithub.com/feed/
+Token length: 12367
+Summarized using deepseek-chat
+Append: [The Legend of “The Legend of Sleepy Hollow”](https://lithub.com/the-legend-of-the-legend-of-sleepy-hollow/)
+Token length: 13581
+Summarized using deepseek-chat
+Append: [The War on Terror Through the Eyes of Queer Afghan Refugees](https://lithub.com/the-war-on-terror-through-the-eyes-of-queer-afghan-refugees/)
+Token length: 6556
+Summarized using deepseek-chat
+Append: [Harlan Coben Answers the Age-Old Question: “Where Do You Get Your Ideas?”](https://lithub.com/harlan-coben-answers-the-age-old-question-where-do-you-get-your-ideas/)
+Append: [On the Forgotten Enslavement of Native Americans and Its Central Role in US History](https://lithub.com/on-the-forgotten-enslavement-of-native-americans-and-its-central-role-in-u-s-history/)
+Append: [On the Existential Threat of Palestinian Kites to Colonial Power](https://lithub.com/on-the-existential-threat-of-palestinian-kites-to-colonial-power/)
+Append: [What Should You Read Next? Here Are the Best Reviewed Books of the Week](https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-9-11-2026/)
+Append: [Tom Cole on Autofiction, Shame-Based Writing, and Being an Unreliable Narrator](https://lithub.com/tom-cole-on-autofiction-shame-based-writing-and-being-an-unreliable-narrator/)
+Append: [“Late Summer in the Anthropocene,” a Poem by Marcus Wicker](https://lithub.com/late-summer-in-the-anthropocene-a-poem-by-marcus-wicker/)
+Fetching from https://www.wordswithoutborders.org/rss/
+append_entries: 8
+Finish: 2026-09-11 09:40:36.458446

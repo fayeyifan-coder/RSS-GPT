@@ -52,7 +52,7 @@
 
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition, https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology, https://www.mongabay.com/feed/, https://www.sciencedaily.com/rss/plants_animals/birds.xml -> https://rrz20020108@163.com.github.io/RSS-GPT/生物与生态前沿.xml
-- https://daily.jstor.org/feed/, https://aeon.co/feed.rss, https://theconversation.com/global/arts-culture/articles.atom, https://theconversation.com/global/society/articles.atom -> https://rrz20020108@163.com.github.io/RSS-GPT/人文与社会深度.xml
-- https://www.foreignaffairs.com/rss.xml, https://restofworld.org/feed/, https://www.project-syndicate.org/rss -> https://rrz20020108@163.com.github.io/RSS-GPT/国际局势与地缘.xml
-- https://www.douban.com/feed/review/book, https://lithub.com/feed/, https://www.wordswithoutborders.org/rss/, https://www.nybooks.com/feed/ -> https://rrz20020108@163.com.github.io/RSS-GPT/文学创作与全球新书.xml
+- https://rss.nytimes.com/services/xml/rss/nyt/World.xml, https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml, https://www.foreignaffairs.com/rss.xml -> https://rrz20020108@163.com.github.io/RSS-GPT/国际新闻与实时动态.xml
+- https://www.sciencedaily.com/rss/plants_animals/birds.xml, https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition -> https://rrz20020108@163.com.github.io/RSS-GPT/鸟类生态与前沿研究.xml
+- https://daily.jstor.org/feed/, https://aeon.co/feed.rss -> https://rrz20020108@163.com.github.io/RSS-GPT/人文与社会深度.xml
+- https://lithub.com/feed/, https://www.wordswithoutborders.org/rss/ -> https://rrz20020108@163.com.github.io/RSS-GPT/文学创作与全球新书.xml
