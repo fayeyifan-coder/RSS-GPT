@@ -358,3 +358,13 @@ Fetching from https://www.mongabay.com/feed/
 Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
 append_entries: 0
 Finish: 2026-09-11 00:17:16.017493
+------------------------------------------------------
+Started: 2026-09-11 02:11:57.559319
+Existing_entries: 129
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=animal_behavior_and_cognition
+Fetching from https://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+Append: [Diffuse phenotypic structure in native chickens across Java and Wallacea is consistent with human-mediated connectivity and decentralised selection](https://www.biorxiv.org/content/10.64898/2026.09.08.750014v1?rss=1)
+Fetching from https://www.mongabay.com/feed/
+Fetching from https://www.sciencedaily.com/rss/plants_animals/birds.xml
+append_entries: 1
+Finish: 2026-09-11 02:11:58.069420
