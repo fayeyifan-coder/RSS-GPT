@@ -1,56 +1,136 @@
-name: cron_job
+name: RSS-GPT Auto Summary Cron Job
 
-# Controls when the workflow will run
 on:
-  # cron job every 2 hours
-  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-20.04
+concurrency:
+  group: rss-gpt-cron-job
+  cancel-in-progress: false
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+jobs:
+  run-rss-gpt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Check out repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v7
         with:
-          token: ${{ secrets.WORK_TOKEN }}
-    
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v4
+          fetch-depth: 0
+
+      - name: Show git status right after checkout (should be clean)
+        run: |
+          echo "=== git status after checkout ==="
+          git status
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v7
         with:
-          python-version: '3.8'
+          python-version: '3.11'
+
+      - name: Debug - Python version
+        run: |
+          echo "=== Python version ==="
+          python --version
+          which python
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: ls_show
+
+      - name: Debug - Installed pip packages
         run: |
-          python main.py
-          ls -al docs/
+          echo "=== pip freeze ==="
+          pip freeze
+
+      - name: Debug - Check required environment variables exist (values hidden)
         env:
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-          CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
           U_NAME: ${{ secrets.U_NAME }}
-             
-      - name: PUSH
         run: |
-          pwd
+          echo "=== Environment variable presence check ==="
+          for var_name in OPENAI_API_KEY OPENAI_BASE_URL CUSTOM_MODEL U_NAME; do
+            if [ -z "${!var_name}" ]; then
+              echo "  $var_name: MISSING"
+            else
+              echo "  $var_name: SET"
+            fi
+          done
+
+      - name: Run main.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+          U_NAME: ${{ secrets.U_NAME }}
+        run: python main.py
+
+      - name: Debug - docs/ directory contents
+        run: |
+          echo "=== docs/ directory listing ==="
+          if [ -d "docs" ]; then
+            ls -la docs/
+            find docs/ -maxdepth 2 -type f
+          else
+            echo "docs/ directory not found"
+          fi
+
+      - name: Debug - git diff summary after running main.py
+        run: |
+          echo "=== git status ==="
+          git status
+          echo "=== git diff --stat ==="
+          git diff --stat
+
+      - name: Configure git identity
+        run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        
-          git status -s
-          git add docs/*
-          git add README*
-          export TZ='Europe/London'
-          git commit -m "Auto Build at `date +"%Y-%m-%d %H:%M"`"
-        
-          echo "======git push===="
-          git push
+          git config --local pull.rebase false
+
+      - name: Check for changes before commit
+        id: check_changes
+        run: |
+          echo "=== git status --porcelain (scoped to docs/, README.md, README-zh.md) ==="
+          git status --porcelain -- docs/ README.md README-zh.md
+          if [ -n "$(git status --porcelain -- docs/ README.md README-zh.md)" ]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git add docs/ README.md README-zh.md
+          git status
+          git commit -m "chore: auto update RSS feeds [skip ci]"
+
+      - name: Sync with remote before push (merge, not rebase)
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git pull --no-rebase --strategy-option=ours origin "${GITHUB_REF_NAME}" || \
+            echo "::warning::git pull could not complete cleanly, attempting push with local state."
+
+      - name: Push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+            echo "Push succeeded."
+          else
+            echo "::error::git push failed. Check branch protection rules, GITHUB_TOKEN permissions, or unresolved merge conflicts."
+            git status
+            git log -1 --stat
+            exit 1
+          fi
+
+      - name: No changes detected
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: echo "No changes in docs/, README.md, or README-zh.md. Skipping commit and push."
