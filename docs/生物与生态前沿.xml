@@ -4,6 +4,31 @@
 <title>Birds News -- ScienceDaily</title>
 <link>https://www.sciencedaily.com/news/plants_animals/birds/</link>
 
+<item>
+<title>Growth rate and yield are not constrained by a trade-off in microbes</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.08.750265v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.08.750265v1?rss=1</guid>
+<content:encoded><![CDATA[
+<div> r-K关系；微生物生长曲线；维持成本；盐度胁迫；群落装配<br><br>总结:该研究分析了7万余条微生物生长曲线，发现最大内禀生长率(r)与载量(K)呈强正相关，而非经典生态学预期的权衡关系，称为“trade-up”。<br><br>1. 这一正相关可由细胞存在非零维持成本的模型解释。<br><br>2. 模型预测在盐度等胁迫条件下trade-up更强，实证数据支持该预测。<br><br>3. 群落装配会削弱但不消除r-K正相关。<br><br>4. 种间呈稳健的生长-产量trade-up，而种内单基因敲除数据在E. coli和酵母中未显示或仅弱显示r-K关系。<br><br>5. 结果表明生长率与载量间缺乏强权衡可能广泛存在，需重视经典r-K框架之外的替代权衡与共存机制。 <div>
+Ecological theory traditionally posits widespread trade-offs in organismal growth, survival, and reproduction. One core trade-off is the relation between maximum intrinsic growth rate (r) and carrying capacity (K), proposed as a key mechanism explaining species coexistence and the maintenance of biodiversity. To quantify how r relates to K in microbes, we analyzed more than 70,000 microbial growth curves in dozens of media conditions. In this set, we observed a strong positive correlation between r and K, challenging classic life-history expectations of a trade-off. This unexpected "trade-up" can be recovered by a model assuming a non-zero maintenance cost in cells. The model predicts a stronger trade-up under stress conditions that reduce growth rate, consistent with empirical data showing that salinity stress strengthens the trade-up. We also found that community assembly weakens but does not eliminate this positive r-K relationship. The robust growth-yield trade-up between species contrasts with patterns within species. Single-gene knockout datasets in Escherichia coli and budding yeast show no or only weak r-K relationships. Together, our results suggest that the lack of strong trade-offs between growth rate and carrying capacity may be widespread across species, emphasizing the importance of alternative trade-offs and coexistence mechanisms beyond the classical r-K framework.
+]]></content:encoded>
+
+<pubDate>2026-09-11</pubDate>
+</item>
+<item>
+<title>Stomatal sensitivity to VPD across 38 tree species reflects past drought responses but is little explained by stomatal and leaf economic traits</title>
+<link>https://www.biorxiv.org/content/10.64898/2026.09.09.750341v1?rss=1</link>
+<guid>https://www.biorxiv.org/content/10.64898/2026.09.09.750341v1?rss=1</guid>
+<content:encoded><![CDATA[
+<div> 气候变化导致大气水分需求上升，使树木面临更大水分压力。气孔调控植物水分损失，因此理解气孔行为至关重要。然而，比较少有针对物种特异性气孔对大气需求响应的研究。本研究在德国一个研究树木园中，于无土壤干旱的温暖夏季，量化了38种温带树种（27种阔叶树、11种针叶树）的气孔行为，测定了787片叶片的日间气孔导度（gs），并模拟了gs对叶-空气水汽压亏缺（VPDL）的物种特异性响应。研究得出gs-VPDL关系的四个描述指标：最大气孔导度（gmax）、使gs最大化的VPDL、gs降低50%对应的VPDL以及气孔关闭速率。研究将这些指标与干旱引起的碳同位素比值变化及叶片功能性状相联系。结果发现，气孔行为存在巨大变异，从早关闭型到耐VPDL型策略均有。在高VPDL下仍维持gs的物种，对过去干旱的生理响应也较弱。gmax部分可由叶片经济性状解释，但其他gs-VPDL描述指标与气孔解剖结构和叶片经济性状无关。本种间比较揭示了气孔对大气需求响应的显著变异，这种变异与干旱响应相关，但无法从常用叶片性状中轻易推断。
+
+<br><br>总结:
+关键词：气孔导度；水汽压亏缺；温带树种；干旱响应；叶片性状<br><br>1. 气候变化提高大气水分需求，气孔行为决定植物水分损失，但物种间比较研究不足。<br>2. 研究在德国树木园无土壤干旱的温暖夏季，测定38种温带树种787片叶片的日间气孔导度，并模拟其对VPDL的响应。<br>3. 提取四个gs-VPDL指标：gmax、gs最大化时的VPDL、gs降低50%时的VPDL和关闭速率，并与碳同位素及叶片性状关联。<br>4. 气孔行为变异大，从早关闭型到耐VPDL型；高VPDL下维持gs的物种对过去干旱响应较弱。<br>5. gmax部分由叶片经济性状解释，但其他气孔响应指标与气孔解剖和叶片经济性状无关，说明常用叶片性状难以推断干旱相关气孔响应。 <div>
+Climate change is exposing trees to rising atmospheric water demand. Because stomata regulate plant water loss, understanding stomatal behaviour is critical. However, few comparative studies examine species-specific stomatal responses to atmospheric demand. Here, we quantify stomatal behaviour in 38 temperate tree species (27 broadleaved, 11 conifers) in a German research arboretum during a warm summer without soil drought. We measured the diurnal stomatal conductance (gs) of 787 leaves and modelled gs species-specific responses to leaf-to-air vapour pressure deficit (VPDL). Four descriptors of the gs-VPDL relationship were derived: maximum stomatal conductance (gmax), the VPDL that maximises gs, the VPDL associated with a 50% reduction in gs, and the stomatal closure rate. We relate these metrics to drought-induced shifts of carbon isotope ratios and to leaf functional traits. Large variation in stomatal behaviour exists, ranging from early-closure to VPDL-tolerant strategies. Species maintaining gs at higher VPDL also show weaker physiological responses to past drought. gmax is partly explained by leaf economic traits; other gs-VPDL descriptors are not related to stomatal anatomy and leaf economy. Our interspecific comparison reveals substantial variation in stomatal responses to atmospheric demand that is relevant to drought responses, but cannot be readily inferred from commonly measured leaf traits.
+]]></content:encoded>
+
+<pubDate>2026-09-11</pubDate>
+</item>
 
 <item>
 <title>Seasonality of protists in the oligotrophic Gulf of Aqaba revealed by imaging flow cytometry</title>
