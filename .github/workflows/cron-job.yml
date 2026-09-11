@@ -1,56 +1,156 @@
-name: cron_job
+name: RSS-GPT Auto Update
 
-# Controls when the workflow will run
 on:
-  # cron job every 2 hours
-  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: "0 */2 * * *"
+
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
+concurrency:
+  group: rss-gpt
+  cancel-in-progress: false
+
+
 jobs:
-  # This workflow contains a single job called "build"
+
   build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-20.04
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Check out repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.WORK_TOKEN }}
-    
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.8'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: ls_show
-        run: |
-          python main.py
-          ls -al docs/
-        env:
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-          CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          U_NAME: ${{ secrets.U_NAME }}
-             
-      - name: PUSH
-        run: |
-          pwd
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        
-          git status -s
-          git add docs/*
-          git add README*
-          export TZ='Europe/London'
-          git commit -m "Auto Build at `date +"%Y-%m-%d %H:%M"`"
-        
-          echo "======git push===="
-          git push
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
+        clean: true
+
+
+    - name: Setup Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: "3.11"
+        cache: pip
+
+
+    - name: Install dependencies
+      run: |
+
+        python -m pip install --upgrade pip
+
+        pip install -r requirements.txt
+
+
+
+    - name: Check DeepSeek config
+      env:
+
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+        OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+
+        CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
+      run: |
+
+        echo "Base URL:"
+        echo "$OPENAI_BASE_URL"
+
+        echo "Model:"
+        echo "$CUSTOM_MODEL"
+
+
+        if [ -z "$OPENAI_API_KEY" ]; then
+
+          echo "ERROR: OPENAI_API_KEY missing"
+
+          exit 1
+
+        fi
+
+
+
+    - name: Run RSS generator
+      timeout-minutes: 20
+
+      env:
+
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+        OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+
+        CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+
+        U_NAME: ${{ secrets.U_NAME }}
+
+
+      run: |
+
+        echo "Start RSS generation"
+
+        python main.py
+
+
+        echo "Generated files:"
+
+        find docs -type f | head -50
+
+
+
+    - name: Commit generated RSS
+
+      run: |
+
+
+        git config user.name "github-actions[bot]"
+
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+
+
+        git add docs/ README*
+
+
+
+        if git diff --cached --quiet;
+
+        then
+
+          echo "No changes"
+
+          exit 0
+
+        fi
+
+
+
+        git commit -m "Auto update RSS"
+
+
+
+        echo "Push..."
+
+
+
+        git push origin main || (
+
+          echo "Push failed, merge remote"
+
+
+
+          git fetch origin main
+
+
+
+          git merge origin/main --no-edit
+
+
+
+          git push origin main
+
+        )
