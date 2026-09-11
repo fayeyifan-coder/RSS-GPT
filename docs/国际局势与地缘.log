@@ -335,3 +335,12 @@ Fetching from https://restofworld.org/feed/
 Fetching from https://www.project-syndicate.org/rss
 append_entries: 0
 Finish: 2026-09-11 04:13:28.769829
+------------------------------------------------------
+Started: 2026-09-11 06:13:41.390402
+Existing_entries: 69
+Fetching from https://www.foreignaffairs.com/rss.xml
+Append: [The Other War on Terror](https://www.foreignaffairs.com/united-states/other-war-terror)
+Fetching from https://restofworld.org/feed/
+Fetching from https://www.project-syndicate.org/rss
+append_entries: 1
+Finish: 2026-09-11 06:13:42.746774
