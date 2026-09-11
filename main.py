@@ -3,8 +3,40 @@ import smtplib
 from email.header import Header
 from email.mime.text import MIMEText
 import feedparser
-import google.generativeai as genai
-import requests
+import requests  # 使用通用 HTTP 请求库调用 DeepSeek
+
+# ==========================================
+# AI 生成模块 (切换为 DeepSeek API)
+# ==========================================
+
+
+def generate_digest(prompt_text):
+    """调用 DeepSeek API 生成早报"""
+    api_key = os.getenv("DEEPSEEK_API_KEY")
+    if not api_key:
+        raise ValueError("环境变量 DEEPSEEK_API_KEY 未设置")
+
+    url = "https://api.deepseek.com/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}",
+    }
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一位专业的学术与新闻早报编辑。",
+            },
+            {"role": "user", "content": prompt_text},
+        ],
+        "temperature": 0.3,
+        "stream": False,
+    }
+
+    response = requests.post(url, headers=headers, json=payload, timeout=120)
+    response.raise_for_status()
+    return response.json()["choices"][0]["message"]["content"]
 
 # ==========================================
 # 1. RSS 配置与防封抓取模块
