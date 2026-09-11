@@ -23,7 +23,7 @@ config = configparser.ConfigParser()
 config.read('config.ini', encoding='utf-8')
 secs = config.sections()
 
-# Max number of entries to in a feed.xml file
+# 最大条目数限制
 max_entries = 1000
 
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
@@ -32,16 +32,16 @@ OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
 OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com/v1')
 custom_model = os.environ.get('CUSTOM_MODEL')
 
-# 邮件发送相关环境变量
+# 邮件发送凭证
 MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
 MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
 MAIL_SERVER = os.environ.get('MAIL_SERVER', 'smtp.163.com')
 
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE = get_cfg('cfg', 'BASE')
-keyword_length = int(get_cfg('cfg', 'keyword_length'))
-summary_length = int(get_cfg('cfg', 'summary_length'))
-language = get_cfg('cfg', 'language')
+keyword_length = int(get_cfg('cfg', 'keyword_length', '5'))
+summary_length = int(get_cfg('cfg', 'summary_length', '300'))
+language = get_cfg('cfg', 'language', 'zh')
 
 def fetch_feed(url, log_file):
     headers = {}
@@ -87,13 +87,13 @@ def filter_entry(entry, filter_apply, filter_type, filter_rule):
         raise Exception('filter_apply not supported')
 
     if filter_type == 'include':
-        return re.search(filter_rule, text)
+        return re.search(filter_rule, text, re.IGNORECASE)
     elif filter_type == 'exclude':
-        return not re.search(filter_rule, text)
+        return not re.search(filter_rule, text, re.IGNORECASE)
     elif filter_type == 'regex match':
-        return re.search(filter_rule, text)
+        return re.search(filter_rule, text, re.IGNORECASE)
     elif filter_type == 'regex not match':
-        return not re.search(filter_rule, text)
+        return not re.search(filter_rule, text, re.IGNORECASE)
     elif not filter_type:
         return True
     else:
@@ -115,16 +115,22 @@ def truncate_entries(entries, max_entries):
     return entries
 
 def gpt_summary(query, model, language):
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
-        ]
+    # 强约束纯中文输出的提示词系统
+    prompt_content = (
+        f"你是一个专业的资讯提炼助手。请根据提供的文章内容，严格使用【中文】进行总结。\n"
+        f"【严格要求】：\n"
+        f"1. 即使原文是英文，摘要内容也必须完全翻译并提炼为中文，严禁输出英文段落或中英对照；\n"
+        f"2. 人名、期刊名、机构名或专属物种名可保留英文原文；\n"
+        f"3. 先提取 {keyword_length} 个中文关键词，在同一行内输出；\n"
+        f"4. 然后换行，按顺序分要点用中文写一个 {summary_length} 字以内的核心总结；\n"
+        f"5. 输出格式必须在总结主体前保留 '<br><br>总结:'。"
+    )
+
+    messages = [
+        {"role": "system", "content": prompt_content},
+        {"role": "user", "content": query}
+    ]
+
     if not OPENAI_PROXY:
         client = OpenAI(
             api_key=OPENAI_API_KEY,
@@ -230,7 +236,7 @@ def output(sec, language):
     with open(log_file, 'a', encoding='utf-8') as f:
         f.write(f'append_entries: {len(append_entries)}\n')
 
-    # 增强 XML 渲染时的安全转义与 UTF-8 容错处理
+    # XML 渲染容错
     try:
         with open('template.xml', 'r', encoding='utf-8') as tf:
             template = Template(tf.read())
@@ -288,7 +294,8 @@ def send_email_digest():
         return
 
     print("Compiling email digest...")
-    email_html = "<h2>每日 RSS 智能速递</h2><hr>"
+    today_str = datetime.datetime.now().strftime('%Y年%m月%d日')
+    email_html = f"<h2 style='color: #2c3e50;'>📰 每日学术与新闻早报（{today_str}）</h2><hr style='border:1px solid #eee;'>"
     has_content = False
 
     for x in secs[1:]:
@@ -302,14 +309,16 @@ def send_email_digest():
                 parsed = feedparser.parse(f.read())
                 if parsed.entries:
                     has_content = True
-                    email_html += f"<h3>📌 {html.escape(sec_name)}</h3><ul>"
-                    # 抓取每个分类最新的前 5 条发送摘要
+                    email_html += f"<h3 style='color: #34495e; background: #f8f9fa; padding: 8px 12px; border-left: 4px solid #3498db;'>📌 {html.escape(sec_name)}</h3><ul style='list-style-type: none; padding-left: 0;'>"
+                    
+                    # 提取前 5 条最新内容发送
                     for entry in parsed.entries[:5]:
                         summary = getattr(entry, 'summary', '') or getattr(entry, 'description', '')
                         title = getattr(entry, 'title', 'Untitled')
                         link = getattr(entry, 'link', '#')
-                        email_html += f"<li><a href='{link}' target='_blank'><b>{html.escape(title)}</b></a><br>{summary}</li><br>"
-                    email_html += "</ul><br>"
+                        
+                        email_html += f"<li style='margin-bottom: 18px; line-height: 1.6;'><a href='{link}' target='_blank' style='font-size: 16px; font-weight: bold; color: #1a0dab; text-decoration: none;'>{html.escape(title)}</a><br><div style='color: #333; margin-top: 6px;'>{summary}</div></li>"
+                    email_html += "</ul>"
         except Exception as e:
             print(f"Error reading {xml_path} for email: {e}")
 
@@ -318,8 +327,7 @@ def send_email_digest():
         return
 
     msg = MIMEText(email_html, 'html', 'utf-8')
-    today = datetime.datetime.now().strftime('%Y-%m-%d')
-    msg['Subject'] = Header(f"【RSS 订阅简报】{today}", 'utf-8')
+    msg['Subject'] = Header(f"【RSS 每日精选】{today_str}", 'utf-8')
     msg['From'] = MAIL_USERNAME
     msg['To'] = MAIL_USERNAME
 
