@@ -1,23 +1,18 @@
-name: RSS-GPT Auto Update
+name: RSS & Weather Auto Digest
 
 on:
   schedule:
-    # 北京时间每天早上 08:15 (对应 UTC 00:15)
+    # 北京时间每天早上 08:15 触发 (对应 UTC 00:15)
     - cron: '15 0 * * *'
-  workflow_dispatch: # 保留手动触发按钮
+  workflow_dispatch: # 支持手动点击运行
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          clean: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,49 +24,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Check DeepSeek config
+      - name: Run Weather Digest
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
-          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
-        run: |
-          echo "BASE URL:"
-          echo $OPENAI_BASE_URL
-          echo "MODEL:"
-          echo $CUSTOM_MODEL
-
-          if [ -z "$OPENAI_API_KEY" ]; then
-            echo "ERROR: API KEY missing"
-            exit 1
-          fi
-          echo "API KEY exists"
-
-      - name: Run RSS generator
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
-          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
-          U_NAME: ${{ secrets.U_NAME }}
-          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
-          MAIL_SERVER: ${{ secrets.MAIL_SERVER }}
+          QWEATHER_KEY: ${{ secrets.QWEATHER_KEY }}
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+          CITY_NAME: "洛阳"
         run: |
           python main.py
-          echo "Generated files:"
-          ls -al docs/
 
-      - name: Commit and push
+      - name: Run RSS Digest
+        env:
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add docs/ README.md README-zh.md
-
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-
-          git commit -m "Auto update RSS"
-          git pull origin main --no-rebase || true
-          git push origin main
+          python rss_digest.py
