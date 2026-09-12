@@ -396,3 +396,10 @@ Append: [Graywolf Press has a brand new look.](https://lithub.com/graywolf-press
 Fetching from https://www.wordswithoutborders.org/rss/
 append_entries: 1
 Finish: 2026-09-12 00:37:19.466657
+------------------------------------------------------
+Started: 2026-09-12 09:15:52.710557
+Existing_entries: 71
+Fetching from https://lithub.com/feed/
+Fetching from https://www.wordswithoutborders.org/rss/
+append_entries: 0
+Finish: 2026-09-12 09:15:53.724309
