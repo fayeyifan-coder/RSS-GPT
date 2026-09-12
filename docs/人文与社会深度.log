@@ -1417,3 +1417,13 @@ Summarized using deepseek-chat
 Append: [Penchants of the polymaths](https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation)
 append_entries: 1
 Finish: 2026-09-11 10:59:29.053741
+------------------------------------------------------
+Started: 2026-09-12 00:37:13.286947
+Existing_entries: 31
+Fetching from https://daily.jstor.org/feed/
+Token length: 4181
+Summarized using deepseek-chat
+Append: [How to Refine Your JSTOR Search](https://daily.jstor.org/how-to-refine-your-jstor-search/)
+Fetching from https://aeon.co/feed.rss
+append_entries: 1
+Finish: 2026-09-12 00:37:15.845102

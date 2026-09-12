@@ -105,3 +105,30 @@ Fetching from https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
 Fetching from https://www.foreignaffairs.com/rss.xml
 append_entries: 0
 Finish: 2026-09-11 10:59:25.166034
+------------------------------------------------------
+Started: 2026-09-12 00:37:04.781648
+Existing_entries: 81
+Fetching from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+Token length: 73
+Summarized using deepseek-chat
+Append: [Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route](https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html)
+Token length: 20
+Summarized using deepseek-chat
+Append: [Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78](https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html)
+Token length: 121
+Summarized using deepseek-chat
+Append: [France Widens Sex-Trafficking Investigation Linked to Jeffrey Epstein](https://www.nytimes.com/2026/09/11/world/europe/france-paris-epstein-prosecutor.html)
+Token length: 163
+Summarized using deepseek-chat
+Append: [Israel Destroys Underground Hezbollah Base in Southern Lebanon](https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html)
+Token length: 127
+Summarized using deepseek-chat
+Append: [Police Uncover Scheme Using Fake Horse Passports to Traffic Animals](https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html)
+Append: [Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries](https://www.nytimes.com/2026/09/11/world/americas/colombia-aerial-spraying-coca-crops.html)
+Append: [U.S. allies in Europe recall trans-Atlantic bonds after the 9/11 attacks.](https://www.nytimes.com/live/2026/09/11/nyregion/9-11-anniversary-25th/europe-us-allies-sept-11)
+Append: [25 Years After 9/11, Al Qaeda Still Has a Home in Afghanistan](https://www.nytimes.com/2026/09/10/world/asia/afghanistan-al-qaeda-25-years-after-911.html)
+Fetching from https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
+Fetching from https://www.foreignaffairs.com/rss.xml
+Append: [Iran’s Second Front](https://www.foreignaffairs.com/yemen/irans-second-front)
+append_entries: 9
+Finish: 2026-09-12 00:37:12.409669

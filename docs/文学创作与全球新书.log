@@ -386,3 +386,13 @@ Append: [Lit Hub Daily: September 11, 2026](https://lithub.com/lit-hub-daily-sep
 Fetching from https://www.wordswithoutborders.org/rss/
 append_entries: 1
 Finish: 2026-09-11 10:59:33.060134
+------------------------------------------------------
+Started: 2026-09-12 00:37:16.025029
+Existing_entries: 70
+Fetching from https://lithub.com/feed/
+Token length: 993
+Summarized using deepseek-chat
+Append: [Graywolf Press has a brand new look.](https://lithub.com/graywolf-press-has-a-brand-new-look/)
+Fetching from https://www.wordswithoutborders.org/rss/
+append_entries: 1
+Finish: 2026-09-12 00:37:19.466657

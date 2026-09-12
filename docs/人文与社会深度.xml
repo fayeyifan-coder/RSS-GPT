@@ -5,17 +5,85 @@
 <link>https://aeon.co</link>
 
 <item>
+<title>How to Refine Your JSTOR Search</title>
+<link>https://daily.jstor.org/how-to-refine-your-jstor-search/</link>
+<guid>https://daily.jstor.org/how-to-refine-your-jstor-search/</guid>
+<content:encoded><![CDATA[
+<div> JSTOR, 高级检索, 结果筛选, 学术资源, 检索技巧
+
+<br><br>总结:
+在JSTOR上检索资料时，仅靠基础搜索往往结果过多，难以高效定位相关来源。为此，可使用结果页左侧的“Refine Results”功能，通过多种筛选条件提升检索精度：在结果内追加关键词、选择学术内容类型（如期刊、研究报告）或原始资料类型（如连续出版物、文档、书籍、图像、音视频）、限定日期范围、按学科主题筛选、选择语言，以及按“全部内容”或“我可访问的内容”限定访问类型，筛选结果会实时更新。此外，也可在检索之初使用“Advanced Search”，在特定字段（全字段、作者、条目标题、摘要、说明文字）中输入关键词，并利用布尔逻辑及邻近检索（如5、10、25词内）添加多个检索词，还可在“Narrow Results”中限定条目类型、出版日期、期刊标题或主题。两种方式结合使用，可显著提高检索的针对性与效率。 <div>
+<p>With so much material available on JSTOR, finding the sources most relevant to a particular question can require more than a basic search. After inputting your keywords into the <a href="https://www.jstor.org/">JSTOR search bar</a>, you may get back hundreds or thousands of results, even if you used multiple keywords or Boolean operators. Some results may be useful in your research, but others may not be, and it would be extremely difficult and time-consuming to wade through every source listed.</p>
+<p>A simple solution to make your search more effective is to use the Refine Results feature, found on the left of the results page. There you’ll find different limiters, or filters, to make your search more precise.</p>
+<h2>Refine Results Options</h2>
+<p>“Search Within Results” allows you to enrich your search by adding another keyword. When adding another keyword, make sure to click the magnifying glass, or hit Enter, to include it in your search. Doing this will retrieve sources with the additional keyword in the text and omit any that did not contain that keyword.</p>
+<p>You can also choose the academic content type, such as journals or research reports, and you can even choose a specific type of primary source content, such as serials, documents, books, images, or sometimes even audio and video recordings.</p>
+<p><img alt="" class="align-wide size-full wp-image-338354" height="1057" src="https://daily.jstor.org/wp-content/uploads/2026/09/how_to_refine_your_jstor_search_2000.jpg" width="2000" /></p>
+<p>If your results are spanning a large number of years, you can adjust the date range to further limit what you’re reading and ensure the results are contemporary with your topic. When adding a date range, make sure to click the red “Apply” button, or the results won’t be updated.</p>
+		<aside class="pull-quote center">
+			<div class="pull-quote__text">By adding more information to the Refine Results section, you’ll see in real time how your results are changing to suit your search.</div>
+					</aside>
+		
+<p>There is also a subject list that allows you to choose specific subjects within the results, such as “African American Studies” or “Economics.” Choosing a specific subject may help you get results more pertinent to your specific topic. You can even choose the language of your results!</p>
+<p>The last option in the Refine Results list is Access Type. You can choose between “Everything,” which will list everything available on JSTOR, or “Content I can access,” which will limit your results to what’s available through your institution. Anything listed under “Content I can access” will be immediately available to you.</p>
+<p>By adding more information to the Refine Results section, you’ll see in real time how your results are changing to suit your search.</p>
+<h2>JSTOR Advanced Search</h2>
+<p>Alternatively, you may want to use the advanced limiters when you begin your search through <a href="https://www.jstor.org/action/showAdvancedSearch">JSTOR’s Advanced Search</a>.<a href="https://www.jstor.org/action/showAdvancedSearch"><img alt="" class="aligncenter wp-image-338353 size-full" height="1081" src="https://daily.jstor.org/wp-content/uploads/2026/09/how_to_refine_your_jstor_search_1050.jpg" width="1050" /></a></p>
+<p>On the Advanced Search page, type a specific keyword under “Term(s)”. Through the dropdown menu, you can choose between “all fields,” “author,” “item title,” “abstract,” or “caption.” Next, you can add another keyword, utilizing the Boolean dropdown menu, which also includes options to search for terms between a specific number of words, such as within 5, 10, or 25 words of each other. To add another keyword, click the “Add row” option and input your additional term.</p>
+
+	<div class="daily_email_signup weekly-digest ">
+		<h4>Weekly Newsletter</h4>
+		&amp;&amp;&amp;
+
+                <div class="gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework" id="gform_wrapper_17">
+                        <div class="gform_heading">
+                            <p class="gform_description"></p>
+							<p class="gform_required_legend">&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
+                        </div><form action="/feed/" enctype="multipart/form-data" id="gform_17" method="post"> 
+ <input class="gforms-pum" type="hidden" value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}" />
+                        <div class="gform-body gform_body"><div class="gform_fields top_label form_sublabel_below description_below validation_below" id="gform_fields_17"><div class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" id="field_17_6"><label class="gfield_label gform-field-label" for="input_17_6">Facebook</label><div class="ginput_container"><input autocomplete="new-password" id="input_17_6" name="input_6" type="text" value="" /></div><div class="gfield_description" id="gfield_description_17_6">This field is for validation purposes and should be left unchanged.</div></div><div class="gfield gfield--type-html gfield--input-type-html gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" id="field_17_2"><p>Get your fix of JSTOR Daily’s best stories in your inbox each Thursday.</p></div><div class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" id="field_17_3"><label class="gfield_label gform-field-label" for="input_17_3">First name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_text"><input class="large" id="input_17_3" name="input_3" type="text" value="" /></div></div><div class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" id="field_17_4"><label class="gfield_label gform-field-label" for="input_17_4">Last name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_text"><input class="large" id="input_17_4" name="input_4" type="text" value="" /></div></div><div class="gfield gfield--type-email gfield--input-type-email gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" id="field_17_1"><label class="gfield_label gform-field-label" for="input_17_1">Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_email">
+                            <input class="large" id="input_17_1" name="input_1" type="email" value="" />
+                        </div></div><div class="gfield gfield--type-select gfield--input-type-select gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" id="field_17_5"><label class="gfield_label gform-field-label" for="input_17_5">What best describes you?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_select"><select class="large gfield_select" id="input_17_5" name="input_5"><option value="Other">Reader</option><option value="Student">Student</option><option value="Undergraduate Student">Undergraduate Student</option><option value="Graduate Student">Graduate Student</option><option value="Instructor/Faculty">Instructor/Faculty</option><option value="Librarian">Librarian</option><option value="Researcher">Researcher</option></select></div></div></div></div>
+        <div class="gform-footer gform_footer top_label"> <input class="gform_button button" id="gform_submit_button_17" type="submit" value="Subscribe" /> 
+            <input class="gform_hidden" name="gform_submission_method" type="hidden" value="postback" />
+            <input class="gform_hidden" id="gform_theme_17" name="gform_theme" type="hidden" value="gravity-theme" />
+            <input class="gform_hidden" id="gform_style_settings_17" name="gform_style_settings" type="hidden" value="[]" />
+            <input class="gform_hidden" name="is_submit_17" type="hidden" value="1" />
+            <input class="gform_hidden" name="gform_submit" type="hidden" value="17" />
+            
+            <input class="gform_hidden" name="gform_currency" type="hidden" value="J6bVIR49g1Y9mricrp1hkVdF6aI1hygwQyD1YxUvJryPQxNJztUz09MBjM3tVChJZxlvu9XwHKuPK+djVkCAUk7BCqctXkRaD95mhqzQETJJTrw=" />
+            <input class="gform_hidden" name="gform_unique_id" type="hidden" value="" />
+            <input class="gform_hidden" name="state_17" type="hidden" value="WyJ7XCI1XCI6W1wiZDViNzc2ZWFmYmQxNWEzMWQ1ZTc1Zjc3MDkzMzEwNzJcIixcIjFhZmNmYjE5N2RjNmYyY2ZhMmI2NjY1ZGE0MzI3MTU2XCIsXCJhYjczNzVjOWM3ZDk3Nzc1NjA3MmQzNjRmYmViYjZlNFwiLFwiOWY4NjlmMDMzMDM0M2UwMWI2OTU1MjQ0OGQ2MWEyZDNcIixcIjk3OTA4YjhmZDgyZDlhYThiZDA1NmRmYzE4ZTExNjM2XCIsXCJiN2M2NDY4YTc4MGU5YmU5OGUzNTJhYjVhNGYxNWMwOVwiLFwiMjRkYjY3N2NhMzMwODZhOWZhZWFkYWVjZjgwMDQ4OTlcIl19IiwiNzNjNDg1ZWZkOTM2MTA0MDhkOTIyYWQyOGRkZmY1MGMiXQ==" />
+            <input autocomplete="off" class="gform_hidden" id="gform_target_page_number_17" name="gform_target_page_number_17" type="hidden" value="0" />
+            <input autocomplete="off" class="gform_hidden" id="gform_source_page_number_17" name="gform_source_page_number_17" type="hidden" value="1" />
+            <input name="gform_field_values" type="hidden" value="" />
+            
+        </div>
+                        <p class="akismet-fields-container" style="display: none !important;"><label>&#916;<textarea cols="45" maxlength="100" name="ak_hp_textarea" rows="8"></textarea></label><input id="ak_js_1" name="ak_js" type="hidden" value="111" />
+</p></form>
+                        </div>
+
+	</div>
+	
+<p>Scrolling further down on the page, under Narrow Results, you’ll see similar options to those listed in Refine Results. There you can choose a specific item type, publication date range, journal title, or subject. Once you’re finished, click “Submit advanced search.”</p>
+<p>The results page will be the same as if you had searched through the search bar on the main page, but your results will be more specific to your refined search. And if the results aren’t specific enough, you can refine them further through the Refine Results feature to the left of the page.</p>
+<p>Experiment with the Refine Results feature or Advanced Search feature to see which search strategy you prefer. With all of the options to enhance your search, you may be surprised by what you can find on JSTOR.</p>
+<img height="1" src="https://www.google-analytics.com/collect?v=1&amp;t=pageview&amp;tid=UA-20266811-3&amp;cid=daily&amp;aip=1&amp;dp=%2Fsyndicated%2Frss%2Fhow-to-refine-your-jstor-search&amp;dt=How%20to%20Refine%20Your%20JSTOR%20Search" style="border: none !important; margin: 0 !important; padding: 0 !important;" width="1" /><p>The post <a href="https://daily.jstor.org/how-to-refine-your-jstor-search/">How to Refine Your JSTOR Search</a> appeared first on <a href="https://daily.jstor.org">JSTOR Daily</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 11 Sep 2026 13:44:00 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 13:44:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Penchants of the polymaths</title>
 <link>https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation</link>
 <guid>https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation</guid>
 <content:encoded><![CDATA[
-<div> 伊斯兰科学, 跨学科教育, 知识广度, 克服限制, 历史启示<br><br>总结: 伊斯兰科学之父们的教育理念强调知识广度优先于专业化，并鼓励学生不让限制阻碍求知。他们跨越学科界限，融合数学、天文学、医学等领域，展现了通才的优势。这种模式启示现代学生应追求广泛知识，而非过早专精，同时以坚韧态度克服资源或环境约束，推动创新。 <div>
+<div> 伊斯兰科学, 跨学科教育, 知识广度, 克服限制, 历史启示<br /><br />总结: 伊斯兰科学之父们的教育理念强调知识广度优先于专业化，并鼓励学生不让限制阻碍求知。他们跨越学科界限，融合数学、天文学、医学等领域，展现了通才的优势。这种模式启示现代学生应追求广泛知识，而非过早专精，同时以坚韧态度克服资源或环境约束，推动创新。 <div>
 <p><img alt="Medieval painting of two men riding a donkey, a man is in a window, script beneath, with decorative clouds overhead." src="https://images.aeonmedia.co/images/1024a5cb-d702-4ff5-b6b1-6c3e993da1eb/essay-chronology-of-ancient-nations-biruni.jpg?width=1200&amp;quality=75&amp;format=auto" /></p><p>The fathers of Islamic science hold lessons for students: breadth over specialisation, and never let constraints get in the way</p><p><em>- by Mariam Sabri</em></p><p><a href="https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation">Read on Aeon</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
-<pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>What’s Queer About The Legend of Zelda?</title>
 <link>https://daily.jstor.org/whats-queer-about-the-legend-of-zelda/</link>
