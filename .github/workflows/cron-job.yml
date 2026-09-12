@@ -32,11 +32,14 @@ jobs:
         run: |
           python main.py
 
-      - name: Run RSS Digest
+      - name: Run RSS Digest Mail
         env:
-          BARK_KEY: ${{ secrets.BARK_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           CUSTOM_MODEL: ${{ vars.CUSTOM_MODEL }}
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_SERVER: ${{ secrets.MAIL_SERVER }}
+          U_NAME: ${{ secrets.U_NAME }}
         run: |
           python rss_digest.py
