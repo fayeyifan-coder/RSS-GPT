@@ -6,6 +6,7 @@ from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 import feedparser
 import requests
+from workspace_digest import public_item, write_public_digest
 
 # 环境变量读取
 API_KEY = os.getenv("OPENAI_API_KEY") or os.getenv("LLM_API_KEY")
@@ -126,6 +127,7 @@ def send_email(subject, html_content):
 
 def main():
     category_html_blocks = []
+    public_items = []  # Public, plain-text output of this same curated email run.
 
     for cat_name, feeds in RSS_CATEGORIES.items():
         print(f"正在处理分类: {cat_name}...")
@@ -143,6 +145,19 @@ def main():
                 )
 
                 ai_html = summarize_with_ai(title, summary)
+                # Reuse the exact AI result sent by email; do not call the model twice.
+                parsed_summary = BeautifulSoup(ai_html, "html.parser")
+                heading = parsed_summary.find(["h3", "h4"])
+                paragraph = parsed_summary.find("p")
+                item = public_item(
+                    cat_name.split(" ", 1)[-1],
+                    source_name,
+                    heading.get_text(" ", strip=True) if heading else title,
+                    paragraph.get_text(" ", strip=True) if paragraph else "",
+                    link,
+                )
+                if item:
+                    public_items.append(item)
                 item_card = f"""
                 <div style="background: #ffffff; padding: 12px; border-radius: 6px; margin-bottom: 12px; border: 1px solid #e1e8ed;">
                     <span style="font-size: 11px; background: #e8f4f8; color: #1da1f2; padding: 2px 6px; border-radius: 4px;">{source_name}</span>
@@ -162,6 +177,15 @@ def main():
             category_html_blocks.append(cat_block)
 
     if category_html_blocks:
+        # Only write a new snapshot when at least one eligible article exists.
+        # A publication error must not interrupt the established email delivery.
+        try:
+            if write_public_digest(public_items):
+                print("[资讯] 今日公开精选 JSON 已生成，待工作流发布。")
+            else:
+                print("[资讯] 没有符合公开发布条件的条目，保留上次快照。")
+        except Exception as error:
+            print(f"[资讯] 生成只读 JSON 失败（邮件继续发送）: {error}")
         full_body = f"""
         <html>
         <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 680px; margin: 0 auto; padding: 20px; background-color: #f4f7f9;">
