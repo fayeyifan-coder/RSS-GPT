@@ -1,5 +1,8 @@
 name: RSS & Weather Auto Digest
 
+permissions:
+  contents: read # News collection, LLM and email steps do not need repository write access.
+
 on:
   schedule:
     # 北京时间每天早上 08:15 触发 (对应 UTC 00:15)
@@ -9,6 +12,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      digest_present: ${{ steps.digest_file.outputs.present }}
 
     steps:
       - name: Checkout repository
@@ -23,6 +28,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Verify public digest contract
+        run: python -m unittest discover -s tests -v
 
       - name: Run Weather Digest
         env:
@@ -43,3 +51,51 @@ jobs:
           U_NAME: ${{ secrets.U_NAME }}
         run: |
           python rss_digest.py
+
+      # No secrets or write-capable token is needed by the digest publisher.
+      - name: Detect public digest candidate
+        id: digest_file
+        shell: bash
+        run: |
+          if [ -f docs/daily-digest.json ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload public digest candidate
+        if: github.ref == 'refs/heads/main' && steps.digest_file.outputs.present == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: workspace-daily-digest
+          path: docs/daily-digest.json
+          retention-days: 1
+          if-no-files-found: error
+
+  # Dedicated minimal-permission publication job. No RSS/LLM/mail secrets here.
+  publish:
+    if: github.ref == 'refs/heads/main' && needs.build.outputs.digest_present == 'true'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download verified digest artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: workspace-daily-digest
+          path: docs
+
+      # The checkout's other generated feeds/logs remain uncommitted.
+      - name: Publish public workspace digest
+        shell: bash
+        run: |
+          git add -- docs/daily-digest.json
+          if git diff --cached --quiet; then
+            echo "No daily digest update."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "chore: publish workspace daily digest"
+          git push origin HEAD:main

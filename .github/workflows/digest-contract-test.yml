@@ -1,0 +1,29 @@
+name: Verify Public Digest Contract
+
+on:
+  pull_request:
+    paths:
+      - "workspace_digest.py"
+      - "rss_digest.py"
+      - "tests/**"
+      - ".github/workflows/cron-job.yml"
+      - ".github/workflows/digest-contract-test.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install minimal email-parser dependencies
+        run: python -m pip install feedparser==6.0.11 beautifulsoup4==4.12.3 requests==2.32.3
+      - name: Compile digest code
+        run: python -m py_compile workspace_digest.py rss_digest.py
+      - name: Test public contract (no mail, no secrets)
+        run: python -m unittest discover -s tests -v
