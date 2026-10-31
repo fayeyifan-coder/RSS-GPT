@@ -21,6 +21,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Install minimal email-parser dependencies
+        run: python -m pip install feedparser==6.0.11 beautifulsoup4==4.12.3 requests==2.32.3
       - name: Compile digest code
         run: python -m py_compile workspace_digest.py rss_digest.py
       - name: Test public contract (no mail, no secrets)
