@@ -28,8 +28,7 @@ class OneDigestRunTests(unittest.TestCase):
             def write(items):
                 return write_public_digest(items, destination=output)
 
-            with patch.dict(rss_digest.RSS_CATEGORIES, {"🌿 生态与鸟类": {"Nature Ecology": "https://example.org/feed"}}), \
-                 patch.object(rss_digest, "RSS_CATEGORIES", {"🌿 生态与鸟类": {"Nature Ecology": "https://example.org/feed"}}), \
+            with patch.object(rss_digest, "RSS_CATEGORIES", {"🌿 生态与鸟类": {"Nature Ecology": "https://example.org/feed"}}), \
                  patch.object(rss_digest.feedparser, "parse", return_value=fake_feed), \
                  patch.object(rss_digest, "summarize_with_ai", return_value="<h4>中文鸟类新闻</h4><p>中文研究摘要。</p>"), \
                  patch.object(rss_digest, "send_email", side_effect=lambda subject, html: sent.append((subject, html))), \
