@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "sourceApp": "RSS-GPT",
+  "generatedAt": "2026-10-31T08:22:26Z",
+  "reportDate": "2026-10-31",
+  "timeZone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "249202965012919129a40464cccd7a0bd717f1ab8d5edc846e185263a75c2cc3",
+      "category": "生态与鸟类",
+      "source": "Nature Ecology",
+      "title": "白垩纪中期岛屿是东南亚植物多样性的摇篮",
+      "summary": "缅甸琥珀中保存的植物化石包含392个被子植物形态种和152个非被子植物形态种，涵盖花、果实、叶等部位，记录了白垩纪中期异常多样的植物群。",
+      "url": "https://www.nature.com/articles/s41559-026-03219-7"
+    },
+    {
+      "id": "8cbc5e7f2766ed418664ef3f52e3d36ce0ec62f2c2183def80b3ff6ccd22fd8c",
+      "category": "生态与鸟类",
+      "source": "Science Daily Ecology",
+      "title": "小行星灭绝恐龙，鳄鱼为何幸存",
+      "summary": "科学家可能解开6600万年谜团：鳄鱼如何在小行星灭绝恐龙时幸存。对化石与古气候的分析表明，鳄鱼偏好温暖环境，使其栖身于热带避难所，即便在灾难性撞击后仍适宜居住。",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
+    },
+    {
+      "id": "736c0e058d642f6b9fa1307506cd0bfde06f7c26c97c41c1c059c2b8648f34d7",
+      "category": "国际新闻",
+      "source": "BBC News World",
+      "title": "美批准向乌克兰出售500枚爱国者导弹",
+      "summary": "美国批准向乌克兰出售500枚爱国者拦截导弹，该美制拦截弹是击落俄罗斯弹道导弹的唯一有效武器。",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "18573e331a1da802e95d2a8d8f61cb014a447ae7ca8903a85f8f52e812fcdd38",
+      "category": "人文社会",
+      "source": "Aeon Essays",
+      "title": "业余爱好者的赞歌",
+      "summary": "文章探讨了“业余爱好者”这一形象：他们涉猎广泛却不深耕，游走于多种领域而从不固守一处。作者认为，在高度专业化的当代社会，这种不专精、不执着于单一领域的“反英雄”恰恰值得赞赏。",
+      "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age"
+    },
+    {
+      "id": "49cd0de4145e021384ce7e75fac496e782080288e28e56fac2314fcd4db31e34",
+      "category": "人文社会",
+      "source": "The New Yorker",
+      "title": "华盛顿圆桌直播：冲刺阶段与戴维·普洛夫",
+      "summary": "政治策略师戴维·普洛夫在中期选举临近之际评估选情现状及可能的结局走向。",
+      "url": "https://www.newyorker.com/podcast/political-scene/the-washington-roundtable-live-the-final-stretch-with-david-plouffe"
+    },
+    {
+      "id": "864e47c8ac2a8908cc323f96d41ba6c6ef9a06dbbee78e4399d1830986ca5ac0",
+      "category": "AI 与科技",
+      "source": "MIT Tech Review",
+      "title": "GLP-1减肥药或加剧进食障碍风险",
+      "summary": "最新一期科技通讯关注GLP-1减肥药与进食障碍风险上升的关联，同时涉及具备自我感知能力的城市以及永久性化学物质等议题。文章指出，GLP-1减肥药是近十年最大生物技术突破之一，但部分临床医生担忧其可能对进食障碍患者产生负面影响。",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+    },
+    {
+      "id": "1f419414a2c31da6b6df8cbfd79f425fcd456bf77ce1652839a4506540c3c98a",
+      "category": "AI 与科技",
+      "source": "TechCrunch",
+      "title": "风投背后的金主：连环撞车、回报与节奏压力",
+      "summary": "LP们总体满意，但对风投的回报节奏和资金部署速度存在担忧。",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+    }
+  ]
+}
