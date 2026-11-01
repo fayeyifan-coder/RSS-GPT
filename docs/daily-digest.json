@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-10-31T08:22:26Z",
-  "reportDate": "2026-10-31",
+  "generatedAt": "2026-11-01T06:07:02Z",
+  "reportDate": "2026-11-01",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "白垩纪中期岛屿是东南亚植物多样性的摇篮",
-      "summary": "缅甸琥珀中保存的植物化石包含392个被子植物形态种和152个非被子植物形态种，涵盖花、果实、叶等部位，记录了白垩纪中期异常多样的植物群。",
+      "summary": "缅甸琥珀中保存了白垩纪中期植物化石群，含392个被子植物形态种和152个非被子植物形态种，涵盖花、果、叶等部位，揭示该时期岛屿生态系统植物多样性异常丰富。",
       "url": "https://www.nature.com/articles/s41559-026-03219-7"
     },
     {
-      "id": "8cbc5e7f2766ed418664ef3f52e3d36ce0ec62f2c2183def80b3ff6ccd22fd8c",
+      "id": "0912aa804a0ffbc930fbd600ec3c59de25b6f6166c9ab60c11b661180a8b290a",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "小行星灭绝恐龙，鳄鱼为何幸存",
-      "summary": "科学家可能解开6600万年谜团：鳄鱼如何在小行星灭绝恐龙时幸存。对化石与古气候的分析表明，鳄鱼偏好温暖环境，使其栖身于热带避难所，即便在灾难性撞击后仍适宜居住。",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
+      "title": "摩洛哥发现4000年前神秘城墙，改写北非历史",
+      "summary": "摩洛哥发现一座距今约4000年的防御性建筑，规模宏大，揭示出史前北非社会出人意料的高度复杂性，表明该地区在地中海历史中的作用远超此前认知，正在改写科学家对古代北非文明的看法。",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
     },
     {
-      "id": "736c0e058d642f6b9fa1307506cd0bfde06f7c26c97c41c1c059c2b8648f34d7",
+      "id": "f845da07825410f4870fccb86b23776cadef79c810b1f7ab4739e18d19b3830a",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "美批准向乌克兰出售500枚爱国者导弹",
-      "summary": "美国批准向乌克兰出售500枚爱国者拦截导弹，该美制拦截弹是击落俄罗斯弹道导弹的唯一有效武器。",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+      "title": "德国生活成本抗议演变为暴力，商店遭洗劫",
+      "summary": "法兰克福警方称市中心发生“暴力骚乱”，柏林、汉堡和科隆也报告了动荡。",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "18573e331a1da802e95d2a8d8f61cb014a447ae7ca8903a85f8f52e812fcdd38",
       "category": "人文社会",
       "source": "Aeon Essays",
       "title": "业余爱好者的赞歌",
-      "summary": "文章探讨了“业余爱好者”这一形象：他们涉猎广泛却不深耕，游走于多种领域而从不固守一处。作者认为，在高度专业化的当代社会，这种不专精、不执着于单一领域的“反英雄”恰恰值得赞赏。",
+      "summary": "文章探讨业余爱好者作为反英雄的价值：他们涉猎广泛、不困于单一领域，恰是对过度专业化时代的反思。作者杰伊·米勒发表于Aeon。",
       "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age"
     },
     {
-      "id": "49cd0de4145e021384ce7e75fac496e782080288e28e56fac2314fcd4db31e34",
+      "id": "138d620f6ba654bff3ae8d3648482b24e882f1235f0473bcd2b1b8a45b589862",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "华盛顿圆桌直播：冲刺阶段与戴维·普洛夫",
-      "summary": "政治策略师戴维·普洛夫在中期选举临近之际评估选情现状及可能的结局走向。",
-      "url": "https://www.newyorker.com/podcast/political-scene/the-washington-roundtable-live-the-final-stretch-with-david-plouffe"
+      "title": "卢拉胜选对世界意味着什么",
+      "summary": "巴西总统卢拉在互联网时代直面右翼网络势力。文章探讨国家选举日益国际化背景下，卢拉胜选对全球的影响与意义。",
+      "url": "https://www.newyorker.com/news/the-lede/brazils-president-faces-down-the-online-right"
     },
     {
       "id": "864e47c8ac2a8908cc323f96d41ba6c6ef9a06dbbee78e4399d1830986ca5ac0",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
       "title": "GLP-1减肥药或加剧进食障碍风险",
-      "summary": "最新一期科技通讯关注GLP-1减肥药与进食障碍风险上升的关联，同时涉及具备自我感知能力的城市以及永久性化学物质等议题。文章指出，GLP-1减肥药是近十年最大生物技术突破之一，但部分临床医生担忧其可能对进食障碍患者产生负面影响。",
+      "summary": "GLP-1减肥药是近十年重大生物技术突破，但部分临床医生担忧其可能加剧日益增多的进食障碍问题。本期简报还涉及自我感知城市与永久性化学物质等科技话题。",
       "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
     },
     {
-      "id": "1f419414a2c31da6b6df8cbfd79f425fcd456bf77ce1652839a4506540c3c98a",
+      "id": "1cf8f670adac64720d77dac12ce1768bf8b1d01efa09548d1116ace4f8177797",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "风投背后的金主：连环撞车、回报与节奏压力",
-      "summary": "LP们总体满意，但对风投的回报节奏和资金部署速度存在担忧。",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+      "title": "数据中心成中期选举议题",
+      "summary": "布鲁克林中期选举聚会上，从市议员炉边谈话到民主党辩论，所有话题都反复回到人工智能和数据中心。",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
     }
   ]
 }
