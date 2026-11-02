@@ -1,65 +1,57 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-01T06:07:02Z",
-  "reportDate": "2026-11-01",
+  "generatedAt": "2026-11-02T06:06:19Z",
+  "reportDate": "2026-11-02",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "249202965012919129a40464cccd7a0bd717f1ab8d5edc846e185263a75c2cc3",
-      "category": "生态与鸟类",
-      "source": "Nature Ecology",
-      "title": "白垩纪中期岛屿是东南亚植物多样性的摇篮",
-      "summary": "缅甸琥珀中保存了白垩纪中期植物化石群，含392个被子植物形态种和152个非被子植物形态种，涵盖花、果、叶等部位，揭示该时期岛屿生态系统植物多样性异常丰富。",
-      "url": "https://www.nature.com/articles/s41559-026-03219-7"
-    },
-    {
-      "id": "0912aa804a0ffbc930fbd600ec3c59de25b6f6166c9ab60c11b661180a8b290a",
+      "id": "4155c9fb03177fbf9982510034401a1c5d73265ae10f353b29bcf1b7e9761cab",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "摩洛哥发现4000年前神秘城墙，改写北非历史",
-      "summary": "摩洛哥发现一座距今约4000年的防御性建筑，规模宏大，揭示出史前北非社会出人意料的高度复杂性，表明该地区在地中海历史中的作用远超此前认知，正在改写科学家对古代北非文明的看法。",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+      "title": "埃及古猿化石或改写人类起源史",
+      "summary": "埃及发现1700万至1800万年前的古猿化石，挑战人类及现代猿类祖先最早演化地的传统认知。科学家推测，现代猿类演化的摇篮可能是北非和中东，而非东非。",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
     },
     {
-      "id": "f845da07825410f4870fccb86b23776cadef79c810b1f7ab4739e18d19b3830a",
+      "id": "105dd427b029f799d5c52ca6f0909cc6cb0ba0568ad61cad8a60594c6546d7f1",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "德国生活成本抗议演变为暴力，商店遭洗劫",
-      "summary": "法兰克福警方称市中心发生“暴力骚乱”，柏林、汉堡和科隆也报告了动荡。",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+      "title": "乌克兰空袭警报应用疑遭黑客攻击",
+      "summary": "乌克兰空军表示，空袭警报应用疑似遭黑客入侵，用户收到虚假辐射威胁通知。数小时后，俄罗斯当局称其应用也遭到黑客攻击，境内用户收到虚假警告。",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "18573e331a1da802e95d2a8d8f61cb014a447ae7ca8903a85f8f52e812fcdd38",
       "category": "人文社会",
       "source": "Aeon Essays",
       "title": "业余爱好者的赞歌",
-      "summary": "文章探讨业余爱好者作为反英雄的价值：他们涉猎广泛、不困于单一领域，恰是对过度专业化时代的反思。作者杰伊·米勒发表于Aeon。",
+      "summary": "文章探讨了业余爱好者作为反英雄的价值：他们涉猎广泛却不深陷，在高度专业化的时代保持自由与好奇，不被单一领域束缚。",
       "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age"
     },
     {
-      "id": "138d620f6ba654bff3ae8d3648482b24e882f1235f0473bcd2b1b8a45b589862",
+      "id": "0c1bd4c62fc676f26454f90b20045b75c94024f3ce2e90a8a2fd60470f8aa4c7",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "卢拉胜选对世界意味着什么",
-      "summary": "巴西总统卢拉在互联网时代直面右翼网络势力。文章探讨国家选举日益国际化背景下，卢拉胜选对全球的影响与意义。",
-      "url": "https://www.newyorker.com/news/the-lede/brazils-president-faces-down-the-online-right"
+      "title": "康纳·奥布莱恩与大卫·雷姆尼克对话",
+      "summary": "喜剧演员康纳·奥布莱恩与《纽约客》主编大卫·雷姆尼克对谈，围绕喜剧行业的幕后故事展开交流。",
+      "url": "https://www.newyorker.com/culture/new-yorker-festival/conan-obrien-talks-with-david-remnick"
     },
     {
       "id": "864e47c8ac2a8908cc323f96d41ba6c6ef9a06dbbee78e4399d1830986ca5ac0",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
       "title": "GLP-1减肥药或加剧进食障碍风险",
-      "summary": "GLP-1减肥药是近十年重大生物技术突破，但部分临床医生担忧其可能加剧日益增多的进食障碍问题。本期简报还涉及自我感知城市与永久性化学物质等科技话题。",
+      "summary": "最新一期科技通讯关注三大话题：GLP-1减肥药与进食障碍的潜在关联、具备自我感知能力的城市，以及永久性化学物质污染。文章指出，进食障碍发病率正在上升，而GLP-1减肥药作为近十年最大生物技术突破之一，在部分临床医生看来可能使这一问题雪上加霜。",
       "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
     },
     {
-      "id": "1cf8f670adac64720d77dac12ce1768bf8b1d01efa09548d1116ace4f8177797",
+      "id": "743c9adc1c15650721744dc5a039e478cfef12bee0b296faa09f61d568242110",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "数据中心成中期选举议题",
-      "summary": "布鲁克林中期选举聚会上，从市议员炉边谈话到民主党辩论，所有话题都反复回到人工智能和数据中心。",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+      "title": "科技媒体精选五篇必读故事",
+      "summary": "汇总CIO、Computerworld、Macworld和PCWorld五篇值得一读的故事。",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
     }
   ]
 }
