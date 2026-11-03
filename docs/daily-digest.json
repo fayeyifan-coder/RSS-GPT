@@ -1,57 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-02T06:06:19Z",
-  "reportDate": "2026-11-02",
+  "generatedAt": "2026-11-03T06:49:25Z",
+  "reportDate": "2026-11-03",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "4155c9fb03177fbf9982510034401a1c5d73265ae10f353b29bcf1b7e9761cab",
+      "id": "249202965012919129a40464cccd7a0bd717f1ab8d5edc846e185263a75c2cc3",
+      "category": "生态与鸟类",
+      "source": "Nature Ecology",
+      "title": "白垩纪中期岛屿是东南亚植物多样性的摇篮",
+      "summary": "缅甸琥珀中保存了三维植物化石，含392种被子植物和152种非被子植物形态种，涵盖花、果、叶等部位，记录了白垩纪中期异常多样的植物群。",
+      "url": "https://www.nature.com/articles/s41559-026-03219-7"
+    },
+    {
+      "id": "f1c7afa5a1c832a94596b5b0ae637a11e3f7bc24a5f2cbd3f93c778abe5dce6b",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "埃及古猿化石或改写人类起源史",
-      "summary": "埃及发现1700万至1800万年前的古猿化石，挑战人类及现代猿类祖先最早演化地的传统认知。科学家推测，现代猿类演化的摇篮可能是北非和中东，而非东非。",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+      "title": "NASA卫星在南极偏远岛屿上拍摄到诡异的骷髅状地貌，但其恐怖外表下隐藏着冰川融化的警示。异常温暖的冬季气温暴露了大片深色冰面，可能加速未来融化进程，并逐渐改变这一骷髅地貌的幽灵般特征。",
+      "summary": "（无进一步摘要）",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
     },
     {
-      "id": "105dd427b029f799d5c52ca6f0909cc6cb0ba0568ad61cad8a60594c6546d7f1",
+      "id": "fe01e4934507b524571b1def9d6b3f6e87f1da9ce845382da0160189b657c15f",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "乌克兰空袭警报应用疑遭黑客攻击",
-      "summary": "乌克兰空军表示，空袭警报应用疑似遭黑客入侵，用户收到虚假辐射威胁通知。数小时后，俄罗斯当局称其应用也遭到黑客攻击，境内用户收到虚假警告。",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+      "title": "美国中期选举前打击伊朗",
+      "summary": "美方称对格什姆岛袭击有限且属防御性质。",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "18573e331a1da802e95d2a8d8f61cb014a447ae7ca8903a85f8f52e812fcdd38",
+      "id": "41fa2f3c63690688202724f6617938248f68bbcabd2ebe6c0d42152d4f8e54f6",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "业余爱好者的赞歌",
-      "summary": "文章探讨了业余爱好者作为反英雄的价值：他们涉猎广泛却不深陷，在高度专业化的时代保持自由与好奇，不被单一领域束缚。",
-      "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age"
+      "title": "当下之谜",
+      "summary": "本文通过物理、哲学与心理学视角探讨“现在”的本质，追寻当下的科学与奥秘，揭示时间感知的复杂性与神秘性。",
+      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now"
     },
     {
-      "id": "0c1bd4c62fc676f26454f90b20045b75c94024f3ce2e90a8a2fd60470f8aa4c7",
+      "id": "80196e7bdcb24b5d2ea127c40cdf5db252f17d96c81cc4e52247e67a9eb429db",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "康纳·奥布莱恩与大卫·雷姆尼克对话",
-      "summary": "喜剧演员康纳·奥布莱恩与《纽约客》主编大卫·雷姆尼克对谈，围绕喜剧行业的幕后故事展开交流。",
-      "url": "https://www.newyorker.com/culture/new-yorker-festival/conan-obrien-talks-with-david-remnick"
+      "title": "AI政治广告泛滥无人能挡",
+      "summary": "AI伪造的政客言论（如“删除罪证邮件”“美国去死”）正涌入政治广告，真假难辨，选民能否识别成疑。",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/nothing-is-stopping-the-flood-of-ai-political-ads"
     },
     {
-      "id": "864e47c8ac2a8908cc323f96d41ba6c6ef9a06dbbee78e4399d1830986ca5ac0",
+      "id": "b7492bd5cea1d25b75401839cffa88cf38020f9ce073410cd06af8790091a844",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "GLP-1减肥药或加剧进食障碍风险",
-      "summary": "最新一期科技通讯关注三大话题：GLP-1减肥药与进食障碍的潜在关联、具备自我感知能力的城市，以及永久性化学物质污染。文章指出，进食障碍发病率正在上升，而GLP-1减肥药作为近十年最大生物技术突破之一，在部分临床医生看来可能使这一问题雪上加霜。",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+      "title": "特朗普“超级智能”忠诚测试引发跟风",
+      "summary": "特朗普签署行政令要求政府机构将人工智能改称“超级智能”，被视为对官员忠诚度的测试。报道梳理了哪些人正在配合这一更名要求，反映出政治压力对技术话语的影响。",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
     },
     {
-      "id": "743c9adc1c15650721744dc5a039e478cfef12bee0b296faa09f61d568242110",
+      "id": "23abe1f1b0a2b246b606e768d72b2022a5fb4837808565bc056ab695be599d11",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "科技媒体精选五篇必读故事",
-      "summary": "汇总CIO、Computerworld、Macworld和PCWorld五篇值得一读的故事。",
-      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+      "title": "谷歌Dreambeans登陆印度",
+      "summary": "谷歌AI实验项目Dreambeans支持13种印度语言，旨在向大众推广AI生成的个人故事。",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
     }
   ]
 }
