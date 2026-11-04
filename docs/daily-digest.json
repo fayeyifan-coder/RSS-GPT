@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-03T06:49:25Z",
-  "reportDate": "2026-11-03",
+  "generatedAt": "2026-11-04T06:24:28Z",
+  "reportDate": "2026-11-04",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "249202965012919129a40464cccd7a0bd717f1ab8d5edc846e185263a75c2cc3",
+      "id": "ec58ebd4d9458af201e4a061c1779fe9260114e5f871b7db049bd4c6edd766f0",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "白垩纪中期岛屿是东南亚植物多样性的摇篮",
-      "summary": "缅甸琥珀中保存了三维植物化石，含392种被子植物和152种非被子植物形态种，涵盖花、果、叶等部位，记录了白垩纪中期异常多样的植物群。",
-      "url": "https://www.nature.com/articles/s41559-026-03219-7"
+      "title": "OECMs助力强化现有保护区域网络",
+      "summary": "《自然-生态与演化》在线发表研究，全球评估由保护区及其他有效区域保护措施（OECMs）构成的保护网络结构布局，揭示OECMs如何强化现有保护区网络。",
+      "url": "https://www.nature.com/articles/s41559-026-03233-9"
     },
     {
-      "id": "f1c7afa5a1c832a94596b5b0ae637a11e3f7bc24a5f2cbd3f93c778abe5dce6b",
+      "id": "d9052b60a1a3ea73ff595704d805b9350034a9e58e8cfd33c9462ba9e9d6cf36",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "NASA卫星在南极偏远岛屿上拍摄到诡异的骷髅状地貌，但其恐怖外表下隐藏着冰川融化的警示。异常温暖的冬季气温暴露了大片深色冰面，可能加速未来融化进程，并逐渐改变这一骷髅地貌的幽灵般特征。",
-      "summary": "（无进一步摘要）",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
+      "title": "巴西消失的青蛙之谜揭开致命真菌",
+      "summary": "科学家发现致命真菌曾席卷巴西并重创脆弱蛙类，或解开近50年青蛙消失之谜；许多蛙群后来反弹，显示其对曾威胁生存的疾病产生了更强耐受性。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
     },
     {
-      "id": "fe01e4934507b524571b1def9d6b3f6e87f1da9ce845382da0160189b657c15f",
+      "id": "fb0e681b52e3514f4abe5d598edf7cdf0dfaf7fc0947badc4eabbfd71ef3aceb",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "美国中期选举前打击伊朗",
-      "summary": "美方称对格什姆岛袭击有限且属防御性质。",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+      "title": "南卡州近三十年来首次选出民主党参议员",
+      "summary": "安妮·安德鲁斯预计将击败达琳·格雷厄姆，后者由特朗普总统亲自挑选，接替其已故兄弟的参议员席位。",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "41fa2f3c63690688202724f6617938248f68bbcabd2ebe6c0d42152d4f8e54f6",
+      "id": "68a4931a2c77048015c8ffae5ae4436941579b795b0dc923e7553ff04fbfbce3",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "当下之谜",
-      "summary": "本文通过物理、哲学与心理学视角探讨“现在”的本质，追寻当下的科学与奥秘，揭示时间感知的复杂性与神秘性。",
-      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now"
+      "title": "信仰与思考的分离",
+      "summary": "政教分离有其未言明的心理基础：我们选择信仰什么，却不选择思考什么。",
+      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state"
     },
     {
-      "id": "80196e7bdcb24b5d2ea127c40cdf5db252f17d96c81cc4e52247e67a9eb429db",
+      "id": "be691ea7766280663c6496eb1f3bce78e804cffd79f0ea8e0f2f1185d47efeb6",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "AI政治广告泛滥无人能挡",
-      "summary": "AI伪造的政客言论（如“删除罪证邮件”“美国去死”）正涌入政治广告，真假难辨，选民能否识别成疑。",
-      "url": "https://www.newyorker.com/culture/infinite-scroll/nothing-is-stopping-the-flood-of-ai-political-ads"
+      "title": "黑利·史蒂文斯和朋友们解读选举乱局",
+      "summary": "密歇根州众议员黑利·史蒂文斯在令人困惑的选举周回顾了自己改变 endorsement 的决定、被人认为与共和党“串通”的误解，以及她的未婚夫杰森·特基什。",
+      "url": "https://www.newyorker.com/news/the-political-scene/haley-stevens-and-her-friends-explain-what-the-hell-just-happened"
     },
     {
-      "id": "b7492bd5cea1d25b75401839cffa88cf38020f9ce073410cd06af8790091a844",
+      "id": "95be758dada6d32046c03938d4d619e2b55cbe27d53554ae6fa9b24c8251b5be",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "特朗普“超级智能”忠诚测试引发跟风",
-      "summary": "特朗普签署行政令要求政府机构将人工智能改称“超级智能”，被视为对官员忠诚度的测试。报道梳理了哪些人正在配合这一更名要求，反映出政治压力对技术话语的影响。",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+      "title": "AI代理控制与超级智能忠诚度测试",
+      "summary": "探讨用“逆向博弈论”约束AI代理，通过设计激励系统引导强大模型行为，并涉及超级智能忠诚度测试。",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
     },
     {
-      "id": "23abe1f1b0a2b246b606e768d72b2022a5fb4837808565bc056ab695be599d11",
+      "id": "73cea4e0606f375e90032d844262aaa114194990d8265c045c1e05cd8a55d15f",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "谷歌Dreambeans登陆印度",
-      "summary": "谷歌AI实验项目Dreambeans支持13种印度语言，旨在向大众推广AI生成的个人故事。",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+      "title": "印度EloElo获NBCUniversal 8000万美元投资，押注微短剧市场",
+      "summary": "印度微短剧平台EloElo获NBCUniversal 8000万美元投资。据Sensor Tower数据，其StoryTV月活跃用户超3300万。",
+      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
     }
   ]
 }
