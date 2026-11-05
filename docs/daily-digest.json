@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-04T06:24:28Z",
-  "reportDate": "2026-11-04",
+  "generatedAt": "2026-11-05T06:48:34Z",
+  "reportDate": "2026-11-05",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "ec58ebd4d9458af201e4a061c1779fe9260114e5f871b7db049bd4c6edd766f0",
+      "id": "c2c76eae3f83b7a00796c559eae05a0b3daa315de8243c2cf7022a82368e3a73",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "OECMs助力强化现有保护区域网络",
-      "summary": "《自然-生态与演化》在线发表研究，全球评估由保护区及其他有效区域保护措施（OECMs）构成的保护网络结构布局，揭示OECMs如何强化现有保护区网络。",
-      "url": "https://www.nature.com/articles/s41559-026-03233-9"
+      "title": "自然有害贡献的风险框架",
+      "summary": "该文提出评估和管理自然对人类有害贡献的概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然有害面。",
+      "url": "https://www.nature.com/articles/s41559-026-03225-9"
     },
     {
-      "id": "d9052b60a1a3ea73ff595704d805b9350034a9e58e8cfd33c9462ba9e9d6cf36",
+      "id": "d591eca5031ec27547dd2f70d4e50969089cab54d2d04e17ce5d4bcbcc3402ee",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "巴西消失的青蛙之谜揭开致命真菌",
-      "summary": "科学家发现致命真菌曾席卷巴西并重创脆弱蛙类，或解开近50年青蛙消失之谜；许多蛙群后来反弹，显示其对曾威胁生存的疾病产生了更强耐受性。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
+      "title": "大脑与身体交叉连接之谜获解释",
+      "summary": "科学家提出，大脑左右半球分别连接身体对侧的神秘交叉结构，可能起源于5亿多年前远古鱼类的视觉系统。这种奇特布局或许并非为特定优势而演化，而是进化在古老基础上构建新神经回路留下的遗产。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm"
     },
     {
-      "id": "fb0e681b52e3514f4abe5d598edf7cdf0dfaf7fc0947badc4eabbfd71ef3aceb",
+      "id": "e6b199bf98c8397933482d900e44c1261438c8b61187476fb606f2b9da4aa6f4",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "南卡州近三十年来首次选出民主党参议员",
-      "summary": "安妮·安德鲁斯预计将击败达琳·格雷厄姆，后者由特朗普总统亲自挑选，接替其已故兄弟的参议员席位。",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+      "title": "万斯批评选举失利归咎伊朗战争",
+      "summary": "万斯直言共和党选举失利的原因，将矛头指向伊朗战争，此举被视为近年来现任副总统与总统之间最明显的分歧之一。",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "68a4931a2c77048015c8ffae5ae4436941579b795b0dc923e7553ff04fbfbce3",
+      "id": "e25285be2ff72c0723ce2d3c892959e8b70aa6b2f24135f1c543555f89b205d8",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "信仰与思考的分离",
-      "summary": "政教分离有其未言明的心理基础：我们选择信仰什么，却不选择思考什么。",
-      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state"
+      "title": "外星般的世界",
+      "summary": "这些自成一体的微型世界如同活的隐喻，向我们展示生物圈奇妙而脆弱的美——Aeon视频出品，可在Aeon观看。",
+      "url": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own"
     },
     {
-      "id": "be691ea7766280663c6496eb1f3bce78e804cffd79f0ea8e0f2f1185d47efeb6",
+      "id": "636f0b9e0df1cb4d479510106f49e60d32bff439165b1ad2a34dbedefd926f34",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "黑利·史蒂文斯和朋友们解读选举乱局",
-      "summary": "密歇根州众议员黑利·史蒂文斯在令人困惑的选举周回顾了自己改变 endorsement 的决定、被人认为与共和党“串通”的误解，以及她的未婚夫杰森·特基什。",
-      "url": "https://www.newyorker.com/news/the-political-scene/haley-stevens-and-her-friends-explain-what-the-hell-just-happened"
+      "title": "民主党大胜之夜与特朗普的否定",
+      "summary": "民主党取得此前难以想象的胜利，重塑了政治格局。这是否预示着选民结构将发生持久转变？",
+      "url": "https://www.newyorker.com/podcast/political-scene/the-democrats-big-night-and-the-repudiation-of-donald-trump"
     },
     {
-      "id": "95be758dada6d32046c03938d4d619e2b55cbe27d53554ae6fa9b24c8251b5be",
+      "id": "988e33cedf7304f8cc6daa3bca7ce4310206732ac6fae95fe6e10cfdcaf7af00",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "AI代理控制与超级智能忠诚度测试",
-      "summary": "探讨用“逆向博弈论”约束AI代理，通过设计激励系统引导强大模型行为，并涉及超级智能忠诚度测试。",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+      "title": "得州AI数据中心建设或受阻",
+      "summary": "得州曾是美AI数据中心建设增长最快市场，但民主党在州选举中获胜，可能危及这一地位。Talarico赢得参议员席位，Hinojosa赢得州长竞选，政治变局或影响大型科技公司AI扩张计划。",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
     },
     {
-      "id": "73cea4e0606f375e90032d844262aaa114194990d8265c045c1e05cd8a55d15f",
+      "id": "ad1030df5ce46710e212924e1881d256e4d0201ba8e5545b371146cfeca6d709",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "印度EloElo获NBCUniversal 8000万美元投资，押注微短剧市场",
-      "summary": "印度微短剧平台EloElo获NBCUniversal 8000万美元投资。据Sensor Tower数据，其StoryTV月活跃用户超3300万。",
-      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+      "title": "苹果据称削减内部AI预算",
+      "summary": "苹果据称正大幅削减工程团队在AI方面的支出，内部AI使用预算显著下调。",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
     }
   ]
 }
