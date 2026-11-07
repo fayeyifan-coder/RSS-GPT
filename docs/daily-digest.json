@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-06T06:48:53Z",
-  "reportDate": "2026-11-06",
+  "generatedAt": "2026-11-07T05:59:36Z",
+  "reportDate": "2026-11-07",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
       "id": "c2c76eae3f83b7a00796c559eae05a0b3daa315de8243c2cf7022a82368e3a73",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "自然危害性贡献风险评估框架",
-      "summary": "该文提出评估与管理自然对人类的危害性贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然危害问题。",
+      "title": "自然对人类危害的风险框架",
+      "summary": "该文提出评估和管理自然对人类有害贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然危害议题。",
       "url": "https://www.nature.com/articles/s41559-026-03225-9"
     },
     {
-      "id": "d591eca5031ec27547dd2f70d4e50969089cab54d2d04e17ce5d4bcbcc3402ee",
+      "id": "9ad9c4695d7d3f88496385e8b893549e510dc0f2eaba861e766633d47635671a",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "大脑与身体交叉连接之谜获解释",
-      "summary": "科学家提出，大脑左右半球分别连接身体对侧的神秘交叉结构，可能起源于5亿多年前远古鱼类的视觉系统。这种奇特布局或许并非为特定优势而演化，而是进化在古老基础上构建新脑回路留下的遗产。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm"
+      "title": "科学家发现1.15亿年前恐龙血液",
+      "summary": "科学家在1.15亿年前的恐龙骨骼中发现了经化学确认的古代血液痕迹，挑战了关于生物分子能存活多久的假设。这一非凡的保存状况可能为研究恐龙生理学提供新线索，甚至有助于科学家在宇宙其他地方寻找古代生命。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
     },
     {
-      "id": "7f806f4d6ebc196f3a39fdee2f431c31ca87c3a4406b4c6fa6d1f3081c11b7a9",
+      "id": "de0c28c9953fb6e77af413b2b7893692baed7cc3c9e782dd9c40ba1683f9d4c8",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "科技股全球暴跌，美国中期选举加剧AI放缓担忧",
-      "summary": "投资者对数据中心建设和AI行业可能面临更严格审查作出反应，全球科技股大幅下挫。",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+      "title": "AI股在市值蒸发数万亿后攀升",
+      "summary": "投资者此前抛售科技股，部分原因是担心民主党胜选将意味着AI发展放缓。",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "b02af28a69247821609de207ad32a9ed68b80b1f648fa769d26d74b0534b2852",
+      "id": "377db197cc71cb88208544fac41ad0e787debebd42083f28db761ebd0c558fd2",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "数据标注员支撑自动驾驶未来",
-      "summary": "肯尼亚、菲律宾和委内瑞拉的低薪劳工为全球北方国家的自动驾驶未来提供数据标注等劳动支撑，Aeon视频对此进行了探讨。",
-      "url": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see"
+      "title": "天文观测沦为物理实验场",
+      "summary": "宇宙已成为物理学重大问题的实验室，但我们却忽视了其壮丽的混沌本质。",
+      "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions"
     },
     {
-      "id": "7def2f8a30c9dd77d9ac50f9a987a77e21d03d66fef9431e13eebf6fe32c988c",
+      "id": "005c2d4d3aa12a46d3e57f04ef777d93c4bbfe52e4c3548b585afdc0a968be93",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "选举结果对民主制度的影响",
-      "summary": "本周选举结果引发对选举未来的思考，民主党大获全胜，但民主制度本身的影响更值得关注。",
-      "url": "https://www.newyorker.com/news/the-lede/what-this-weeks-elections-mean-for-the-future-of-elections"
+      "title": "中期选举后的美国政治走向",
+      "summary": "《华盛顿圆桌》分析中期选举结果，探讨“正义蓝潮”将如何影响2028年及以后的美国政治。",
+      "url": "https://www.newyorker.com/podcast/political-scene/the-voters-have-spoken-what-comes-next"
     },
     {
-      "id": "b2dc36e13c44a6e4145d7cabe8c3c4ab038300f5b5f6ade39f1ba464cf3d211f",
+      "id": "4824c98720e7e767d6033de6fb4d3e9be191f44113d54758ac5c9af7ee8ec41d",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "得州AI繁荣面临考验",
-      "summary": "得州曾是AI数据中心建设的新中心，但能源政策变化可能使其发展受挫。作为美国增长最快的数据中心市场，得州正面临政策调整带来的不确定性。",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+      "title": "人形机器人做家务与三星布局AI",
+      "summary": "本期简讯关注人形机器人清洁服务实测体验，以及三星为AI热潮加大建设投入。",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
     },
     {
-      "id": "c822924fc1f280c7bb5c4ca24542744a310746586c204947c26f0e804b19275f",
+      "id": "3a6b312933ddd1f11445d68d911bff88e6f13a3e54d6bac0da47eaaf40cdd1ff",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "Palo Alto Networks拟5亿美元收购AI代理安全初创公司Clutch",
-      "summary": "Palo Alto Networks正洽谈以约5亿美元收购AI代理安全初创公司Clutch。Clutch获Lightspeed和SignalFire投资，上次估值8500万美元。",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      "title": "红杉关闭Scouts项目标志着一个时代的终结",
+      "summary": "红杉首创Scouts模式并引发众多风投效仿，但如今各方似乎已形成共识：该模式在当前形式下已触及极限。",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
     }
   ]
 }
