@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-08T06:02:32Z",
-  "reportDate": "2026-11-08",
+  "generatedAt": "2026-11-09T06:32:16Z",
+  "reportDate": "2026-11-09",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
       "id": "c2c76eae3f83b7a00796c559eae05a0b3daa315de8243c2cf7022a82368e3a73",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "自然危害性贡献的风险框架",
-      "summary": "该文提出评估与管理自然对人类的危害性贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的议题。",
+      "title": "自然危害风险评估框架",
+      "summary": "文章提出评估和管理自然对人类的危害贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然危害问题。",
       "url": "https://www.nature.com/articles/s41559-026-03225-9"
     },
     {
-      "id": "9ad9c4695d7d3f88496385e8b893549e510dc0f2eaba861e766633d47635671a",
+      "id": "f4af5b1661847f17f1b08f7f5c078656899b62e9a9a9b74639ec59dd0356517f",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "科学家发现1.15亿年前恐龙血液",
-      "summary": "科学家在1.15亿年前的恐龙骨骼中发现了经化学确认的远古血液痕迹，挑战了关于生物分子能存活多久的既有认知。这一非凡的保存状况可能为研究恐龙生理学提供新线索，甚至有助于科学家在宇宙其他地方寻找远古生命。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+      "title": "哥伦比亚发现古海洋生态系统化石，巨型掠食者繁盛期揭示演化转折",
+      "summary": "哥伦比亚化石发现揭示了一个多样化的古海洋生态系统，巨型爬行动物与鲨鱼繁盛于新旧演化类群交替之际，研究者称之为“生物拐点”，表明重大演化转变可在无大灭绝情况下发生。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
     },
     {
-      "id": "d04570c52c8f8b018285176a80b7f27cb0751f66865740222512baa65f137ec6",
+      "id": "90b23b1d03a122e8cb9aa5c97d609174c8df9721ea1548b1771211dad3a007d4",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "克拉科夫枪击案已知情况",
-      "summary": "克拉科夫主广场发生随机枪击致6人死亡，袭击者住所随后发现3具尸体。",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+      "title": "法国毒贩团伙招募儿童杀人内幕",
+      "summary": "BBC深入马赛危险的地下世界，揭露年轻人如何被囚禁、虐待和剥削。",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "377db197cc71cb88208544fac41ad0e787debebd42083f28db761ebd0c558fd2",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "天体 nuisance",
-      "summary": "宇宙已成为物理学重大问题的实验室，但在此过程中我们忽视了它壮丽而混乱的本质。",
+      "title": "天文观测的隐忧",
+      "summary": "宇宙已成为物理学重大问题的实验室，但我们也因此忽视了它本身的混沌与壮丽。",
       "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions"
     },
     {
-      "id": "4191ba825abcebdba8057c02373c373722fd12562995d82e5465d588e90c0ca4",
+      "id": "9a86a5f90a8ad36294ba81b755c96260f609c3b206b14fbde2b242ef1d85060d",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "漫画大师克里斯·韦尔推出疫情主题新作",
-      "summary": "克里斯·韦尔《Acme新奇图书馆》最新一期以珍藏盒形式呈现，带来极具现代感的阅读体验。",
-      "url": "https://www.newyorker.com/books/page-turner/a-cartoonists-depiction-of-the-moment-things-got-weird"
+      "title": "NBA球员沉迷体育博彩反成赌注",
+      "summary": "猛龙队球员琼泰·波特深陷FanDuel博彩平台，欠下不良人士债务，最终铤而走险赌自己表现，走上不归路。",
+      "url": "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting"
     },
     {
       "id": "4824c98720e7e767d6033de6fb4d3e9be191f44113d54758ac5c9af7ee8ec41d",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "人形机器人做家务与三星布局AI",
-      "summary": "本期通讯关注人形机器人清洁服务实测体验，以及三星为AI热潮扩产。记者观看人形机器人打扫公寓，感觉像未来生活预演；同时三星正加大产能布局以应对AI需求增长。",
+      "title": "人形机器人打扫房屋，三星布局AI热潮",
+      "summary": "本期通讯关注人形机器人清洁服务实测体验，以及三星针对AI热潮的产能建设动态。记者亲历人形机器人打扫公寓，感叹宛如未来生活预演；同时三星正加大布局以满足AI时代需求。",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
     },
     {
-      "id": "757379c07d1179f77b312b846b839004ea150e3acc9191dc7c8f72180b16ff14",
+      "id": "e120b878a12761b045e28a520ff14dd0d24b739e3443ceb2e23a0c3778ecc076",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "中期选举后，马斯克与数据中心前景堪忧",
-      "summary": "中期选举后科技行业面临变数，节目探讨选举结果对科技业的影响，马斯克与数据中心前景引发关注。",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+      "title": "黄仁勋CEO职位岌岌可危？耶鲁教授称“五五开”",
+      "summary": "英伟达董事会正调查黄仁勋与一名疑似中国间谍的关系，耶鲁大学杰弗里·索南菲尔德认为黄仁勋留任CEO的概率大约为五五开。",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
     }
   ]
 }
