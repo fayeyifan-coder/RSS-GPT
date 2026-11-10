@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-09T06:32:16Z",
-  "reportDate": "2026-11-09",
+  "generatedAt": "2026-11-10T07:19:53Z",
+  "reportDate": "2026-11-10",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
       "id": "c2c76eae3f83b7a00796c559eae05a0b3daa315de8243c2cf7022a82368e3a73",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "自然危害风险评估框架",
-      "summary": "文章提出评估和管理自然对人类的危害贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然危害问题。",
+      "title": "自然危害性贡献风险评估框架",
+      "summary": "该文提出评估与管理自然对人类有害贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然危害议题。",
       "url": "https://www.nature.com/articles/s41559-026-03225-9"
     },
     {
-      "id": "f4af5b1661847f17f1b08f7f5c078656899b62e9a9a9b74639ec59dd0356517f",
+      "id": "ee8e94e77f159e111bd6d77b8f1089ac466f02e0ececd0d76bc13d832cf4fed3",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "哥伦比亚发现古海洋生态系统化石，巨型掠食者繁盛期揭示演化转折",
-      "summary": "哥伦比亚化石发现揭示了一个多样化的古海洋生态系统，巨型爬行动物与鲨鱼繁盛于新旧演化类群交替之际，研究者称之为“生物拐点”，表明重大演化转变可在无大灭绝情况下发生。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
+      "title": "都灵裹尸布DNA揭示数百年隐藏秘密",
+      "summary": "科学家通过DNA分析发现都灵裹尸布上存在复杂的生物痕迹混合物，这些线索或有助于揭示这块布料的历史及其所处环境，为这一延续数百年的谜团提供了新的科学视角。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
     },
     {
-      "id": "90b23b1d03a122e8cb9aa5c97d609174c8df9721ea1548b1771211dad3a007d4",
+      "id": "4a9293f6fb1874436e243f468783a9bdabba61d90f68d5e20fe55e54f7e54217",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "法国毒贩团伙招募儿童杀人内幕",
-      "summary": "BBC深入马赛危险的地下世界，揭露年轻人如何被囚禁、虐待和剥削。",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss"
+      "title": "特朗普称FBI调查英伟达CEO与疑似中国间谍的绯闻",
+      "summary": "美国总统表示他周一与黄仁勋通话，并就其与疑似间谍的绯闻进行了询问。",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "377db197cc71cb88208544fac41ad0e787debebd42083f28db761ebd0c558fd2",
+      "id": "e3bb22e21c43acc6e268456b5449a78f6fd70e1a21825b8315f8c33e64da0e1e",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "天文观测的隐忧",
-      "summary": "宇宙已成为物理学重大问题的实验室，但我们也因此忽视了它本身的混沌与壮丽。",
-      "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions"
+      "title": "upside-down世界之旅",
+      "summary": "走进立体主义名作的全新视角：随处可见的山羊、三小时倒立、神奇门把手，Aeon Video带你以全新方式欣赏立体主义杰作。",
+      "url": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world"
     },
     {
-      "id": "9a86a5f90a8ad36294ba81b755c96260f609c3b206b14fbde2b242ef1d85060d",
+      "id": "c76e5728f3374e30e57c7a18b083984348f72796cb2d87968f2386c6a56eb7f7",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "NBA球员沉迷体育博彩反成赌注",
-      "summary": "猛龙队球员琼泰·波特深陷FanDuel博彩平台，欠下不良人士债务，最终铤而走险赌自己表现，走上不归路。",
-      "url": "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting"
+      "title": "每日漫画：11月9日星期一",
+      "summary": "一幅以最新新闻和时事为灵感的漫画。",
+      "url": "https://www.newyorker.com/cartoons/daily-cartoon/november-9th-cybertruck-headstone"
     },
     {
-      "id": "4824c98720e7e767d6033de6fb4d3e9be191f44113d54758ac5c9af7ee8ec41d",
+      "id": "a0dbf5e97194380291567d535c0823ff6c3725d4534938fed72c9abb51181bff",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "人形机器人打扫房屋，三星布局AI热潮",
-      "summary": "本期通讯关注人形机器人清洁服务实测体验，以及三星针对AI热潮的产能建设动态。记者亲历人形机器人打扫公寓，感叹宛如未来生活预演；同时三星正加大布局以满足AI时代需求。",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+      "title": "数据中心反对潮或源于电力问题",
+      "summary": "美国数据中心密集区出现反对声音，表面针对数据中心，核心或在于电力供应与成本压力。",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
     },
     {
-      "id": "e120b878a12761b045e28a520ff14dd0d24b739e3443ceb2e23a0c3778ecc076",
+      "id": "775ac0a390011ca0c2cf43ed508290b66abb057440dff0b74476f017be94d307",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "黄仁勋CEO职位岌岌可危？耶鲁教授称“五五开”",
-      "summary": "英伟达董事会正调查黄仁勋与一名疑似中国间谍的关系，耶鲁大学杰弗里·索南菲尔德认为黄仁勋留任CEO的概率大约为五五开。",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+      "title": "Otter AI新增27种语言支持",
+      "summary": "Otter AI新增27种语言支持，并预告即将推出可在说话者切换语言时自动跟进的新功能。",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
     }
   ]
 }
