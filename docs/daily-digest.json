@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-10T07:19:53Z",
-  "reportDate": "2026-11-10",
+  "generatedAt": "2026-11-11T06:23:34Z",
+  "reportDate": "2026-11-11",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "c2c76eae3f83b7a00796c559eae05a0b3daa315de8243c2cf7022a82368e3a73",
+      "id": "2577a60bdd113f305c71efb6fdf3cc74d791f0b44409e56c8fd89afdaad3dcc9",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "自然危害性贡献风险评估框架",
-      "summary": "该文提出评估与管理自然对人类有害贡献的新概念框架，借鉴气候风险概念，探讨生物多样性研究中具争议性的自然危害议题。",
-      "url": "https://www.nature.com/articles/s41559-026-03225-9"
+      "title": "生物多样性信用自动化的潜在风险",
+      "summary": "《自然-生态与演化》在线发表，探讨智能AI、卫星监测与可编程支付或利好自然金融，但过度自动化可能带来新风险，技术快速发展将引发保护领域AI安全的艰难辩论。",
+      "url": "https://www.nature.com/articles/s41559-026-03238-4"
     },
     {
-      "id": "ee8e94e77f159e111bd6d77b8f1089ac466f02e0ececd0d76bc13d832cf4fed3",
+      "id": "b80bc910dd4c05cf4d6cffd023892c49a40a7fcec14f709d7ca0bc6cf3c2c70a",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "都灵裹尸布DNA揭示数百年隐藏秘密",
-      "summary": "科学家通过DNA分析发现都灵裹尸布上存在复杂的生物痕迹混合物，这些线索或有助于揭示这块布料的历史及其所处环境，为这一延续数百年的谜团提供了新的科学视角。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
+      "title": "科学家发现3400万年前巨型啮齿动物化石",
+      "summary": "科学家在泰国发现一种约3400万年前巨型啮齿动物的化石，命名为Yakamys sirindhornae，体重可能达66磅，约为同期已知啮齿动物的两倍，表明巨型啮齿动物演化时间比此前认为的更早。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
     },
     {
-      "id": "4a9293f6fb1874436e243f468783a9bdabba61d90f68d5e20fe55e54f7e54217",
+      "id": "bf0354919e892807020aa393c5977f4f8418658a7d5958f016a3c49cd36c5edb",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "特朗普称FBI调查英伟达CEO与疑似中国间谍的绯闻",
-      "summary": "美国总统表示他周一与黄仁勋通话，并就其与疑似间谍的绯闻进行了询问。",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+      "title": "美方称三名伊朗支持嫌疑人策划袭击包括RAF费尔福德事件",
+      "summary": "美国司法部表示，这三名男子参与了一系列阴谋，包括在英国美军使用的空军基地附近发生的一起重大事件。",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "e3bb22e21c43acc6e268456b5449a78f6fd70e1a21825b8315f8c33e64da0e1e",
+      "id": "718ac157b35e436152ab321949b27751e1ac7f3a85cb5cd5a00542dd3e08d5b0",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "upside-down世界之旅",
-      "summary": "走进立体主义名作的全新视角：随处可见的山羊、三小时倒立、神奇门把手，Aeon Video带你以全新方式欣赏立体主义杰作。",
-      "url": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world"
+      "title": "罗希·琼·哈利法克斯：全心生活",
+      "summary": "本文介绍佛教导师罗希·琼·哈利法克斯的生平与教诲，探讨她如何回望自己的一生，展现其真诚、慷慨、坚韧而深刻的修行之路。",
+      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life"
     },
     {
-      "id": "c76e5728f3374e30e57c7a18b083984348f72796cb2d87968f2386c6a56eb7f7",
+      "id": "4f647bdefce9ae2506e62d6ad579c477343b4927fcef22e2666b604f6da2c631",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "每日漫画：11月9日星期一",
-      "summary": "一幅以最新新闻和时事为灵感的漫画。",
-      "url": "https://www.newyorker.com/cartoons/daily-cartoon/november-9th-cybertruck-headstone"
+      "title": "黄仁勋绯闻是否构成AI热潮危机",
+      "summary": "英伟达CEO黄仁勋涉所谓中国间谍案，其与特朗普政府对此知情程度尚不明朗，事件对AI热潮影响待观察。",
+      "url": "https://www.newyorker.com/news/the-lede/is-jensen-huangs-affair-a-crisis-for-the-ai-boom"
     },
     {
-      "id": "a0dbf5e97194380291567d535c0823ff6c3725d4534938fed72c9abb51181bff",
+      "id": "4c3c56a1a61aaf31d560fbc13dc4ea8a2ecc0fbaf7d50dfd4af3fc73d7f8eac7",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "数据中心反对潮或源于电力问题",
-      "summary": "美国数据中心密集区出现反对声音，表面针对数据中心，核心或在于电力供应与成本压力。",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+      "title": "Wiener接替佩洛西瞄准AI监管",
+      "summary": "加州州参议员Scott Wiener曾起草遏制先进AI风险的立法，如今在赢得佩洛西席位后准备推动AI监管，同时数据中心面临电力困境。",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
     },
     {
-      "id": "775ac0a390011ca0c2cf43ed508290b66abb057440dff0b74476f017be94d307",
+      "id": "27f896233dc6248d0d0ea266b5cbe3afa6fa40307fc5fb06378bf5d1246fb7a8",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "Otter AI新增27种语言支持",
-      "summary": "Otter AI新增27种语言支持，并预告即将推出可在说话者切换语言时自动跟进的新功能。",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+      "title": "X推出视频剪辑功能以提升网红互动",
+      "summary": "X平台推出剪辑功能，可将长视频剪成短小可分享的片段以促进传播，旨在提升网红互动与参与度。",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
     }
   ]
 }
