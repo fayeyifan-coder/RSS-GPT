@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-11T06:23:34Z",
-  "reportDate": "2026-11-11",
+  "generatedAt": "2026-11-12T07:12:53Z",
+  "reportDate": "2026-11-12",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "生物多样性信用自动化的潜在风险",
-      "summary": "《自然-生态与演化》在线发表，探讨智能AI、卫星监测与可编程支付或利好自然金融，但过度自动化可能带来新风险，技术快速发展将引发保护领域AI安全的艰难辩论。",
+      "summary": "《自然-生态与演化》在线发表，探讨智能AI、卫星监测与可编程支付虽有益于自然金融，但过度自动化可能带来新风险，技术快速发展将引发保护领域AI安全的艰难辩论。",
       "url": "https://www.nature.com/articles/s41559-026-03238-4"
     },
     {
-      "id": "b80bc910dd4c05cf4d6cffd023892c49a40a7fcec14f709d7ca0bc6cf3c2c70a",
+      "id": "121f55b5cff7d850ee2ffb30681f7ee587bdfb52577269a38c1e0837df78a294",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "科学家发现3400万年前巨型啮齿动物化石",
-      "summary": "科学家在泰国发现一种约3400万年前巨型啮齿动物的化石，命名为Yakamys sirindhornae，体重可能达66磅，约为同期已知啮齿动物的两倍，表明巨型啮齿动物演化时间比此前认为的更早。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+      "title": "南非洞穴惊现全女性墓葬",
+      "summary": "南非一洞穴发现约24万年前的全女性墓葬，至少20具遗骸中未检出男性特异性蛋白标记，或解开了困扰研究者十余年的谜团。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
     },
     {
-      "id": "bf0354919e892807020aa393c5977f4f8418658a7d5958f016a3c49cd36c5edb",
+      "id": "5df5b13482c35b6591d4ad6eafb6bb6c4cfae870742b86a564e28a48580e6e8f",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "美方称三名伊朗支持嫌疑人策划袭击包括RAF费尔福德事件",
-      "summary": "美国司法部表示，这三名男子参与了一系列阴谋，包括在英国美军使用的空军基地附近发生的一起重大事件。",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+      "title": "乌克兰电力供应濒临危机，俄军打击致黑暗严寒",
+      "summary": "乌克兰部分地区每天仅数小时供电，民众家庭生活备受煎熬，电力供应接近临界状态。",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "718ac157b35e436152ab321949b27751e1ac7f3a85cb5cd5a00542dd3e08d5b0",
+      "id": "8ce992916d25f82c6a5d19c8177021ae0e62b0c7f084375eb12b923cb49398bd",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "罗希·琼·哈利法克斯：全心生活",
-      "summary": "本文介绍佛教导师罗希·琼·哈利法克斯的生平与教诲，探讨她如何回望自己的一生，展现其真诚、慷慨、坚韧而深刻的修行之路。",
-      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life"
+      "title": "埃迪卡拉化石解码",
+      "summary": "研究揭示5亿年前动物如何开始移动，并发现已知最早的“左右不对称”现象。",
+      "url": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life"
     },
     {
-      "id": "4f647bdefce9ae2506e62d6ad579c477343b4927fcef22e2666b604f6da2c631",
+      "id": "bb127954f899afb69c6d1edba9f2a9430289113648fb1f0528f340a6fee48d2d",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "黄仁勋绯闻是否构成AI热潮危机",
-      "summary": "英伟达CEO黄仁勋涉所谓中国间谍案，其与特朗普政府对此知情程度尚不明朗，事件对AI热潮影响待观察。",
-      "url": "https://www.newyorker.com/news/the-lede/is-jensen-huangs-affair-a-crisis-for-the-ai-boom"
+      "title": "AI失民心",
+      "summary": "选民否决数据中心建设，新一届国会是否会监管人工智能？",
+      "url": "https://www.newyorker.com/podcast/political-scene/ai-loses-the-popular-vote"
     },
     {
-      "id": "4c3c56a1a61aaf31d560fbc13dc4ea8a2ecc0fbaf7d50dfd4af3fc73d7f8eac7",
+      "id": "163fb1bfb894fd4e77d6add6acde58c5e895c60be21bad6fdea9481ecac06668",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "Wiener接替佩洛西瞄准AI监管",
-      "summary": "加州州参议员Scott Wiener曾起草遏制先进AI风险的立法，如今在赢得佩洛西席位后准备推动AI监管，同时数据中心面临电力困境。",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+      "title": "联合国气候大会在土耳其开幕",
+      "summary": "第31届联合国气候变化大会在土耳其安塔利亚开幕，土耳其与澳大利亚联合主办，数千名代表、游说者和记者参会，就全球气候议题展开谈判。",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
     },
     {
-      "id": "27f896233dc6248d0d0ea266b5cbe3afa6fa40307fc5fb06378bf5d1246fb7a8",
+      "id": "a552875406bb3160c61364bce8d481550c85395465eb574b1961480abc1fe77c",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "X推出视频剪辑功能以提升网红互动",
-      "summary": "X平台推出剪辑功能，可将长视频剪成短小可分享的片段以促进传播，旨在提升网红互动与参与度。",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
+      "title": "黄仁勋继任者猜想",
+      "summary": "英伟达无继任计划且CEO陷入困境，本文非科学地列出潜在接班人短名单。",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
     }
   ]
 }
