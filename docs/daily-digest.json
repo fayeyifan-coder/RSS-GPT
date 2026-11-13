@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-12T07:12:53Z",
-  "reportDate": "2026-11-12",
+  "generatedAt": "2026-11-13T06:47:56Z",
+  "reportDate": "2026-11-13",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,48 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "生物多样性信用自动化的潜在风险",
-      "summary": "《自然-生态与演化》在线发表，探讨智能AI、卫星监测与可编程支付虽有益于自然金融，但过度自动化可能带来新风险，技术快速发展将引发保护领域AI安全的艰难辩论。",
+      "summary": "《自然-生态与演化》在线发表，探讨智能AI、卫星监测与可编程支付虽可助力自然金融，但过度自动化可能带来新风险，保护领域的AI安全争议将随之而来。",
       "url": "https://www.nature.com/articles/s41559-026-03238-4"
     },
     {
-      "id": "121f55b5cff7d850ee2ffb30681f7ee587bdfb52577269a38c1e0837df78a294",
+      "id": "f9f8fad9c380f8fe7d33587b457ee2c4990b7383a13ea34796c374d01ddee0e4",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "南非洞穴惊现全女性墓葬",
-      "summary": "南非一洞穴发现约24万年前的全女性墓葬，至少20具遗骸中未检出男性特异性蛋白标记，或解开了困扰研究者十余年的谜团。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+      "title": "新化石藏宝图揭示史前生命可能埋藏地",
+      "summary": "科学家分析5.4亿年海洋化石后发现，寻找未知物种的最大机会竟在较近地质时期而非远古。研究者绘制全球未勘探化石富集区地图，为未来发掘提供重要指引。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
     },
     {
-      "id": "5df5b13482c35b6591d4ad6eafb6bb6c4cfae870742b86a564e28a48580e6e8f",
+      "id": "607d4d7557c40807b113b56e8b70270c8071df379712739abc31add4f41cae3e",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "乌克兰电力供应濒临危机，俄军打击致黑暗严寒",
-      "summary": "乌克兰部分地区每天仅数小时供电，民众家庭生活备受煎熬，电力供应接近临界状态。",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+      "title": "黄仁勋被传唤就涉华间谍绯闻作证",
+      "summary": "黄仁勋因被曝婚外情于周四突然辞去全球市值最高公司之一的CEO职务，现被传唤赴国会就与中国间谍嫌疑人的绯闻作证。",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "8ce992916d25f82c6a5d19c8177021ae0e62b0c7f084375eb12b923cb49398bd",
-      "category": "人文社会",
-      "source": "Aeon Essays",
-      "title": "埃迪卡拉化石解码",
-      "summary": "研究揭示5亿年前动物如何开始移动，并发现已知最早的“左右不对称”现象。",
-      "url": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life"
-    },
-    {
-      "id": "bb127954f899afb69c6d1edba9f2a9430289113648fb1f0528f340a6fee48d2d",
+      "id": "e930bbb5947650f5052115500a7a4d5c651da23731b92e2d3d54e6072b0a4334",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "AI失民心",
-      "summary": "选民否决数据中心建设，新一届国会是否会监管人工智能？",
-      "url": "https://www.newyorker.com/podcast/political-scene/ai-loses-the-popular-vote"
+      "title": "特朗普社交媒体“解雇”副总统？",
+      "summary": "特朗普周四撤换万斯伊朗谈判代表职务，此前副总统将共和党中期选举失利归咎于战争。",
+      "url": "https://www.newyorker.com/news/letter-from-trumps-washington/can-you-fire-the-vice-president-via-truth-social"
     },
     {
-      "id": "163fb1bfb894fd4e77d6add6acde58c5e895c60be21bad6fdea9481ecac06668",
+      "id": "eeb3027690b25fcf558b3727285eb5c1fac8f74773d2405594c602f77971f45d",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "联合国气候大会在土耳其开幕",
-      "summary": "第31届联合国气候变化大会在土耳其安塔利亚开幕，土耳其与澳大利亚联合主办，数千名代表、游说者和记者参会，就全球气候议题展开谈判。",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+      "title": "英伟达私下确认可追踪芯片打击走私",
+      "summary": "英伟达向议员表示技术上可实施《芯片安全法案》要求的反走私措施，尽管行业组织公开质疑其可行性。",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
     },
     {
-      "id": "a552875406bb3160c61364bce8d481550c85395465eb574b1961480abc1fe77c",
+      "id": "32df4f7d6cd40e27c8a7412b5d8c63336359ed4f4bf5cfe0cf105cca0c76fe7a",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "黄仁勋继任者猜想",
-      "summary": "英伟达无继任计划且CEO陷入困境，本文非科学地列出潜在接班人短名单。",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+      "title": "民主党调查英伟达与特朗普往来",
+      "summary": "美民主党对英伟达在华销售及其与特朗普的交易展开国会调查，这是自所谓间谍事件曝光以来的第二次调查。",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
     }
   ]
 }
