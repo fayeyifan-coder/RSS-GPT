@@ -1,57 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-13T06:47:56Z",
-  "reportDate": "2026-11-13",
+  "generatedAt": "2026-11-14T06:25:07Z",
+  "reportDate": "2026-11-14",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "2577a60bdd113f305c71efb6fdf3cc74d791f0b44409e56c8fd89afdaad3dcc9",
+      "id": "217b8ae08debe16202827423429452007dbcda7068856ab0a4f2202b6a4265bc",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "生物多样性信用自动化的潜在风险",
-      "summary": "《自然-生态与演化》在线发表，探讨智能AI、卫星监测与可编程支付虽可助力自然金融，但过度自动化可能带来新风险，保护领域的AI安全争议将随之而来。",
-      "url": "https://www.nature.com/articles/s41559-026-03238-4"
+      "title": "黑鳍冰鱼研究之旅",
+      "summary": "研究者在南极洲考察三个月后，投身于白血液冰鱼的研究，相关成果发表于《自然·生态与演化》。",
+      "url": "https://www.nature.com/articles/s41559-026-03246-4"
     },
     {
-      "id": "f9f8fad9c380f8fe7d33587b457ee2c4990b7383a13ea34796c374d01ddee0e4",
+      "id": "9c6ec2e3d51598ade666e1f8807810a394b6b13cb998447dfe4e229bcc86c0d8",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "新化石藏宝图揭示史前生命可能埋藏地",
-      "summary": "科学家分析5.4亿年海洋化石后发现，寻找未知物种的最大机会竟在较近地质时期而非远古。研究者绘制全球未勘探化石富集区地图，为未来发掘提供重要指引。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
+      "title": "古埃及首批国王陵墓惊人真相",
+      "summary": "研究发现，46具5000年前头骨中18具有致命伤，占比39%，或系被蓄意杀害，支持百年前“国王死后侍从殉葬”的推测。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
     },
     {
-      "id": "607d4d7557c40807b113b56e8b70270c8071df379712739abc31add4f41cae3e",
+      "id": "530533c1157d7fd4c17984f9cb3785f28e29c18db32fab5e7629a7070266c0e1",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "黄仁勋被传唤就涉华间谍绯闻作证",
-      "summary": "黄仁勋因被曝婚外情于周四突然辞去全球市值最高公司之一的CEO职务，现被传唤赴国会就与中国间谍嫌疑人的绯闻作证。",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+      "title": "美国航班大面积停飞原因",
+      "summary": "美国官员称，此次航班中断是由于老旧设备超负荷运转所致，并非网络攻击或微软系统故障。",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "e930bbb5947650f5052115500a7a4d5c651da23731b92e2d3d54e6072b0a4334",
+      "id": "88399ddf881eb480d1c4fb0b89325bd59eba364afbcc3453deb633a1e376c193",
+      "category": "人文社会",
+      "source": "Aeon Essays",
+      "title": "逃逸的想象力",
+      "summary": "无论人们被禁锢、流离失所、噤声还是被视作可弃之物，逃逸性的知识与想象力便会涌现——作者Shahram Khosravi，选自Aeon。",
+      "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world"
+    },
+    {
+      "id": "fdcb6967e4859bc81f7fce2b5185f4cf95d28fc00ba4d736c397764bca2ee21c",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "特朗普社交媒体“解雇”副总统？",
-      "summary": "特朗普周四撤换万斯伊朗谈判代表职务，此前副总统将共和党中期选举失利归咎于战争。",
-      "url": "https://www.newyorker.com/news/letter-from-trumps-washington/can-you-fire-the-vice-president-via-truth-social"
+      "title": "共和党强化意识形态路线",
+      "summary": "中期选举失利后，共和党右翼强硬派被推至华盛顿政治核心。斯蒂芬·米勒与吉姆·乔丹等人的崛起，预示着共和党将进一步强化意识形态立场，而非走向温和或调整路线。",
+      "url": "https://www.newyorker.com/podcast/political-scene/with-stephen-miller-and-jim-jordan-the-gop-doubles-down-on-ideology"
     },
     {
-      "id": "eeb3027690b25fcf558b3727285eb5c1fac8f74773d2405594c602f77971f45d",
+      "id": "136644a5b7dab6b2906e1e239b7d4937e796a72dea32b675e60c2ddec7cf64ec",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "英伟达私下确认可追踪芯片打击走私",
-      "summary": "英伟达向议员表示技术上可实施《芯片安全法案》要求的反走私措施，尽管行业组织公开质疑其可行性。",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+      "title": "硅谷中期选举预测失准与英伟达芯片追踪计划",
+      "summary": "本期简报聚焦硅谷对中期选举预测失误的原因，以及英伟达推出的芯片追踪方案。科技传播顾问Aaron Zamost撰文批评硅谷自诩预见未来却屡屡误判政治走向，同时英伟达正推进芯片位置追踪技术以管控产品流向。",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
     },
     {
-      "id": "32df4f7d6cd40e27c8a7412b5d8c63336359ed4f4bf5cfe0cf105cca0c76fe7a",
+      "id": "41bbca50b49f80388d7fa240c6efef8542438f7c0485e458205daafba6a273c6",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "民主党调查英伟达与特朗普往来",
-      "summary": "美民主党对英伟达在华销售及其与特朗普的交易展开国会调查，这是自所谓间谍事件曝光以来的第二次调查。",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+      "title": "亚马逊新款Kindle Colorsoft：高端电子阅读器，高端定价",
+      "summary": "新款比前代更轻更薄，采用全面屏设计；但若已拥有第一代Colorsoft，升级理由不多。",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
     }
   ]
 }
