@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-14T06:25:07Z",
-  "reportDate": "2026-11-14",
+  "generatedAt": "2026-11-15T06:33:48Z",
+  "reportDate": "2026-11-15",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "黑鳍冰鱼研究之旅",
-      "summary": "研究者在南极洲考察三个月后，投身于白血液冰鱼的研究，相关成果发表于《自然·生态与演化》。",
+      "summary": "研究者在南极三个月期间研究白血液冰鱼，相关成果发表于《自然-生态与演化》。",
       "url": "https://www.nature.com/articles/s41559-026-03246-4"
     },
     {
-      "id": "9c6ec2e3d51598ade666e1f8807810a394b6b13cb998447dfe4e229bcc86c0d8",
+      "id": "06c161ac8d6feb2ddefa4a0422cf752672faa8962a048208d7600070134fd1cd",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "古埃及首批国王陵墓惊人真相",
-      "summary": "研究发现，46具5000年前头骨中18具有致命伤，占比39%，或系被蓄意杀害，支持百年前“国王死后侍从殉葬”的推测。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
+      "title": "恐龙一亿年前或已食用海藻",
+      "summary": "研究发现，化石牙齿中的化学痕迹表明，一亿多年前的沿海恐龙及其他史前动物部分依赖海洋来源的营养，海洋资源通过古老食物链进入陆地生态系统，补充了从植食恐龙到捕食者的饮食。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
     },
     {
-      "id": "530533c1157d7fd4c17984f9cb3785f28e29c18db32fab5e7629a7070266c0e1",
+      "id": "4d3f357daa8cc28fb3231d7315fbf31a645ce90e8988fd411b0ad01085927dbe",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "美国航班大面积停飞原因",
-      "summary": "美国官员称，此次航班中断是由于老旧设备超负荷运转所致，并非网络攻击或微软系统故障。",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+      "title": "美方曾提议乌克兰割让顿巴斯以换取入约 泽连斯基称",
+      "summary": "泽连斯基表示，美国曾提出乌克兰以割让顿巴斯地区换取北约成员国资格的方案。一名美国官员对此未予证实，仅向BBC表示“许多想法仍在讨论中”。",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "88399ddf881eb480d1c4fb0b89325bd59eba364afbcc3453deb633a1e376c193",
       "category": "人文社会",
       "source": "Aeon Essays",
       "title": "逃逸的想象力",
-      "summary": "无论人们被禁锢、流离失所、噤声还是被视作可弃之物，逃逸性的知识与想象力便会涌现——作者Shahram Khosravi，选自Aeon。",
+      "summary": "无论人们被囚禁、流离失所、噤声还是被弃置，逃逸性的知识与想象形式便会涌现——作者Shahram Khosravi，选自Aeon。",
       "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world"
     },
     {
-      "id": "fdcb6967e4859bc81f7fce2b5185f4cf95d28fc00ba4d736c397764bca2ee21c",
+      "id": "c68126d26a9262a6ecfb6c5e296bbd78d9e9b39924bf6e98bd3c1c5e7aaf6ef2",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "共和党强化意识形态路线",
-      "summary": "中期选举失利后，共和党右翼强硬派被推至华盛顿政治核心。斯蒂芬·米勒与吉姆·乔丹等人的崛起，预示着共和党将进一步强化意识形态立场，而非走向温和或调整路线。",
-      "url": "https://www.newyorker.com/podcast/political-scene/with-stephen-miller-and-jim-jordan-the-gop-doubles-down-on-ideology"
+      "title": "特朗普噩梦般的椭圆形办公室",
+      "summary": "在切尔西一家画廊，艺术家组合Elmgreen & Dragset带人参观他们的最新装置——一间用锈蚀耐候钢复制的荒芜西翼办公室，看不到任何金色装饰。",
+      "url": "https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office"
     },
     {
       "id": "136644a5b7dab6b2906e1e239b7d4937e796a72dea32b675e60c2ddec7cf64ec",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
       "title": "硅谷中期选举预测失准与英伟达芯片追踪计划",
-      "summary": "本期简报聚焦硅谷对中期选举预测失误的原因，以及英伟达推出的芯片追踪方案。科技传播顾问Aaron Zamost撰文批评硅谷自诩预见未来却屡屡误判政治走向，同时英伟达正推进芯片位置追踪技术以管控产品流向。",
+      "summary": "硅谷自称洞悉未来，却严重误判中期选举；科技传播顾问Aaron Zamost剖析其盲点。同时英伟达推出芯片追踪方案，加强GPU流向监控。",
       "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
     },
     {
-      "id": "41bbca50b49f80388d7fa240c6efef8542438f7c0485e458205daafba6a273c6",
+      "id": "a8381ccf0f4a6c2675938f915fa2290eeb53bc18d150ac04b33b2724071b93c7",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "亚马逊新款Kindle Colorsoft：高端电子阅读器，高端定价",
-      "summary": "新款比前代更轻更薄，采用全面屏设计；但若已拥有第一代Colorsoft，升级理由不多。",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+      "title": "英伟达安全团队何在？",
+      "summary": "英伟达安全主管8月悄然离职，CEO黄仁勋因人际关系（包括与一家涉嫌向中国输送芯片的公司高管的关系）辞职，前情报官员称此类泄密藏于日常对话，多数企业安全团队难以察觉。",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
     }
   ]
 }
