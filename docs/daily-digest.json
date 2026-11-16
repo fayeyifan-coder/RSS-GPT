@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-15T06:33:48Z",
-  "reportDate": "2026-11-15",
+  "generatedAt": "2026-11-16T06:31:56Z",
+  "reportDate": "2026-11-16",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "黑鳍冰鱼研究之旅",
-      "summary": "研究者在南极三个月期间研究白血液冰鱼，相关成果发表于《自然-生态与演化》。",
+      "summary": "研究者在南极三个月期间研究白血液冰鱼，相关成果发表于《自然生态与进化》。",
       "url": "https://www.nature.com/articles/s41559-026-03246-4"
     },
     {
-      "id": "06c161ac8d6feb2ddefa4a0422cf752672faa8962a048208d7600070134fd1cd",
+      "id": "ff3443a7516b36ead204f5ea83af5e29a4d336f527afadc839964a472762348d",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "恐龙一亿年前或已食用海藻",
-      "summary": "研究发现，化石牙齿中的化学痕迹表明，一亿多年前的沿海恐龙及其他史前动物部分依赖海洋来源的营养，海洋资源通过古老食物链进入陆地生态系统，补充了从植食恐龙到捕食者的饮食。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+      "title": "NASA警告今年超级厄尔尼诺或超1997年",
+      "summary": "NASA科学家警告，2026年迅速增强的厄尔尼诺可能超过1997-98年历史性事件，当年曾引发全球极端天气。卫星数据显示两者高度相似，今年冬季可能出现强降雨和洪水，但具体影响仍不确定。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm"
     },
     {
-      "id": "4d3f357daa8cc28fb3231d7315fbf31a645ce90e8988fd411b0ad01085927dbe",
+      "id": "7c7b29f5e4c81914defe9800b6c48820ff909903722609d992a6c0695a098924",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "美方曾提议乌克兰割让顿巴斯以换取入约 泽连斯基称",
-      "summary": "泽连斯基表示，美国曾提出乌克兰以割让顿巴斯地区换取北约成员国资格的方案。一名美国官员对此未予证实，仅向BBC表示“许多想法仍在讨论中”。",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+      "title": "泽连斯基促美方与马斯克解除星链限制",
+      "summary": "泽连斯基称网速受限阻碍乌军阻止俄军攻击，呼吁美方和马斯克站在历史正确一边。",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "88399ddf881eb480d1c4fb0b89325bd59eba364afbcc3453deb633a1e376c193",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "逃逸的想象力",
-      "summary": "无论人们被囚禁、流离失所、噤声还是被弃置，逃逸性的知识与想象形式便会涌现——作者Shahram Khosravi，选自Aeon。",
+      "title": "流亡的想象力",
+      "summary": "无论人们被囚禁、流离失所、噤声还是被弃置，逃亡性的知识与想象形式便会涌现——作者Shahram Khosravi，选自Aeon。",
       "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world"
     },
     {
-      "id": "c68126d26a9262a6ecfb6c5e296bbd78d9e9b39924bf6e98bd3c1c5e7aaf6ef2",
+      "id": "243d4eedfeec6b4b5804e0facf526d92c6d76873160b0f5d889971743ec41fa7",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "特朗普噩梦般的椭圆形办公室",
-      "summary": "在切尔西一家画廊，艺术家组合Elmgreen & Dragset带人参观他们的最新装置——一间用锈蚀耐候钢复制的荒芜西翼办公室，看不到任何金色装饰。",
-      "url": "https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office"
+      "title": "密西西比奇迹：斯科特·科隆赢得参议院席位",
+      "summary": "民主党中期选举最令人震惊的翻盘之一，斯科特·科隆在密西西比州赢得参议院席位。",
+      "url": "https://www.newyorker.com/news/us-journal/scott-coloms-mississippi-miracle"
     },
     {
       "id": "136644a5b7dab6b2906e1e239b7d4937e796a72dea32b675e60c2ddec7cf64ec",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
       "title": "硅谷中期选举预测失准与英伟达芯片追踪计划",
-      "summary": "硅谷自称洞悉未来，却严重误判中期选举；科技传播顾问Aaron Zamost剖析其盲点。同时英伟达推出芯片追踪方案，加强GPU流向监控。",
+      "summary": "本期简报聚焦硅谷对中期选举预测失误的原因，以及英伟达推出的芯片追踪方案。科技传播顾问Aaron Zamost撰文质疑硅谷自称洞悉未来却误判选举走势，同时简报还涵盖英伟达芯片追踪计划等科技动态。",
       "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
     },
     {
-      "id": "a8381ccf0f4a6c2675938f915fa2290eeb53bc18d150ac04b33b2724071b93c7",
+      "id": "a22318abd9f9f9471832e6b6ca298680f7dc25737fba73537f4a565c4b4861a0",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "英伟达安全团队何在？",
-      "summary": "英伟达安全主管8月悄然离职，CEO黄仁勋因人际关系（包括与一家涉嫌向中国输送芯片的公司高管的关系）辞职，前情报官员称此类泄密藏于日常对话，多数企业安全团队难以察觉。",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+      "title": "苹果推出新应用研究人们如何用AI促进健康",
+      "summary": "苹果推出新应用开展研究，旨在了解人们如何利用AI解答日常医疗问题。",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
     }
   ]
 }
