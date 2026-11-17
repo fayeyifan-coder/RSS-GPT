@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-16T06:31:56Z",
-  "reportDate": "2026-11-16",
+  "generatedAt": "2026-11-17T07:56:14Z",
+  "reportDate": "2026-11-17",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "黑鳍冰鱼研究之旅",
-      "summary": "研究者在南极三个月期间研究白血液冰鱼，相关成果发表于《自然生态与进化》。",
+      "summary": "研究者在南极考察三个月后，投身于白血液冰鱼的研究，相关成果发表于《自然·生态与演化》。",
       "url": "https://www.nature.com/articles/s41559-026-03246-4"
     },
     {
-      "id": "ff3443a7516b36ead204f5ea83af5e29a4d336f527afadc839964a472762348d",
+      "id": "9c7d90843edc63e3dd3988694e3158affb333e35d3b93150fe088dac49803d1d",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "NASA警告今年超级厄尔尼诺或超1997年",
-      "summary": "NASA科学家警告，2026年迅速增强的厄尔尼诺可能超过1997-98年历史性事件，当年曾引发全球极端天气。卫星数据显示两者高度相似，今年冬季可能出现强降雨和洪水，但具体影响仍不确定。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm"
+      "title": "远古病毒或解释人类大脑差异",
+      "summary": "科学家发现，数百万年前感染黑猩猩的病毒可能塑造了人类与近亲大脑发育的关键差异。隆德大学团队发现，嵌入黑猩猩基因组的古老病毒DNA会关闭LINC00662基因，而该基因在人类中保持活跃，对早期大脑发育至关重要。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm"
     },
     {
-      "id": "7c7b29f5e4c81914defe9800b6c48820ff909903722609d992a6c0695a098924",
+      "id": "09543f7a2b137148c5439043cfccebc85d3b10296a4ed0b5ee05b1e260ea5070",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "泽连斯基促美方与马斯克解除星链限制",
-      "summary": "泽连斯基称网速受限阻碍乌军阻止俄军攻击，呼吁美方和马斯克站在历史正确一边。",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+      "title": "克里米亚大桥遭袭关闭，俄打击基辅通道",
+      "summary": "据报道，连接克里米亚与俄罗斯的大桥严重受损，基辅两条通道关闭。",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "88399ddf881eb480d1c4fb0b89325bd59eba364afbcc3453deb633a1e376c193",
+      "id": "1011d7ab1e194991355814012924a757cca7a47765d63b5ce6438c5d70e43ef7",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "流亡的想象力",
-      "summary": "无论人们被囚禁、流离失所、噤声还是被弃置，逃亡性的知识与想象形式便会涌现——作者Shahram Khosravi，选自Aeon。",
-      "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world"
+      "title": "美国最后的三K党礼堂",
+      "summary": "建筑师、历史学家和居民探讨如何保存沃斯堡这座最后的三K党礼堂之一，面对其历史遗产的保护与反思。",
+      "url": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters"
     },
     {
-      "id": "243d4eedfeec6b4b5804e0facf526d92c6d76873160b0f5d889971743ec41fa7",
+      "id": "5f991bc66cd7256b264831fd84d3017f7603dbc64ef54ed64db710afd5d5818d",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "密西西比奇迹：斯科特·科隆赢得参议院席位",
-      "summary": "民主党中期选举最令人震惊的翻盘之一，斯科特·科隆在密西西比州赢得参议院席位。",
-      "url": "https://www.newyorker.com/news/us-journal/scott-coloms-mississippi-miracle"
+      "title": "每日漫画：11月16日星期一",
+      "summary": "一幅借最新新闻时事进行讽刺创作的漫画。",
+      "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-november-16th-there-is-a-chance"
     },
     {
-      "id": "136644a5b7dab6b2906e1e239b7d4937e796a72dea32b675e60c2ddec7cf64ec",
+      "id": "4b894a843f326fdad9a922c0e884fa19449039cd725abf575b255bb5427d7ff1",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "硅谷中期选举预测失准与英伟达芯片追踪计划",
-      "summary": "本期简报聚焦硅谷对中期选举预测失误的原因，以及英伟达推出的芯片追踪方案。科技传播顾问Aaron Zamost撰文质疑硅谷自称洞悉未来却误判选举走势，同时简报还涵盖英伟达芯片追踪计划等科技动态。",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+      "title": "黄仁勋回归英伟达CEO请愿引关注",
+      "summary": "开源运动发起请愿要求黄仁勋重返英伟达CEO岗位，截至周一已获马斯克及多位英伟达重要人士签名支持。",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
     },
     {
-      "id": "a22318abd9f9f9471832e6b6ca298680f7dc25737fba73537f4a565c4b4861a0",
+      "id": "24baf68da2c147d6568a9bc4a616fe00cfa24b01c3511495de807992173a863e",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "苹果推出新应用研究人们如何用AI促进健康",
-      "summary": "苹果推出新应用开展研究，旨在了解人们如何利用AI解答日常医疗问题。",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      "title": "Corma三个月内估值达10亿美元",
+      "summary": "AI网络安全初创公司Corma推出产品仅三个月，即完成1.25亿美元A轮融资，估值达10亿美元，由NEA领投。",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
     }
   ]
 }
