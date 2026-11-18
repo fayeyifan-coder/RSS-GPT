@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-17T07:56:14Z",
-  "reportDate": "2026-11-17",
+  "generatedAt": "2026-11-18T07:30:11Z",
+  "reportDate": "2026-11-18",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "黑鳍冰鱼研究之旅",
-      "summary": "研究者在南极考察三个月后，投身于白血液冰鱼的研究，相关成果发表于《自然·生态与演化》。",
+      "summary": "研究者在南极三个月期间开展白血冰鱼研究，相关成果发表于《自然·生态与演化》。",
       "url": "https://www.nature.com/articles/s41559-026-03246-4"
     },
     {
-      "id": "9c7d90843edc63e3dd3988694e3158affb333e35d3b93150fe088dac49803d1d",
+      "id": "8be1e2a5e2577f6593f36a9578f7e759978fceef19f1872fe906b4923bda99eb",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "远古病毒或解释人类大脑差异",
-      "summary": "科学家发现，数百万年前感染黑猩猩的病毒可能塑造了人类与近亲大脑发育的关键差异。隆德大学团队发现，嵌入黑猩猩基因组的古老病毒DNA会关闭LINC00662基因，而该基因在人类中保持活跃，对早期大脑发育至关重要。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm"
+      "title": "新型碳捕获材料突破高湿度限制",
+      "summary": "科学家开发出一种新型碳捕获材料，可将湿气从障碍转化为优势，有望解决工业排放脱碳中的一大难题。该材料即使在极高湿度条件下也能正常工作，且可反复使用，为更廉价、更高效的碳捕获提供了新路径。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm"
     },
     {
       "id": "09543f7a2b137148c5439043cfccebc85d3b10296a4ed0b5ee05b1e260ea5070",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "克里米亚大桥遭袭关闭，俄打击基辅通道",
-      "summary": "据报道，连接克里米亚与俄罗斯的大桥严重受损，基辅两条通道关闭。",
+      "title": "普京大桥部分坍塌，泽连斯基称乌克兰袭击“前所未有”",
+      "summary": "乌克兰表示对俄罗斯吞并的克里米亚战略大桥发动导弹和无人机袭击，此次行动历时数周策划。",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "1011d7ab1e194991355814012924a757cca7a47765d63b5ce6438c5d70e43ef7",
+      "id": "8786e386233edada5fb36dc70d869281dd5292762fff0f299006a213e2551dd5",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "美国最后的三K党礼堂",
-      "summary": "建筑师、历史学家和居民探讨如何保存沃斯堡这座最后的三K党礼堂之一，面对其历史遗产的保护与反思。",
-      "url": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters"
+      "title": "德黑兰女性以着装选择改变社会",
+      "summary": "德黑兰女性正以大规模自主着装选择改变社会，人数之多已无法压制。帕丽莎·霍什纳米称之为“在场艺术”。",
+      "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran"
     },
     {
-      "id": "5f991bc66cd7256b264831fd84d3017f7603dbc64ef54ed64db710afd5d5818d",
+      "id": "77a678a91ef092fa938d7b518b5b6b78cbc711422b84a80528ea0fb5dc26b1f9",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "每日漫画：11月16日星期一",
-      "summary": "一幅借最新新闻时事进行讽刺创作的漫画。",
-      "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-november-16th-there-is-a-chance"
+      "title": "彼得·博格丹诺维奇自述成长历程",
+      "summary": "已故导演彼得·博格丹诺维奇遗作日记出版，记录了他从作家转型为导演的关键时期。",
+      "url": "https://www.newyorker.com/culture/the-front-row/the-making-of-peter-bogdanovich-in-his-own-words"
     },
     {
-      "id": "4b894a843f326fdad9a922c0e884fa19449039cd725abf575b255bb5427d7ff1",
+      "id": "665d8227159904d75c3893256129e3e48c6c12a215700949e24c0889eac71220",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "黄仁勋回归英伟达CEO请愿引关注",
-      "summary": "开源运动发起请愿要求黄仁勋重返英伟达CEO岗位，截至周一已获马斯克及多位英伟达重要人士签名支持。",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+      "title": "圆桌讨论：探索认知永生的追求",
+      "summary": "专家探讨通过渐进式大脑替换等方式实现意识延续，探索超越死亡的认知永生可能路径。",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
     },
     {
-      "id": "24baf68da2c147d6568a9bc4a616fe00cfa24b01c3511495de807992173a863e",
+      "id": "b330164a6f0ccccf334136f67174b40831e080d51e54e47249c7b1f17a1488a0",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "Corma三个月内估值达10亿美元",
-      "summary": "AI网络安全初创公司Corma推出产品仅三个月，即完成1.25亿美元A轮融资，估值达10亿美元，由NEA领投。",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+      "title": "英伟达初创投资飙至650亿美元，黄仁勋退出令未来交易存疑",
+      "summary": "英伟达私募投资价值九个月内近三倍增至650亿美元，得益于黄仁勋积极交易及投资组合公司估值上涨，但其退出令未来交易前景存疑。",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
     }
   ]
 }
