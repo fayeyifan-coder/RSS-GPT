@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-18T07:30:11Z",
-  "reportDate": "2026-11-18",
+  "generatedAt": "2026-11-19T07:27:49Z",
+  "reportDate": "2026-11-19",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "217b8ae08debe16202827423429452007dbcda7068856ab0a4f2202b6a4265bc",
+      "id": "ecbff5fc24e05ff218ce7ee8f601f4cf5c430c502b857aa196754e07fd31b5a1",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "黑鳍冰鱼研究之旅",
-      "summary": "研究者在南极三个月期间开展白血冰鱼研究，相关成果发表于《自然·生态与演化》。",
-      "url": "https://www.nature.com/articles/s41559-026-03246-4"
+      "title": "作者更正：植物-昆虫协同进化中GABA受体神经毒素的趋同抗性",
+      "summary": "《自然-生态与进化》发布作者更正，涉及植物与昆虫协同进化过程中对GABA受体神经毒素趋同抗性的研究。",
+      "url": "https://www.nature.com/articles/s41559-026-03261-5"
     },
     {
-      "id": "8be1e2a5e2577f6593f36a9578f7e759978fceef19f1872fe906b4923bda99eb",
+      "id": "759ed1011947942b7df18561296a653d5fce1ee163ed548eb1d003315d15c37a",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "新型碳捕获材料突破高湿度限制",
-      "summary": "科学家开发出一种新型碳捕获材料，可将湿气从障碍转化为优势，有望解决工业排放脱碳中的一大难题。该材料即使在极高湿度条件下也能正常工作，且可反复使用，为更廉价、更高效的碳捕获提供了新路径。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm"
+      "title": "透明头深海鱼高清影像",
+      "summary": "深海研究人员在水下约600米处拍到罕见桶眼鱼的清晰影像，其透明头骨保护着可旋转的眼睛，先向上搜寻猎物再转向前方追踪。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
     },
     {
-      "id": "09543f7a2b137148c5439043cfccebc85d3b10296a4ed0b5ee05b1e260ea5070",
+      "id": "b294a552230e3405b555f1f5cb8047e65a057759e1f49c1c6f032f4b6087276f",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "普京大桥部分坍塌，泽连斯基称乌克兰袭击“前所未有”",
-      "summary": "乌克兰表示对俄罗斯吞并的克里米亚战略大桥发动导弹和无人机袭击，此次行动历时数周策划。",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+      "title": "中美元首会晤：习近平的外交时刻与潜在风险",
+      "summary": "习近平与普京、特朗普会晤虽具外交意义，但存在挑战，习近平似乎不愿与二人讨论某些议题。",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "8786e386233edada5fb36dc70d869281dd5292762fff0f299006a213e2551dd5",
+      "id": "38369e72e077e3f52da47e2852d75999ff694091eb47da215bd1fae4fbf5436c",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "德黑兰女性以着装选择改变社会",
-      "summary": "德黑兰女性正以大规模自主着装选择改变社会，人数之多已无法压制。帕丽莎·霍什纳米称之为“在场艺术”。",
-      "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran"
+      "title": "鸟类梦想",
+      "summary": "一位物理学家致力于通过Aeon Video平台复活已消失的鸟类鸣唱，因为当鸟类种群减少时，某些歌声可能永远消失。",
+      "url": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs"
     },
     {
-      "id": "77a678a91ef092fa938d7b518b5b6b78cbc711422b84a80528ea0fb5dc26b1f9",
+      "id": "f28d8f21e0425939602fcc5dec8427d9b094844e1cf0fd6e16630e105199bbb0",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "彼得·博格丹诺维奇自述成长历程",
-      "summary": "已故导演彼得·博格丹诺维奇遗作日记出版，记录了他从作家转型为导演的关键时期。",
-      "url": "https://www.newyorker.com/culture/the-front-row/the-making-of-peter-bogdanovich-in-his-own-words"
+      "title": "HBO纪录片《当证人翻供》上线",
+      "summary": "该片灵感源自詹妮弗·戈纳曼为《纽约客》撰写的报道，讲述了一起警察和检察官严重不当行为的案件。",
+      "url": "https://www.newyorker.com/news/press-room/the-hbo-documentary-when-a-witness-recants-is-now-streaming"
     },
     {
-      "id": "665d8227159904d75c3893256129e3e48c6c12a215700949e24c0889eac71220",
+      "id": "76a160b2736ec6d054a32164c2d6026036082cb93da0f7ea5dd29095e43cc3c3",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "圆桌讨论：探索认知永生的追求",
-      "summary": "专家探讨通过渐进式大脑替换等方式实现意识延续，探索超越死亡的认知永生可能路径。",
-      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+      "title": "AI热潮指数：AI无处不在",
+      "summary": "AI如皮疹般蔓延各处：谷歌强推AI概览致广告收入损失数十亿，人形机器人已进入家庭清洁，超市等场景也随处可见AI渗透。",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
     },
     {
-      "id": "b330164a6f0ccccf334136f67174b40831e080d51e54e47249c7b1f17a1488a0",
+      "id": "108d95f376814446edb6b6745095e16c95ecfdbc6068fccd8f6a66fb24dc5190",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "英伟达初创投资飙至650亿美元，黄仁勋退出令未来交易存疑",
-      "summary": "英伟达私募投资价值九个月内近三倍增至650亿美元，得益于黄仁勋积极交易及投资组合公司估值上涨，但其退出令未来交易前景存疑。",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+      "title": "微软CEO为何让6万员工自愿离职",
+      "summary": "纳德拉解释称，此举并非又一轮大规模裁员，而是以买断方式鼓励自愿离职，核心原因与AI有关，但并非外界预期的那种替代逻辑。",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
     }
   ]
 }
