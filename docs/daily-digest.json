@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-19T07:27:49Z",
-  "reportDate": "2026-11-19",
+  "generatedAt": "2026-11-20T07:18:00Z",
+  "reportDate": "2026-11-20",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "作者更正：植物-昆虫协同进化中GABA受体神经毒素的趋同抗性",
-      "summary": "《自然-生态与进化》发布作者更正，涉及植物与昆虫协同进化过程中对GABA受体神经毒素趋同抗性的研究。",
+      "summary": "《自然-生态与进化》发布作者更正，涉及植物与昆虫协同进化过程中对GABA受体神经毒素产生趋同抗性的研究。",
       "url": "https://www.nature.com/articles/s41559-026-03261-5"
     },
     {
-      "id": "759ed1011947942b7df18561296a653d5fce1ee163ed548eb1d003315d15c37a",
+      "id": "a493da23fc400a7f647512ea5c77a1baff0ac0b03eb6a4c62b20901189269f02",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "透明头深海鱼高清影像",
-      "summary": "深海研究人员在水下约600米处拍到罕见桶眼鱼的清晰影像，其透明头骨保护着可旋转的眼睛，先向上搜寻猎物再转向前方追踪。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+      "title": "植物性食品全含真菌毒素",
+      "summary": "研究检测英国212种纯素和素食产品，包括肉类替代品、燕麦奶、杏仁奶和豆奶，发现每一种都含有至少一种潜在有害的真菌毒素。这些名为霉菌毒素的天然化合物可在种植和储存过程中污染谷物、豆类和种子。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
     },
     {
-      "id": "b294a552230e3405b555f1f5cb8047e65a057759e1f49c1c6f032f4b6087276f",
+      "id": "5d830a8018231fbe64a05de9eb56fc20588dcd5ec34a1d3e67f2b7f046d5979f",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "中美元首会晤：习近平的外交时刻与潜在风险",
-      "summary": "习近平与普京、特朗普会晤虽具外交意义，但存在挑战，习近平似乎不愿与二人讨论某些议题。",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+      "title": "英欧将达成青年流动计划",
+      "summary": "英国与欧盟预计将在周五峰会上批准青年流动计划，同时讨论食品贸易和碳排放等新协议。",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "38369e72e077e3f52da47e2852d75999ff694091eb47da215bd1fae4fbf5436c",
+      "id": "eff640a2167e74170f7fbc219149dd4a43d55ad7f0cf0b17ce099cc62b0f090d",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "鸟类梦想",
-      "summary": "一位物理学家致力于通过Aeon Video平台复活已消失的鸟类鸣唱，因为当鸟类种群减少时，某些歌声可能永远消失。",
-      "url": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs"
+      "title": "奇珍异宝屋",
+      "summary": "鹦鹉螺壳、自动机械与独角兽角——这些包罗万象的收藏见证了近代早期欧洲不断扩展的世界。",
+      "url": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums"
     },
     {
-      "id": "f28d8f21e0425939602fcc5dec8427d9b094844e1cf0fd6e16630e105199bbb0",
+      "id": "eac45721bb49dc9f6a1ec7cb9863c9c1a11836803baa1d451cdc4f246bb0cdcb",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "HBO纪录片《当证人翻供》上线",
-      "summary": "该片灵感源自詹妮弗·戈纳曼为《纽约客》撰写的报道，讲述了一起警察和检察官严重不当行为的案件。",
-      "url": "https://www.newyorker.com/news/press-room/the-hbo-documentary-when-a-witness-recants-is-now-streaming"
+      "title": "Anthropic上市引抗议与欢呼",
+      "summary": "Anthropic正式上市，纳斯达克总部外抗议者与支持者齐聚，Dario Amodei敲响开市钟。",
+      "url": "https://www.newyorker.com/magazine/2026/11/30/amid-heckles-and-hurrahs-anthropic-rings-in-a-new-era"
     },
     {
-      "id": "76a160b2736ec6d054a32164c2d6026036082cb93da0f7ea5dd29095e43cc3c3",
+      "id": "cab673f80ff9839867c734fae2c2bbb87fb153279d0bce4729ee732109e83c85",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "AI热潮指数：AI无处不在",
-      "summary": "AI如皮疹般蔓延各处：谷歌强推AI概览致广告收入损失数十亿，人形机器人已进入家庭清洁，超市等场景也随处可见AI渗透。",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+      "title": "活体肝脏体外存活创纪录",
+      "summary": "澳研究人员称，他们成功在体外生命支持下将人类肝脏存活七周，创下纪录。同时，一项价值十亿美元的电池交易和AI炒作也成为今日科技焦点。",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
     },
     {
-      "id": "108d95f376814446edb6b6745095e16c95ecfdbc6068fccd8f6a66fb24dc5190",
+      "id": "8288c457eabd2464774e38576c72d62d04ad1399f95d59d32b27b77c36ea8034",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "微软CEO为何让6万员工自愿离职",
-      "summary": "纳德拉解释称，此举并非又一轮大规模裁员，而是以买断方式鼓励自愿离职，核心原因与AI有关，但并非外界预期的那种替代逻辑。",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      "title": "苹果或正研发自主AI代理操控Mac",
+      "summary": "苹果疑似在开发可与Meta Muse、Instinct、Claude及OpenAI Dots等竞争的AI代理，或用于操控Mac。",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
     }
   ]
 }
