@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-20T07:18:00Z",
-  "reportDate": "2026-11-20",
+  "generatedAt": "2026-11-21T07:10:23Z",
+  "reportDate": "2026-11-21",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "ecbff5fc24e05ff218ce7ee8f601f4cf5c430c502b857aa196754e07fd31b5a1",
+      "id": "4020543d43ac8bb1eeb6ffa42235e9f6df5033d61ec8931fb0f9246c9a6f4b62",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "作者更正：植物-昆虫协同进化中GABA受体神经毒素的趋同抗性",
-      "summary": "《自然-生态与进化》发布作者更正，涉及植物与昆虫协同进化过程中对GABA受体神经毒素产生趋同抗性的研究。",
-      "url": "https://www.nature.com/articles/s41559-026-03261-5"
+      "title": "Meta分析显示免疫接种可降低两栖动物对壶菌真菌的易感性",
+      "summary": "一项涵盖22种两栖动物的Meta分析显示，使用活体蛙壶菌（Bd）病原体进行实验性免疫接种有效，且免疫效果因接种方式、宿主生命阶段和分类学差异而不同。",
+      "url": "https://www.nature.com/articles/s41559-026-03221-z"
     },
     {
       "id": "a493da23fc400a7f647512ea5c77a1baff0ac0b03eb6a4c62b20901189269f02",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "植物性食品全含真菌毒素",
-      "summary": "研究检测英国212种纯素和素食产品，包括肉类替代品、燕麦奶、杏仁奶和豆奶，发现每一种都含有至少一种潜在有害的真菌毒素。这些名为霉菌毒素的天然化合物可在种植和储存过程中污染谷物、豆类和种子。",
+      "title": "植物性食品普遍检出真菌毒素",
+      "summary": "研究发现英国212种植物基食品饮料均含至少一种真菌毒素，包括肉类替代品、燕麦奶、杏仁奶和豆奶。这些名为霉菌毒素的天然化合物会在种植和储存过程中污染谷物、豆类和种子。",
       "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
     },
     {
-      "id": "5d830a8018231fbe64a05de9eb56fc20588dcd5ec34a1d3e67f2b7f046d5979f",
+      "id": "53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "英欧将达成青年流动计划",
-      "summary": "英国与欧盟预计将在周五峰会上批准青年流动计划，同时讨论食品贸易和碳排放等新协议。",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+      "title": "科技股遭抛售拖累市场下跌，Anthropic股价下滑",
+      "summary": "美股承压，标普500指数和道琼斯工业平均指数均跌入回调区间。",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "eff640a2167e74170f7fbc219149dd4a43d55ad7f0cf0b17ce099cc62b0f090d",
+      "id": "5b25620195bbca898765bd3c18bbf8861b64024b5586c16d09af7d17f361062d",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "奇珍异宝屋",
-      "summary": "鹦鹉螺壳、自动机械与独角兽角——这些包罗万象的收藏见证了近代早期欧洲不断扩展的世界。",
-      "url": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums"
+      "title": "爱尔兰家族的海豹祖先传说",
+      "summary": "许多爱尔兰家庭相信自己是海豹精的后裔，这些传说揭示了人类与自然亲缘关系中的暴力与悲伤。",
+      "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
     },
     {
-      "id": "eac45721bb49dc9f6a1ec7cb9863c9c1a11836803baa1d451cdc4f246bb0cdcb",
+      "id": "a34c828ab8366e8471303b236d549a5653756acb61bcc3d3a4eeadddc94ef14d",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "Anthropic上市引抗议与欢呼",
-      "summary": "Anthropic正式上市，纳斯达克总部外抗议者与支持者齐聚，Dario Amodei敲响开市钟。",
-      "url": "https://www.newyorker.com/magazine/2026/11/30/amid-heckles-and-hurrahs-anthropic-rings-in-a-new-era"
+      "title": "民主党在南方的胜利之道",
+      "summary": "佐治亚州参议员沃诺克将民主党在南方各地的压倒性胜利称为“红海分渡”。",
+      "url": "https://www.newyorker.com/podcast/political-scene/senator-raphael-warnock-on-how-democrats-won-across-the-south"
     },
     {
-      "id": "cab673f80ff9839867c734fae2c2bbb87fb153279d0bce4729ee732109e83c85",
+      "id": "001e6b6e613bbaaf52f6be9e7b3eacac27c91c02d812cd2a8752ca7086850cef",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "活体肝脏体外存活创纪录",
-      "summary": "澳研究人员称，他们成功在体外生命支持下将人类肝脏存活七周，创下纪录。同时，一项价值十亿美元的电池交易和AI炒作也成为今日科技焦点。",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
+      "title": "AI评估新图揭示能力边界",
+      "summary": "METR更新AI能力评估图，发现部分能力仍呈指数级提升，但模型在需判断力的任务上表现不及编程。该图此前被广泛误解，新报告澄清了AI能力发展的真实轨迹与局限。",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     },
     {
-      "id": "8288c457eabd2464774e38576c72d62d04ad1399f95d59d32b27b77c36ea8034",
+      "id": "728117660118c50c2b189fd6dffaa40b33e5732d6c87b72265d856ea5cee4dfb",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "苹果或正研发自主AI代理操控Mac",
-      "summary": "苹果疑似在开发可与Meta Muse、Instinct、Claude及OpenAI Dots等竞争的AI代理，或用于操控Mac。",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+      "title": "初创公司在印度起诉苹果触碰共享联系人功能",
+      "summary": "美国一家初创公司在印度起诉苹果，指控其iPhone和Apple Watch的触碰共享联系人功能侵犯其专利，索赔1.62亿美元，并寻求禁令以限制相关产品进口至印度。",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
     }
   ]
 }
