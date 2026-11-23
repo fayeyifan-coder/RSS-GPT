@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-22T06:50:06Z",
-  "reportDate": "2026-11-22",
+  "generatedAt": "2026-11-23T07:40:53Z",
+  "reportDate": "2026-11-23",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
       "id": "4020543d43ac8bb1eeb6ffa42235e9f6df5033d61ec8931fb0f9246c9a6f4b62",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "免疫可降低两栖动物对壶菌真菌的易感性",
-      "summary": "一项涵盖22种两栖动物的荟萃分析显示，使用活体蛙壶菌（Bd）病原体的实验性免疫具有有效性，并发现不同免疫方式、宿主生命阶段及分类学背景对感染动态的影响存在差异。",
+      "title": "两栖动物免疫可降低壶菌易感性",
+      "summary": "一项涵盖22种两栖动物的荟萃分析显示，使用活体蛙壶菌（Bd）病原体进行实验性免疫具有有效性，且免疫效果因免疫方式、宿主生命阶段及分类学差异而不同。",
       "url": "https://www.nature.com/articles/s41559-026-03221-z"
     },
     {
-      "id": "fe133581e69a354cc828faa675b467658697c3d3b2d7886ed466d746bfd0519f",
+      "id": "19d1c77d2e19f466adf32814cfeb502c39d2b6932eec811cbcb54a947a1eea5e",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "古罗马石棺墓主身份或将揭晓",
-      "summary": "威斯敏斯特教堂一具罗马石棺中的神秘遗骸在150多年后或终获确认。新测年证据表明，遗骸属于一位中世纪高级修道院长，被安葬于一具沿用数百年的古罗马石棺中。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm"
+      "title": "百岁象龟长寿基因揭秘",
+      "summary": "科学家研究194岁巨龟乔纳森，发现287个独特基因变异，涉及DNA修复、炎症控制、胰岛素调节和抑癌机制，或揭示其超长寿命的秘密。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
     },
     {
-      "id": "384d88b27801a300144f8be16d41fcd104db4e700d2f0b21225069c8bedee92e",
+      "id": "e4dc3fa8f4ea0ce67434f82c4bccd5c668d93c62806d9904d3aa911a6eab554c",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "联合国气候峰会延长谈判寻突破",
-      "summary": "COP31气候峰会进入第二天加时谈判，各国仍在努力弥合分歧以达成协议，新草案旨在避免谈判破裂。",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+      "title": "联合国气候谈判最长会期无果而终",
+      "summary": "联合国气候谈判史上最长会期结束，未能达成协议，各方分歧深刻暴露。共同主办COP31的澳大利亚总理将失败归因于“艰难的地缘政治时期”。",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "5b25620195bbca898765bd3c18bbf8861b64024b5586c16d09af7d17f361062d",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "祖母是海豹精灵",
-      "summary": "爱尔兰许多家庭相信自己是海豹精灵的后裔，这些故事揭示了人类与自然亲缘关系中的暴力与悲伤。",
+      "title": "爱尔兰祖母是海豹精灵",
+      "summary": "许多爱尔兰家庭相信自己是海豹精灵的后裔，这些传说揭示了人类与自然亲缘关系中的暴力与悲伤。",
       "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
     },
     {
-      "id": "02c3f7c4e9412e302bed2e58b48d18d69e1c33ba7355a0e290e63598757c7e59",
+      "id": "81f37ee8eb228400794123c42468fd42cfd698b401081af9ec3a5c285cc993f8",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "特朗普打压国际学生政策见效",
-      "summary": "尽管法院已阻止部分最严苛限制，国际学生入学人数及海外学生兴趣仍下降，伊利诺伊大学等高校陷入困境。",
-      "url": "https://www.newyorker.com/news/the-lede/donald-trumps-crackdown-on-international-students-is-working"
+      "title": "民主党是否应弹劾皮特·赫格塞斯？",
+      "summary": "新多数党将不断面临两难：是追究特朗普官员的责任，还是专注于为选民交出政绩。",
+      "url": "https://www.newyorker.com/magazine/2026/11/30/the-uses-of-impeachment"
     },
     {
       "id": "001e6b6e613bbaaf52f6be9e7b3eacac27c91c02d812cd2a8752ca7086850cef",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
       "title": "AI最被误解的图表迎来重大更新",
-      "summary": "METR新报告显示部分AI能力仍呈指数级提升，但模型在需要判断力的任务上表现不如编程。该报告更新了该机构广受关注的“时间跨度”图表。",
+      "summary": "METR最新报告更新其广泛传播的“时间跨度图”，发现部分AI能力仍沿指数轨迹持续提升，但模型在需要判断力的任务上表现不如编程出色。",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     },
     {
-      "id": "7289e21f33e265e97a89457e8874498959fdf3c193ec812177245344db63d11e",
+      "id": "04e5e033b7998e4feb3c5278d1c3f5cdb4135dd575ade7a858b8ef4e29b36942",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "Signal限制移动端截图功能",
-      "summary": "Signal在安卓和iOS应用中限制用户截图功能，以应对AI监控带来的“生存威胁”。",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      "title": "Notable Capital、GIC与Baillie Gifford在Anthropic IPO前大举押注",
+      "summary": "三家重要投资方分享了对Anthropic投入数十亿美元的信心来源。",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
     }
   ]
 }
