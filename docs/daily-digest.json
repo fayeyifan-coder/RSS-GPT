@@ -1,65 +1,57 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-23T07:40:53Z",
-  "reportDate": "2026-11-23",
+  "generatedAt": "2026-11-24T09:55:34Z",
+  "reportDate": "2026-11-24",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "4020543d43ac8bb1eeb6ffa42235e9f6df5033d61ec8931fb0f9246c9a6f4b62",
+      "id": "09135de15be1500cd914fb9397ee830d4ea818259beb411c1a389748a424318a",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "两栖动物免疫可降低壶菌易感性",
-      "summary": "一项涵盖22种两栖动物的荟萃分析显示，使用活体蛙壶菌（Bd）病原体进行实验性免疫具有有效性，且免疫效果因免疫方式、宿主生命阶段及分类学差异而不同。",
-      "url": "https://www.nature.com/articles/s41559-026-03221-z"
+      "title": "新型放射虫物种被发现",
+      "summary": "研究者意外发现放射虫新种Spongolivella ellipsoides，相关成果发表于《自然-生态与演化》。",
+      "url": "https://www.nature.com/articles/s41559-026-03243-7"
     },
     {
-      "id": "19d1c77d2e19f466adf32814cfeb502c39d2b6932eec811cbcb54a947a1eea5e",
+      "id": "4ad86a1fd7c6a3f3eb6510c403cfc458838d431ed85ceb000ecce02b9d56ac8d",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "百岁象龟长寿基因揭秘",
-      "summary": "科学家研究194岁巨龟乔纳森，发现287个独特基因变异，涉及DNA修复、炎症控制、胰岛素调节和抑癌机制，或揭示其超长寿命的秘密。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
+      "title": "以科尔伯特命名的小蜘蛛基因组比人类大50%",
+      "summary": "一种以斯蒂芬·科尔伯特命名的加州小型活板门蜘蛛，体型仅约25美分硬币大小，但其基因组却比人类大约50%。科学家发现其庞大基因组含46亿个DNA碱基对和52条染色体，为蜘蛛演化提供了惊人线索。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
     },
     {
-      "id": "e4dc3fa8f4ea0ce67434f82c4bccd5c668d93c62806d9904d3aa911a6eab554c",
+      "id": "25d043b118adad46fcdfb8127df291055126b8f20d6b6399eb48b20b843d88f5",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "联合国气候谈判最长会期无果而终",
-      "summary": "联合国气候谈判史上最长会期结束，未能达成协议，各方分歧深刻暴露。共同主办COP31的澳大利亚总理将失败归因于“艰难的地缘政治时期”。",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+      "title": "特朗普称“说服”英伟达恢复黄仁勋CEO职务引发争议",
+      "summary": "英伟达曾受特朗普施压重新任命黄仁勋，黄的回归助公司市值增加1万亿美元。",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "5b25620195bbca898765bd3c18bbf8861b64024b5586c16d09af7d17f361062d",
-      "category": "人文社会",
-      "source": "Aeon Essays",
-      "title": "爱尔兰祖母是海豹精灵",
-      "summary": "许多爱尔兰家庭相信自己是海豹精灵的后裔，这些传说揭示了人类与自然亲缘关系中的暴力与悲伤。",
-      "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"
-    },
-    {
-      "id": "81f37ee8eb228400794123c42468fd42cfd698b401081af9ec3a5c285cc993f8",
+      "id": "31229014e1afeb851dff0435314017753bfaa3cc47d7f4a08338625c8cb53bd5",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "民主党是否应弹劾皮特·赫格塞斯？",
-      "summary": "新多数党将不断面临两难：是追究特朗普官员的责任，还是专注于为选民交出政绩。",
-      "url": "https://www.newyorker.com/magazine/2026/11/30/the-uses-of-impeachment"
+      "title": "德利洛写冰球情色小说",
+      "summary": "小说《亚马逊》以女冰球手“私密回忆录”形式，讲述女性在冰场与床笫间赢得性别之战。",
+      "url": "https://www.newyorker.com/books/second-read/when-don-delillo-wrote-hockey-erotica"
     },
     {
-      "id": "001e6b6e613bbaaf52f6be9e7b3eacac27c91c02d812cd2a8752ca7086850cef",
+      "id": "7c1b7fa479f1c733775525e1e7541cf08f3d91a50b19a5c5f1ad97d1d59ac9ff",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "AI最被误解的图表迎来重大更新",
-      "summary": "METR最新报告更新其广泛传播的“时间跨度图”，发现部分AI能力仍沿指数轨迹持续提升，但模型在需要判断力的任务上表现不如编程出色。",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+      "title": "Anthropic上市前将AI意识列为风险因素，哲学家不买账",
+      "summary": "Anthropic在上市前将AI可能具有意识或感知能力列为投资风险因素，引发争议。一位传奇哲学家对此提出质疑，认为该公司的意识论证缺乏说服力。",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
     },
     {
-      "id": "04e5e033b7998e4feb3c5278d1c3f5cdb4135dd575ade7a858b8ef4e29b36942",
+      "id": "3e3d5a4bd74c60af3fe961388597b47d641f7695da27097853522a4ac4228a9c",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "Notable Capital、GIC与Baillie Gifford在Anthropic IPO前大举押注",
-      "summary": "三家重要投资方分享了对Anthropic投入数十亿美元的信心来源。",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+      "title": "Figma员工起诉公司强迫其面对骚扰者",
+      "summary": "Figma及CEO被一名在职员工起诉，指控性骚扰和歧视，并称公司强迫她直面骚扰者。",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
     }
   ]
 }
