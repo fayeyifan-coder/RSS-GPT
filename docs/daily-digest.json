@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-24T09:55:34Z",
-  "reportDate": "2026-11-24",
+  "generatedAt": "2026-11-25T08:36:43Z",
+  "reportDate": "2026-11-25",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -14,44 +14,52 @@
       "url": "https://www.nature.com/articles/s41559-026-03243-7"
     },
     {
-      "id": "4ad86a1fd7c6a3f3eb6510c403cfc458838d431ed85ceb000ecce02b9d56ac8d",
+      "id": "9ab5a26a6b8ba7fbb6bfbb01da205062e23cad72120485b659eccecae7b639d8",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "以科尔伯特命名的小蜘蛛基因组比人类大50%",
-      "summary": "一种以斯蒂芬·科尔伯特命名的加州小型活板门蜘蛛，体型仅约25美分硬币大小，但其基因组却比人类大约50%。科学家发现其庞大基因组含46亿个DNA碱基对和52条染色体，为蜘蛛演化提供了惊人线索。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
+      "title": "古罗马沉船揭示防水新技术",
+      "summary": "一艘2200年前的古罗马沉船揭示了使用松焦油和蜂蜡的精密防水技术，涂层中封存的微小花粉粒正帮助科学家重建这艘船两千多年前的航行轨迹与维修地点。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
     },
     {
-      "id": "25d043b118adad46fcdfb8127df291055126b8f20d6b6399eb48b20b843d88f5",
+      "id": "4980e212d8f2fd4177de2298c1aa695a2fb3ae7728fa6b5f4654a9bbc21d844b",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "特朗普称“说服”英伟达恢复黄仁勋CEO职务引发争议",
-      "summary": "英伟达曾受特朗普施压重新任命黄仁勋，黄的回归助公司市值增加1万亿美元。",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+      "title": "俄泄露数据显示俄乌战争致近50万人死亡",
+      "summary": "泄露数据表明，俄罗斯全面入侵乌克兰已根本改变该国死亡模式，俄方自身统计显示战争死亡人数近50万。",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "31229014e1afeb851dff0435314017753bfaa3cc47d7f4a08338625c8cb53bd5",
+      "id": "ba618d150ca93ce8044962a3c883d3896c2e92addb0f19bd51a2afdaeb85a1c4",
+      "category": "人文社会",
+      "source": "Aeon Essays",
+      "title": "精神疾病是否具有普遍性",
+      "summary": "不同文化是否经历相同的精神障碍？还是说精神痛苦因文化而异？本文探讨精神疾病的跨文化普遍性与文化特殊性之争。",
+      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific"
+    },
+    {
+      "id": "c88f4c190531893b4e382a09de9760ea3e361417a5042336e711dfaf9bb418ab",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "德利洛写冰球情色小说",
-      "summary": "小说《亚马逊》以女冰球手“私密回忆录”形式，讲述女性在冰场与床笫间赢得性别之战。",
-      "url": "https://www.newyorker.com/books/second-read/when-don-delillo-wrote-hockey-erotica"
+      "title": "芯片之王万岁",
+      "summary": "特朗普与黄仁勋惺惺相惜，将这位英伟达CEO短暂被逐一事与暗杀未遂相提并论，给予其入驻标志性“巴特勒照片”的最高礼遇。",
+      "url": "https://www.newyorker.com/news/the-lede/long-live-the-chip-king"
     },
     {
-      "id": "7c1b7fa479f1c733775525e1e7541cf08f3d91a50b19a5c5f1ad97d1d59ac9ff",
+      "id": "97c06055604e20bd41dde79602bb79dc3e258b8570e72283dff2b72941ce3f03",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "Anthropic上市前将AI意识列为风险因素，哲学家不买账",
-      "summary": "Anthropic在上市前将AI可能具有意识或感知能力列为投资风险因素，引发争议。一位传奇哲学家对此提出质疑，认为该公司的意识论证缺乏说服力。",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+      "title": "AI天然气发电热潮与意识现实检验",
+      "summary": "数据中心接入电网审批漫长，科技巨头转向自建天然气发电厂为AI供电，同时科学家对机器意识提出理性检验。",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
     },
     {
-      "id": "3e3d5a4bd74c60af3fe961388597b47d641f7695da27097853522a4ac4228a9c",
+      "id": "11304642d4ef0ee9b5604991ff44d8c01746500ac72abb0a02d8666ca75f555e",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "Figma员工起诉公司强迫其面对骚扰者",
-      "summary": "Figma及CEO被一名在职员工起诉，指控性骚扰和歧视，并称公司强迫她直面骚扰者。",
-      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+      "title": "黄仁勋重返英伟达董事会引争议",
+      "summary": "耶鲁大学索南菲尔德警告，黄仁勋在白宫支持下重返英伟达担任CEO兼董事，可能是一个巨大错误，使董事面临“历史性”个人责任风险，并质疑美国是否在庆祝一家帮助将先进芯片送入对手之手的公司。",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
     }
   ]
 }
