@@ -1,65 +1,65 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-25T08:36:43Z",
-  "reportDate": "2026-11-25",
+  "generatedAt": "2026-11-26T08:19:46Z",
+  "reportDate": "2026-11-26",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
       "id": "09135de15be1500cd914fb9397ee830d4ea818259beb411c1a389748a424318a",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "新型放射虫物种被发现",
+      "title": "新型放射虫化石发现",
       "summary": "研究者意外发现放射虫新种Spongolivella ellipsoides，相关成果发表于《自然-生态与演化》。",
       "url": "https://www.nature.com/articles/s41559-026-03243-7"
     },
     {
-      "id": "9ab5a26a6b8ba7fbb6bfbb01da205062e23cad72120485b659eccecae7b639d8",
+      "id": "5c3dccd510440a80694d44e63583d0800527a90b479e3813137de939401019a5",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "古罗马沉船揭示防水新技术",
-      "summary": "一艘2200年前的古罗马沉船揭示了使用松焦油和蜂蜡的精密防水技术，涂层中封存的微小花粉粒正帮助科学家重建这艘船两千多年前的航行轨迹与维修地点。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+      "title": "红海深处发现神秘湖泊",
+      "summary": "科学家在红海海底一英里多处发现罕见的“卤水池”，这些极端高盐、无氧的环境竟富含微生物，挑战了生命生存极限的认知，或有助于揭示地球古海洋的秘密及外星生命存在的可能性。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
     },
     {
-      "id": "4980e212d8f2fd4177de2298c1aa695a2fb3ae7728fa6b5f4654a9bbc21d844b",
+      "id": "be54e905a796b4cee0cd01426abfd367a24a103d3316a9af411ae0aa6acd28d0",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "俄泄露数据显示俄乌战争致近50万人死亡",
-      "summary": "泄露数据表明，俄罗斯全面入侵乌克兰已根本改变该国死亡模式，俄方自身统计显示战争死亡人数近50万。",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+      "title": "美国宣布对包括中国在内的多国加征新关税",
+      "summary": "美国宣布对多个国家加征新关税，涉及中国和欧盟等主要贸易伙伴。",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "ba618d150ca93ce8044962a3c883d3896c2e92addb0f19bd51a2afdaeb85a1c4",
+      "id": "79a742bf6060f6d76ba18fe14f1ff9b612f6a5fb9acc2de7371395fb4f02952c",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "精神疾病是否具有普遍性",
-      "summary": "不同文化是否经历相同的精神障碍？还是说精神痛苦因文化而异？本文探讨精神疾病的跨文化普遍性与文化特殊性之争。",
-      "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific"
+      "title": "安乐死中的温情告别",
+      "summary": "兽医以同情与关怀，帮助辛迪温柔地与她年迈的爱犬菲奥娜做最后的告别。",
+      "url": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog"
     },
     {
-      "id": "c88f4c190531893b4e382a09de9760ea3e361417a5042336e711dfaf9bb418ab",
+      "id": "bc881e079a98291f9e8ccb5dcb8f605bd6f5622e25a792cadb55a446e9319125",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "芯片之王万岁",
-      "summary": "特朗普与黄仁勋惺惺相惜，将这位英伟达CEO短暂被逐一事与暗杀未遂相提并论，给予其入驻标志性“巴特勒照片”的最高礼遇。",
-      "url": "https://www.newyorker.com/news/the-lede/long-live-the-chip-king"
+      "title": "索金谈好莱坞眼中的美国政治",
+      "summary": "《社交网络》编剧、奥斯卡得主艾伦·索金做客《纽约客》节，与泰勒·福加特同台对话，探讨好莱坞如何塑造美国政治形象。",
+      "url": "https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics"
     },
     {
-      "id": "97c06055604e20bd41dde79602bb79dc3e258b8570e72283dff2b72941ce3f03",
+      "id": "2657378cc9a01249adc524ec8c2eca2573ef67dd9b1b0ebd8faee20c51ba5312",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "AI天然气发电热潮与意识现实检验",
-      "summary": "数据中心接入电网审批漫长，科技巨头转向自建天然气发电厂为AI供电，同时科学家对机器意识提出理性检验。",
-      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+      "title": "数据中心推动美国天然气繁荣",
+      "summary": "AI数据中心激增的电力需求正推动美国天然气消费大幅增长，验证了此前关于AI将使我们对天然气持续依赖的预测。尽管理论上可用可再生能源满足全球电力需求，但现实趋势显示天然气正成为数据中心的主要能源来源。",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
     },
     {
-      "id": "11304642d4ef0ee9b5604991ff44d8c01746500ac72abb0a02d8666ca75f555e",
+      "id": "d7b28b808e94d828093f014802e22eeb767a71557fe7cdf7d21bf136bc8ca687",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "黄仁勋重返英伟达董事会引争议",
-      "summary": "耶鲁大学索南菲尔德警告，黄仁勋在白宫支持下重返英伟达担任CEO兼董事，可能是一个巨大错误，使董事面临“历史性”个人责任风险，并质疑美国是否在庆祝一家帮助将先进芯片送入对手之手的公司。",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+      "title": "标普考虑因治理与“关键人物”风险下调英伟达信用评级",
+      "summary": "标普或下调英伟达信用评级至AA-，为第四高评级，理由涉及公司治理及“关键人物”风险。",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
     }
   ]
 }
