@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-26T08:19:46Z",
-  "reportDate": "2026-11-26",
+  "generatedAt": "2026-11-27T08:35:54Z",
+  "reportDate": "2026-11-27",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
@@ -10,56 +10,56 @@
       "category": "生态与鸟类",
       "source": "Nature Ecology",
       "title": "新型放射虫化石发现",
-      "summary": "研究者意外发现放射虫新种Spongolivella ellipsoides，相关成果发表于《自然-生态与演化》。",
+      "summary": "Sophie Westacott意外发现放射虫新种Spongolivella ellipsoides，相关成果发表于《自然-生态与演化》。",
       "url": "https://www.nature.com/articles/s41559-026-03243-7"
     },
     {
-      "id": "5c3dccd510440a80694d44e63583d0800527a90b479e3813137de939401019a5",
+      "id": "3a5c9166e16e27f35ecb7caa22f23bb45a09de176696daff100a5d5ed3da42f9",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "红海深处发现神秘湖泊",
-      "summary": "科学家在红海海底一英里多处发现罕见的“卤水池”，这些极端高盐、无氧的环境竟富含微生物，挑战了生命生存极限的认知，或有助于揭示地球古海洋的秘密及外星生命存在的可能性。",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+      "title": "恐龙灭绝后出现的巨型角兽，雌雄差异可能远小于此前认知，挑战经典性二态案例。",
+      "summary": "（无进一步摘要）",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm"
     },
     {
-      "id": "be54e905a796b4cee0cd01426abfd367a24a103d3316a9af411ae0aa6acd28d0",
+      "id": "2eccc11da40e85e306dcd3335ba0a3c0f14cddae85ca3b8c6ccdc086407f139a",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "美国宣布对包括中国在内的多国加征新关税",
-      "summary": "美国宣布对多个国家加征新关税，涉及中国和欧盟等主要贸易伙伴。",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+      "title": "泽连斯基批评特朗普与普京“奇怪”友谊",
+      "summary": "泽连斯基在BBC采访中表达对美不满，称美国在结束战争的和平谈判中对俄施压不足，并批评特朗普与普京之间“奇怪”的友谊。",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "79a742bf6060f6d76ba18fe14f1ff9b612f6a5fb9acc2de7371395fb4f02952c",
+      "id": "3e661081110cc703642032f8d9408241ee4838af8b021b1a95bf0c38fb631bd1",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "安乐死中的温情告别",
-      "summary": "兽医以同情与关怀，帮助辛迪温柔地与她年迈的爱犬菲奥娜做最后的告别。",
-      "url": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog"
+      "title": "黎巴嫩建筑师莉娜·戈特梅：未来的考古学",
+      "summary": "黎巴嫩建筑师莉娜·戈特梅将过去的伤痕融入面向未来的韧性建筑设计中，以历史的痕迹塑造可持续的建筑未来。",
+      "url": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal"
     },
     {
-      "id": "bc881e079a98291f9e8ccb5dcb8f605bd6f5622e25a792cadb55a446e9319125",
+      "id": "2d3012250dcc41599e1d27d907c0c79df3bd5df49a63e6288286dabcb1b0a520",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "索金谈好莱坞眼中的美国政治",
-      "summary": "《社交网络》编剧、奥斯卡得主艾伦·索金做客《纽约客》节，与泰勒·福加特同台对话，探讨好莱坞如何塑造美国政治形象。",
-      "url": "https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics"
+      "title": "痛苦跑者：游行封路绕行多跑两英里。",
+      "summary": "（无进一步摘要）",
+      "url": "https://www.newyorker.com/humor/shouts-murmurs/the-many-faces-of-running"
     },
     {
-      "id": "2657378cc9a01249adc524ec8c2eca2573ef67dd9b1b0ebd8faee20c51ba5312",
+      "id": "feeb9fd3109e665aabdcbf69eb31aaa3e85aaf641389e74e97cf4820f42a04c5",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "数据中心推动美国天然气繁荣",
-      "summary": "AI数据中心激增的电力需求正推动美国天然气消费大幅增长，验证了此前关于AI将使我们对天然气持续依赖的预测。尽管理论上可用可再生能源满足全球电力需求，但现实趋势显示天然气正成为数据中心的主要能源来源。",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+      "title": "仿生手新突破与AI天然气热潮",
+      "summary": "新一代仿生手已问世，具备触觉感知能力。少年时失去左手的Avi Davidson曾更换多款假肢，其最新款仿生手通过神经接口实现真实触感反馈。与此同时，AI算力需求激增正推动天然气发电迎来新一轮繁荣。",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
     },
     {
-      "id": "d7b28b808e94d828093f014802e22eeb767a71557fe7cdf7d21bf136bc8ca687",
+      "id": "979e22972f743c1451fecf671f23348cdaf00d2fc2265c59a52b630be4da88ee",
       "category": "AI 与科技",
       "source": "TechCrunch",
-      "title": "标普考虑因治理与“关键人物”风险下调英伟达信用评级",
-      "summary": "标普或下调英伟达信用评级至AA-，为第四高评级，理由涉及公司治理及“关键人物”风险。",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+      "title": "英伟达暂停向东南亚发货芯片",
+      "summary": "英伟达已通知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运服务器，原因是美国加大力度阻止AI芯片流入中国。",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
     }
   ]
 }
