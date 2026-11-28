@@ -1,64 +1,64 @@
 {
   "schemaVersion": 1,
   "sourceApp": "RSS-GPT",
-  "generatedAt": "2026-11-27T08:35:54Z",
-  "reportDate": "2026-11-27",
+  "generatedAt": "2026-11-28T07:51:17Z",
+  "reportDate": "2026-11-28",
   "timeZone": "Asia/Shanghai",
   "items": [
     {
-      "id": "09135de15be1500cd914fb9397ee830d4ea818259beb411c1a389748a424318a",
+      "id": "5f89b5c5da08fef946afb0bb51da5ec4ca1fd71ace5cec2f8f1394932361ab5a",
       "category": "生态与鸟类",
       "source": "Nature Ecology",
-      "title": "新型放射虫化石发现",
-      "summary": "Sophie Westacott意外发现放射虫新种Spongolivella ellipsoides，相关成果发表于《自然-生态与演化》。",
-      "url": "https://www.nature.com/articles/s41559-026-03243-7"
+      "title": "全球森林结构地图数据集发布",
+      "summary": "《自然-生态与进化》在线发表一套统一的全球激光雷达数据集，可用于量化全球木本生态系统结构，为相关研究提供新机遇。",
+      "url": "https://www.nature.com/articles/s41559-026-03228-6"
     },
     {
-      "id": "3a5c9166e16e27f35ecb7caa22f23bb45a09de176696daff100a5d5ed3da42f9",
+      "id": "8ac033fb31a1e35f23674c66f1d891d9a7ef1d93c02cf23721e85ba0a51eae1f",
       "category": "生态与鸟类",
       "source": "Science Daily Ecology",
-      "title": "恐龙灭绝后出现的巨型角兽，雌雄差异可能远小于此前认知，挑战经典性二态案例。",
-      "summary": "（无进一步摘要）",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm"
+      "title": "独角鲸“独角”暗藏工程奇迹",
+      "summary": "科学家用先进X射线技术发现，独角鲸标志性的螺旋长牙内部存在两条方向相反的微观螺旋结构，展现出非凡的自然工程特性。",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
     },
     {
-      "id": "2eccc11da40e85e306dcd3335ba0a3c0f14cddae85ca3b8c6ccdc086407f139a",
+      "id": "65e067513a05324abc8865e4a8d89565db1e4f2d8d7ecc8a9127e181bf06d7d5",
       "category": "国际新闻",
       "source": "BBC News World",
-      "title": "泽连斯基批评特朗普与普京“奇怪”友谊",
-      "summary": "泽连斯基在BBC采访中表达对美不满，称美国在结束战争的和平谈判中对俄施压不足，并批评特朗普与普京之间“奇怪”的友谊。",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+      "title": "西班牙首相与对手最后拉票",
+      "summary": "西班牙首相桑切斯试图在民调落后情况下逆转选情，其主要对手指责他隐瞒真相并称其“背叛”。",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "3e661081110cc703642032f8d9408241ee4838af8b021b1a95bf0c38fb631bd1",
+      "id": "608475b166cb82a6a350c31ba44fccd3cd2971c3267d5a2b5231f927ca8343ce",
       "category": "人文社会",
       "source": "Aeon Essays",
-      "title": "黎巴嫩建筑师莉娜·戈特梅：未来的考古学",
-      "summary": "黎巴嫩建筑师莉娜·戈特梅将过去的伤痕融入面向未来的韧性建筑设计中，以历史的痕迹塑造可持续的建筑未来。",
-      "url": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal"
+      "title": "思维的能量",
+      "summary": "心智运作模型众多却忽视本质，两位作者在Aeon撰文探讨思维能量这一被忽略的核心要素。",
+      "url": "https://aeon.co/essays/all-our-models-of-how-the-mind-functions-are-missing-something"
     },
     {
-      "id": "2d3012250dcc41599e1d27d907c0c79df3bd5df49a63e6288286dabcb1b0a520",
+      "id": "be85ae796ec0347d5264ac318734b4415bc2d62883154759add980912230dabe",
       "category": "人文社会",
       "source": "The New Yorker",
-      "title": "痛苦跑者：游行封路绕行多跑两英里。",
-      "summary": "（无进一步摘要）",
-      "url": "https://www.newyorker.com/humor/shouts-murmurs/the-many-faces-of-running"
+      "title": "古德曼谈《罗斯安》、科恩兄弟与新片",
+      "summary": "演员古德曼与舒尔曼对话，回顾其塑造的经典夸张角色，并坦承抑郁曾致多年酗酒。",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/john-goodman-on-roseanne-the-coen-brothers-and-digger"
     },
     {
-      "id": "feeb9fd3109e665aabdcbf69eb31aaa3e85aaf641389e74e97cf4820f42a04c5",
+      "id": "333aea681f20594a2b85f4f1bee3105724527c90ad734d25b90196b25c5b0b4e",
       "category": "AI 与科技",
       "source": "MIT Tech Review",
-      "title": "仿生手新突破与AI天然气热潮",
-      "summary": "新一代仿生手已问世，具备触觉感知能力。少年时失去左手的Avi Davidson曾更换多款假肢，其最新款仿生手通过神经接口实现真实触感反馈。与此同时，AI算力需求激增正推动天然气发电迎来新一轮繁荣。",
-      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+      "title": "2027年35岁以下创新者提名开启",
+      "summary": "MIT科技评论启动2027年“35岁以下创新者”评选，征集全球杰出年轻科学家、企业家和发明家提名；同时报道一项仿生窗口技术，可实时观测大脑活动，为神经科学研究提供新工具。",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
     },
     {
       "id": "979e22972f743c1451fecf671f23348cdaf00d2fc2265c59a52b630be4da88ee",
       "category": "AI 与科技",
       "source": "TechCrunch",
       "title": "英伟达暂停向东南亚发货芯片",
-      "summary": "英伟达已通知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运服务器，原因是美国加大力度阻止AI芯片流入中国。",
+      "summary": "英伟达已通知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚运送服务器，原因是美国加大力度阻止AI芯片流入中国。",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
     }
   ]
